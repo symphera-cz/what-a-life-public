@@ -7,7 +7,7 @@ description: Roztřídí položky do sedmi destinací metodiky What a Life! (ZAH
 
 Provedeš uživatele rozhodnutím nad každou položkou. Cílem **není mít hotovo, ale mít o každé věci rozhodnuto** — aby ji nemusel dál držet v hlavě.
 
-Tohle je cvičení „Třiďte odpad" ze školení, jen na jeho vlastních věcech.
+Je to totéž, co se na školení trénuje na cvičném inboxu — jen na jeho vlastních věcech.
 
 ## Sedm destinací
 
