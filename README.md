@@ -37,6 +37,15 @@ Ve čtvrtém kroku s vámi asistent projde vaše nástroje, navrhne strukturu a 
 
 Kdo se k marketplace nedostane, najde hotové ZIPy jednotlivých skills ve složce [`dist/`](dist) — **Customize → Skills → Upload**.
 
+### ChatGPT a M365 Copilot
+
+Plugin je Claude formát, jinam nejde. Pro ostatní platformy je celý balíček složený **do jednoho souboru**: [`dist/wal-balicek-jeden-soubor.md`](dist/wal-balicek-jeden-soubor.md) — pravidla i všech jedenáct postupů pohromadě.
+
+- **ChatGPT** — nahrajte ten soubor mezi soubory projektu a do *Instructions* dejte krátký odkaz na něj (přesné znění je v hlavičce souboru). Asistent si v něm postup najde sám.
+- **Copilot** — vložte obsah souboru na začátek konverzace a pokračujte v ní.
+
+Automatické rozpoznání situace je tam slabší než u pluginu na Claude, ale balíček zůstává celý.
+
 ## Workflow
 
 | Skill | Blok metodiky | Spustí se, když… |

@@ -65,24 +65,29 @@ Mělo by se spustit vedené vysypání hlavy. Když se nespustí, viz Potíže n
 
 ## B · ChatGPT
 
-1. **Projects → nový projekt → Instructions** — vložte `instructions/01-agent.md` a pod to vyplněnou nástrojovou vrstvu.
-2. Workflow nahrajte přes **Plugin Directory**, pokud k němu máte přístup. Není-li dostupné, **vložte obsah nejpoužívanějších SKILL.md rovnou do Instructions** — bude to fungovat, jen delší instrukce.
+Plugin sem nejde — je to formát Claude. Ale celý balíček máte v jednom souboru, takže o nic nepřijdete.
 
-Doporučuji začít se třemi: `wal-protrid-schranku`, `wal-rozpad-projektu`, `wal-konstruktivni-ano`.
+1. **Projects → nový projekt.**
+2. Mezi soubory projektu nahrajte **`dist/wal-balicek-jeden-soubor.md`**. Jsou v něm pravidla i všech jedenáct postupů.
+3. Do *Instructions* vložte jen tohle:
+
+   > Řídím se metodikou What a Life! Kompletní pravidla i všechny postupy máš v přiloženém souboru `wal-balicek-jeden-soubor.md`. Než odpovíš, podívej se do něj — část A jsou pravidla, která platí pořád, část B jsou postupy pro konkrétní situace. Sám poznej, který postup se hodí, a řiď se jím. Nikdy mi nevypisuj seznam postupů a nečekej, až si o některý řeknu jménem.
+
+4. Pak pokračujte třetím krokem cesty A — *„pojďme nastavit systém"* — a výslednou nástrojovou vrstvu přidejte do Instructions.
+
+Rozpoznávání situace je tu o něco slabší než na Claude. Když asistent postup nenajde sám, stačí říct „podívej se do toho souboru".
 
 ---
 
 ## C · Microsoft 365 Copilot
 
-Copilot zatím **neumožňuje běžnému uživateli instalovat vlastní workflow** — jde to jen přes firemní IT.
+Copilot **neumožňuje běžnému uživateli instalovat vlastní workflow** — jde to jen přes firemní IT. Zbývá vkládání textu.
 
-Co funguje bez nich:
 1. Otevřete Copilot Chat.
-2. Na začátek konverzace vložte obsah `instructions/01-agent.md`.
-3. Pod to přidejte SKILL.md toho workflow, které zrovna potřebujete.
-4. **Pokračujte v téže konverzaci** — jakmile ji zavřete, kontext se ztratí.
+2. Na začátek konverzace vložte obsah **`dist/wal-balicek-jeden-soubor.md`**.
+3. **Pokračujte v téže konverzaci** — jakmile ji zavřete, kontext se ztratí a musíte ho vložit znovu.
 
-Nepohodlné, ale funkční. Pokud máte i soukromý účet Claude nebo ChatGPT, použijte radši ten — ale **jen na soukromá data**.
+Nepohodlné, ale funkční, a máte celý balíček. Pokud máte i soukromý účet Claude nebo ChatGPT, použijte radši ten — ale **jen na soukromá data**.
 
 ### Kam patří jaká data
 
