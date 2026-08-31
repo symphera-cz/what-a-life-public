@@ -1,0 +1,21 @@
+{
+  "name": "symphera",
+  "owner": {
+    "name": "Symphera s.r.o.",
+    "email": "info@symphera.com"
+  },
+  "metadata": {
+    "description": "Plugins Symphery pro aplikaci školicích metodik."
+  },
+  "plugins": [
+    {
+      "name": "what-a-life",
+      "source": "./plugins/what-a-life",
+      "description": "Jedenáct workflow pro aplikaci metodiky What a Life! — vysypání hlavy, třídění do sedmi destinací, rozpad projektu, prioritizace, konstruktivní Ano, plánování týdne, review, návyky, energie, role a vize.",
+      "version": "0.3.0",
+      "author": {
+        "name": "Symphera s.r.o."
+      }
+    }
+  ]
+}
