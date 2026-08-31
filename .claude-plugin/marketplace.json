@@ -1,11 +1,11 @@
 {
-  "name": "symphera",
+  "name": "symphera-public",
   "owner": {
     "name": "Symphera s.r.o.",
     "email": "info@symphera.com"
   },
   "metadata": {
-    "description": "Plugins Symphery pro aplikaci školicích metodik."
+    "description": "Veřejné plugins Symphery k metodice What a Life!"
   },
   "plugins": [
     {
