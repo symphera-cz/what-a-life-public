@@ -44,7 +44,7 @@ Metodika ho jmenuje výslovně: *„Bloky + Rezervy + Blok pro sebe."* Zeptej se
 ## Pravidla
 
 - **Nesestavuj denní to-do listy.** Metodika je zakazuje. Dnešek se vyjadřuje bloky, ne seznamem.
-- **Do kalendáře nezapisuj sám** — ukaž návrh, uživatel si ho vloží nebo potvrdí.
+- **Do kalendáře nezapisuj bez potvrzení.** Ukaž návrh bloků; když ho uživatel odsouhlasí a ty máš přístup ke kalendáři, založ je. Když přístup nemáš, dej mu je tak, aby se daly vložit na jeden zátah.
 - Nepočítej čas z hlavy. Když říkáš „příští čtvrtek", ověř si datum.
 - Když uživatel plánuje sedmý týden v řadě bez jediného bloku pro jednu ze svých rolí, zmiň to. Jednou, bez moralizování.
 

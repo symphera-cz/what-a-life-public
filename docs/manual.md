@@ -15,13 +15,13 @@ Vložíte seznam věcí — roztřídí je do **sedmi destinací**, které máte
 
 Nic si nepamatujete, nic nekopírujete. Jen mluvíte.
 
-## Co to naopak neumí — a nebude
+## K čemu má přístup
 
-- **Nesahá na vaše maily, kalendář ani úkoly.** Nemá k nim přístup a mít nebude.
-- **Nic nikam sám nezapíše.** Vždycky ukáže návrh, vy rozhodnete.
-- **Nic vám neposílá.** Žádné notifikace, žádné připomínky. Přijdete, když chcete vy.
+**Nic k vašim datům si sám nepřipojí.** Jestli asistent uvidí váš kalendář, maily nebo úkoly, si nastavujete vy u svého poskytovatele AI. My do toho nevstupujeme a ani nemůžeme.
 
-To není nedodělek, je to záměr. Systém, který vám leze do mailu, vám neschválí IT — a systém, který vás upomíná, si za tři týdny ztlumíte.
+**Když ten přístup má, ať ho využije.** Zapsat úkol rovnou do vašeho seznamu je přesně to, o co jde — čím míň přepisování, tím spíš vám systém vydrží. Pravidlo není „nezapisuj", ale **ukaž návrh, počkej na potvrzení, pak zapiš**. Co přesně smí dělat sám, si zvolíte při nastavování systému.
+
+**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na review si dáváte do kalendáře sami.
 
 ---
 

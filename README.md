@@ -14,13 +14,15 @@ Vložíte seznam věcí — roztřídí je do **sedmi destinací**.
 Řeknete *„nemůžu se do toho pustit"* — najde s vámi první krok.
 Řeknete *„přistálo mi tohle a nemám čas"* — napíše tři varianty **konstruktivního Ano**.
 
-## Co naopak neumí — a nebude
+## K čemu má přístup
 
-- **Nesahá na vaše maily, kalendář ani úkoly.** Nemá k nim přístup a mít nebude.
-- **Nic nikam sám nezapíše.** Vždycky ukáže návrh, vy rozhodnete.
-- **Nic vám neposílá.** Žádné notifikace. Přijdete, když chcete vy.
+**Plugin sám nepřidává žádné připojení k vašim datům.** Jestli asistent uvidí váš kalendář, maily nebo úkoly, si nastavujete vy u svého poskytovatele AI — konektory, integrace, firemní politika. My do toho nevstupujeme.
 
-To není nedodělek. Systém, který vám leze do firemního mailu, vám neschválí IT — a systém, který vás upomíná, si za tři týdny ztlumíte.
+**Když ten přístup má, ať ho používá.** Zapsat úkol rovnou do vašeho seznamu je přesně to, o co jde — čím míň přepisování a překlikávání, tím spíš vám systém vydrží. Pravidlo není „nezapisuj", ale **ukaž návrh, počkej na potvrzení, pak zapiš**.
+
+Co si nastavíte, patří do vaší **nástrojové vrstvy** — je tam k tomu sekce „Co smí agent sám". Výchozí je opatrná varianta, ale je to vaše volba, ne naše.
+
+**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na review si dáváte do kalendáře sami — metodika ostatně učí, že priorita bez bloku je jen zbožné přání.
 
 ## Instalace
 

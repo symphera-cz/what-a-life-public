@@ -42,7 +42,7 @@ Tabulka jen tehdy, když je položek víc než deset. Nikdy nepřidávej sloupce
 - **Příští akce musí být fyzicky proveditelná činnost.** Sloveso, které jde vidět. Zakázané: *zamyslet se, vyřešit, zabývat se, projít si, dát dohromady, připravit se.*
 - **Nic si nepřidávej.** Pracuj jen s tím, co uživatel napsal.
 - Když je položek víc než 15, ber je **po dávkách po 15** a mezi dávkami se zastav.
-- **Nezapisuj nikam nic** bez potvrzení. Tohle je návrh, ne provedení.
+- **Nezapisuj nic bez potvrzení.** Nejdřív ukaž celé roztřídění. Když ho uživatel odsouhlasí a ty máš přístup k jeho nástrojům, zapiš to tam za něj — o to jde. Bez přístupu mu to dej v podobě, kterou snadno přepíše.
 
 ## Na konci
 

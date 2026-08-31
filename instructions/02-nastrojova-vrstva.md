@@ -56,7 +56,9 @@ Kam všude mi věci padají. Metodika chce **co nejmenší počet úložišť** 
 
 ## Co smí agent dělat sám
 
-Zaškrtni. **Výchozí stav je „nic bez potvrzení".**
+Tohle je moje volba, ne omezení produktu — plugin sám žádné připojení k datům nepřidává. Když mám konektory nastavené, je **žádoucí, aby agent zapisoval**: čím míň ručního přepisování, tím spíš mi systém vydrží.
+
+Zaškrtni, co má číst a kam smí zapisovat. **U zápisu platí vždy: ukaž návrh → potvrdím → zapiš.**
 
 - [ ] Číst můj kalendář
 - [ ] Číst mé úkoly
