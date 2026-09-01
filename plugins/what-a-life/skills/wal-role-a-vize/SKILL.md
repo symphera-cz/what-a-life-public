@@ -78,9 +78,9 @@ U každé role: **jak vypadá dobře odvedená tahle role za tři až pět let?*
 
 Ne cíle, ne metriky. **Obraz cílového stavu.** *„Děti za mnou chodí samy, když mají problém."*
 
-### Tři cvičení, která vizi otevírají
+### Dvě cvičení, která vizi otevírají
 
-Princip **„Začněme s myšlenkou na konec"** — podívat se na dnešek z odstupu. **Nabídni jedno cvičení, ne všechna tři.**
+Princip **„Začněme s myšlenkou na konec"** — podívat se na dnešek z odstupu. **Nabídni jedno cvičení, ne obě.**
 
 **Oslava 80. narozenin** — tohle je výchozí varianta
 *„Je ti osmdesát, sedí u stolu lidé, na kterých ti záleží, a každý má krátký přípitek. Co v nich zazní? Kdo tam vůbec sedí?"*
@@ -102,7 +102,7 @@ Neber všech sedm rolí naráz — jedna, dvě za sezení. Kvalita padá strmě.
 
 ## Cíle
 
-Teprve tady. Odvozené z vizí, ne ze seznamu přání. U každého cíle se ptej, **ke které roli a vizi patří**. Cíl bez role je bezdomovec a nepřežije.
+Teprve tady. Odvozené z vizí, ne ze seznamu přání. U každého cíle se ptej, **ke které roli a vizi patří**. Cíl, který se nedá k žádné roli přiřadit, je signál — buď chybí role, nebo ten cíl není můj.
 
 ---
 

@@ -1,131 +1,108 @@
-# What a Life! — operativní shrnutí metodiky
+# Glosář — pojmy metodiky What a Life!
 
-Zkrácený, veřejný výtah. Obsahuje **jen to, co potřebuje agent k tomu, aby mluvil stejným jazykem jako školení** — destinace, testy a pravidla.
+**Vrstva 1.** Slovník pojmů, které používá školení a které agent musí znát pod stejnými jmény. **Není to výklad metodiky** — ten patří ke kurzu a do materiálů, které dostanete v sále.
 
-**Nezahrnuje** výklad, příběhy, cvičení, doslovné citace slidů ani školicí materiály. Ty jsou součástí kurzu.
+> **Proč jen glosář.** Do verze 0.7 tu byla celá rekonstruovaná metodika. Rozešla se se skilly — držela zrušené názvy bloků a vymyšlené popisky kvadrantů — a stala se z ní past: kdo si ji přečetl, hádal se pak s agentem. Pojmy se rozejít nemůžou, protože se nemění. Výklad ano, a proto tady není.
+>
+> Zdroj pravdy pro chování agenta je `instructions/01-agent.md` a jednotlivé skilly. Zdroj pravdy pro metodiku je přepis školení.
 
-> Metodika **What a Life!** (Symphera s.r.o., autor Martin Klusoň). Podtitul knihy: *Od Time Managementu k Life Managementu*.
-> Absolventům školení doporučujeme držet se materiálů ze sálu — tenhle dokument je jejich zkratka, ne náhrada.
+Autor metodiky: **Martin Klusoň** (Symphera s.r.o.).
 
 ---
 
 ## Osm bloků
 
-1. **BELIEVE IT** — mám moc nad svým životem, jsem autor, ne oběť.
-2. **DREAM IT** — mise, role, vize pro roli, cíle.
-3. **COLLECT IT** — všechno ven z hlavy do jedné schránky.
-4. **ORGANIZE IT** — každou věc rozhodnout do jedné ze sedmi destinací.
-5. **PRIORITIZE IT** — pořadí podle důležitosti, ne naléhavosti.
-6. **PLAN AND DO IT** — velké kameny do kalendáře, pak práce.
-7. **MAKE IT A HABIT** — prostředí a návyky místo vůle.
-8. **HAVE ENERGY FOR IT** — tělo, mysl, vztahy, smysl.
+| Blok | O čem je |
+|---|---|
+| **OWN IT** | Mám moc nad svým životem. Jsem autor, ne oběť. |
+| **DREAM IT** | Role, mise, vize pro roli, cíle. |
+| **COLLECT IT** | Všechno ven z hlavy na jedno místo. |
+| **ORGANIZE IT** | Každou věc rozhodnout do jedné ze sedmi destinací. |
+| **PRIORITIZE IT** | Pořadí podle důležitosti, ne naléhavosti. |
+| **PLAN IT** | Velké kameny do kalendáře, pak teprve zbytek. |
+| **MAKE IT A HABIT** | Prostředí a návyky místo vůle. |
+| **HAVE ENERGY FOR IT** | Bez energie je plán k ničemu. |
 
-## Mise vs. vize
-
-- **MISE** — vyjádření smyslu a účelu existence. Proč a k čemu něco existuje, co chce dělat a co umí.
-- **VIZE** — představa žádoucího budoucího cílového stavu.
-
-Mise je můj přínos a co čekám od života; vize je, jak to tam konkrétně bude vypadat. **Mise se mění pomalu, vize rychle.**
-
-Mise se staví postupně: **hodnoty → dary → vášně → mise**. Poslání má reflektovat dary a vášně — tam je člověk nejsilnější.
-
-Vizi otevírá princip *„Začněme s myšlenkou na konec"* — podívat se na dnešek z odstupu celého života.
+> Dřívější názvy **BELIEVE IT** a **PLAN AND DO IT** se už nepoužívají. Kdyby na ně někdo narazil ve starších materiálech, jde o OWN IT a PLAN IT.
 
 ## Šest horizontů
 
-**Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity**
+**Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity.**
 
-DREAM IT řeší horní čtyři. COLLECT až PLAN AND DO řeší spodní dva.
+Je to **mapa, ne pracovní pořadí.** Ve školení se postupuje nejdřív rolemi, pak misí pro každou z nich, pak vizí a teprve nakonec cíli.
 
-Pořadí, na kterém metodika stojí: **prioritám přidělujeme úkoly, ne úkolům priority.**
+## Sedm destinací
 
-## COLLECT IT
-
-- **Zachytit, netřídit.**
-- **Co nejmenší počet úložišť** — ideálně jedno, maximálně dvě. Systému se musí věřit.
-- **Okamžitě poznamenat.** Nespoléhat na paměť.
-- Spouštěče zachycení: po schůzce, při odchodu, před spaním, při nápadu, po slibu.
-- **Role a hodnoty jsou první filtr** — rychlé ANO/NE ještě před sběrem. Zařazení do destinace je až druhý filtr.
-
-## ORGANIZE IT — sedm destinací
-
-Každá věc jde právě do jedné z nich. **Toto je závazné názvosloví.**
+Rozhodnutí, kam věc patří. Každá věc jde právě do jedné.
 
 | Destinace | Kdy |
 |---|---|
-| **ZAHOĎ** | Nepotřebuju to. |
-| **UDĚLEJ HNED** | Méně než 2 minuty práce. Nezapisuje se, udělá se. |
+| **ZAHOĎ** | Nepotřebuju to. Nezanechá záznam. |
+| **UDĚLEJ HNED** | Míň než dvě minuty. Nezapisuje se, udělá se. |
 | **DELEGUJ** | Patří někomu jinému. Zapíšu si, na co čekám a od koho. |
-| **ZALOŽ** | Nic se nedělá, jen to chci uchovat. |
-| **DEJ DO KALENDÁŘE** | Vázané na čas nebo den, nebo si na to potřebuju vyhradit blok. Patří sem i „připomeň mi v sobotu". |
-| **PROJEKT** | Musím to nejdřív rozmyslet. |
-| **PRIORITIZUJ** | Konkrétní jednotlivý úkol → na seznam úkolů a přidělit prioritu. |
+| **ZALOŽ** | Nic se nedělá, jen to chci uchovat. I věci, které chci „někdy" a nemají datum. |
+| **DEJ DO KALENDÁŘE** | Vázané na čas nebo den, nebo si na to chci vyhradit blok. |
+| **PROJEKT** | Chystám se to dělat a je to na víc kroků. |
+| **PRIORITIZUJ** | Konkrétní úkol, nebo záměr, který ještě nezačínám. |
 
-Dvě pravidla:
-- **Každou věc organizuju pouze jednou.** Nevrací se zpátky do schránky.
-- Do schránky nekoukám „jen tak". Když ji otevřu, zpracuju ji.
+**Destinace ≠ úložiště.** Destinace je rozhodnutí, úložiště je místo, kde věc fyzicky skončí. Kam co ukládá konkrétní člověk, je v jeho nástrojové vrstvě.
 
-**Destinace ≠ úložiště.** Destinace je rozhodnutí (proces), úložiště je místo, kde věc skončí. ZAHOĎ a UDĚLEJ HNED nezanechají žádný záznam.
+## Matice čtyř kvadrantů
 
-### Projekt vs. úkol
-
-Test: **„Musím to rozmyslet, nebo to jen udělám?"** — ne počet kroků.
-
-- **Úkol** je jeden konkrétní krok. Nemusí mít datum.
-- **Projekt** má výsledek, nemá datum, a vždy jednu příští konkrétní akci.
-- **Projekt bez příští konkrétní akce je jen přání.**
-
-## PRIORITIZE IT
-
-Řídí **důležitost, ne naléhavost**. Naléhavost křičí, důležitost tiše čeká.
-
-Matice čtyř kvadrantů, názvy podle metodiky:
+Znění je ze slidu, který má účastník na plakátu.
 
 | | Urgentní | Neurgentní |
 |---|---|---|
-| **Důležité** | „sem bohužel musím" | **„tady chci bydlet pořád"** |
-| **Nedůležité** | „tady ani omylem" | „občas se tu rád zastavím" |
+| **Důležité** | „Trávit co nejméně času" | „Sem je třeba se natlačit" |
+| **Nedůležité** | *(prázdný)* | „Sem pouze plánovaně" |
 
-- **Posteriority:** priorita bez rozhodnutí, co dělat *nebudu*, není skutečná priorita.
-- **Konstruktivní Ano** místo strohého ne — nabídnout, za jakých podmínek to jde. *Neodmítám člověka, chráním prioritu.*
-- Odmítnout se smí i **kvalita**, nejen celý úkol.
+**Q3 je na slidu prázdný záměrně.** Delegování se řeší už o krok dřív, v ORGANIZE IT — do matice se to tedy vůbec nedostane.
 
-## PLAN AND DO IT
+## Pojmy
 
-- Do kalendáře patří **jen skutečně časově nebo denně vázané položky** a vědomě vyhrazené bloky. Všechno ostatní na seznam úkolů.
-- **Denní to-do listy se nepoužívají** — dnešek se vyjadřuje bloky v kalendáři.
-- **Priorita, která nemá blok v kalendáři, je jen zbožné přání.**
-- **Balvany → kameny → písek.** Nejdřív velké bloky ze všech rolí, pak schůzky, pak drobnosti.
-- **Rezerva** = kapacita záměrně nechaná volná. **Záchytný blok** = předem určené místo pro nečekanou nebo nedokončenou práci. Kalendář se neplánuje na 100 %.
-- **Mimochodem** — využívat přechody a situace, které stejně nastanou, místo dalšího bloku.
-- **Synergie** — spojovat priority, které se navzájem podporují. *Synergie není multitasking.*
-- **Definice hotovo** — cílová čára se nemá během práce posouvat.
+**Mise** — můj přínos a co čekám od života. Vzniká postupem hodnoty → dary → vášně → mise.
 
-## Review
+**Role** — životní role, ve kterých se pohybuju. První filtr, podle kterého se všechno ostatní třídí.
 
-Tři úrovně:
+**Vize pro roli** — jak vypadá dobře odvedená role za tři až pět let. Obraz cílového stavu, ne metrika.
 
-1. **Strategická** (patří do DREAM IT) — revize mise, rolí, vizí a cílů. Minimálně jednou ročně.
-2. **Týdenní rituál** — uzavřít minulý týden, postavit příští. Co se povedlo, co ne, co přenést, co zahodit. **Tři rozhodující výsledky** převedené do bloků.
-3. **Průběžné vyprazdňování schránek.**
+**Cíl** — odvozený z vize, ne ze seznamu přání. Patří vždy k nějaké roli.
 
-Revize **není** návrat do schránky — pravidlo „organizuj jen jednou" tím není porušeno.
+**Vysypání hlavy (mind sweep)** — souvislé vyprázdnění hlavy na jeden zátah. Zachytit, netřídit.
 
-## Produktivita × efektivita
+**Schránka** — jedno místo, kam všechno padá, než se to rozhodne.
 
-- **Produktivita** = kolik toho zvládnu udělat.
-- **Efektivita** = jakou hodnotu ty výstupy mají.
+**Projekt** — má výsledek a vždy jednu příští konkrétní akci. Zakládá se, až se do věci chci pustit; dokud jsem nerozhodnutý, je to jedna řádka na seznamu úkolů.
 
-*Efektivita bez produktivity je prázdné snění, produktivita bez efektivity je smutná dřina.*
+**Příští konkrétní akce** — jeden fyzicky proveditelný krok. „Zavolat do servisu", ne „vyřešit auto".
 
-## AI v metodice
+**Velké kameny** — důležité věci ze všech rolí, které jdou do kalendáře jako první. Štěrk (drobnosti, maily) se vejde kolem nich sám.
 
-Metodika počítá s AI jako s asistentem, který obsluhuje systém — nikoli jako s náhradou úsudku. Zásady, které platí:
+**Rezerva** — kapacita záměrně nechaná volná. **Skrytá rezerva** — blok, který vypadá jako schůzka, ale je to čas pro mě.
 
-- AI nenahrazuje princip zachycování, jen ho usnadňuje.
-- Výstup AI je draft a násobič, ne rozhodnutí.
-- **Neautomatizovat chaos.**
+**Konstruktivní Ano** — odmítnutí nabídkou podmínek: ano jinak, ano později, ano za těchto podmínek. Odmítnout jde schůzka, práce, urgence i **kvalita**.
+
+**Studentský syndrom** — práce se roztáhne do času, který jí dáte. Když dáte míň, stihne se v podobné kvalitě.
+
+**Žába** — nepříjemná věc, kterou odkládám. Nakousnout, ne nutně sníst celou.
+
+**Synergie** — spojení dvou priorit tak, aby jedna nesnižovala kvalitu druhé. Není to multitasking.
+
+**Nástrojová vrstva** — osobní popis toho, kam co ukládám. Vzniká v rozhovoru s agentem, nesdílí se.
+
+## Pojmy z knihy, které ve školení nezazněly
+
+Používejte je jen vědomě a neoznačujte je za součást výkladu ze sálu.
+
+**posteriority** · **balvany** (výklad má jen kameny a štěrk) · **záchytný blok** (výklad má rezervy a skryté rezervy) · **tři rozhodující výsledky** · **VIVAX** · **zrcadlo, okno, dalekohled** v týdenním plánování
+
+## Tón a názvosloví
+
+- Názvy destinací se **nepřekládají ani neupravují** — účastník je má na plakátu.
+- **Týdennímu rituálu se neříká „review".** Ve školení je to plánování, které zároveň uzavírá minulý týden.
+- **Denní to-do list metodika nepoužívá.** Den se vyjadřuje bloky v kalendáři.
+- „Nemám čas" znamená „není to moje priorita".
 
 ---
 
-© Symphera s.r.o. Metodika What a Life! — Martin Klusoň.
+© Symphera s.r.o. · metodika What a Life! — Martin Klusoň
