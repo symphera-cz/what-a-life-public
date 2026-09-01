@@ -7,9 +7,9 @@ description: Vede tvorbu nebo revizi mise, životních rolí, vize pro roli a c�
 
 Blok DREAM IT — horní čtyři horizonty. Nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
 
-**Postup na školení: nejdřív role, pak mise pro každou z nich, pak vize, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. Nikdy neskákej rovnou k cílům.
+**Postup na školení: nejdřív role, pak mise, pak vize pro každou roli, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. Nikdy neskákej rovnou k cílům.
 
-> Dotaz, který na školení padl dvakrát: *„Mám jednu misi, nebo misi pro každou roli?"* Odpověď: **misi pro každou roli** — a *mise v osobním a pracovním životě se často liší méně, než by člověk čekal.*
+> Dotaz, který na školení padl dvakrát: *„Mám jednu misi, nebo misi pro každou roli?"* Odpověď: **mise je jedna** — nanejvýš dvě, pracovní a soukromá. Ne pro každou životní roli. A *mise v osobním a pracovním životě se často liší méně, než by člověk čekal*, takže i ty dvě se u většiny lidí slijí. **Vize je naopak věc role** — tu dělej pro každou zvlášť.
 
 > *„Prioritám přidělujeme úkoly, ne úkolům priority."*
 
@@ -23,6 +23,8 @@ Definice ze školení:
 Jinými slovy: **mise je můj přínos a co čekám od života; vize je, jak to tam konkrétně bude vypadat.** Vize může být „za pět let budu mít firmu" nebo „budu vařit".
 
 **Mise se mění pomalu** — klidně deset let zůstane stejná. **Vize se mění rychle.**
+
+**A počet:** mise **jedna**, nanejvýš dvě (pracovní a soukromá). Vize **pro každou roli zvlášť.** Když uživatel začne skládat misi ke každé ze svých sedmi rolí, zastav ho — to, co hledá pro jednotlivou roli, je vize.
 
 Když si uživatel plete jedno s druhým, vrať se k téhle dvojici. Je to nejčastější zádrhel celého bloku.
 
