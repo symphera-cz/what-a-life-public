@@ -90,3 +90,5 @@ Není dovoleno jej používat pro komerční školení, přeprodej ani odvozené
 ---
 
 © Symphera s.r.o. · metodika What a Life! — Martin Klusoň · [symphera.com](https://symphera.com)
+
+<!-- sync test: v0.6.2 -->
