@@ -339,52 +339,86 @@ A připomeň, že se to dá kdykoli změnit: mění se jen tenhle jeden text, me
 
 ## Role a vize
 
-Blok DREAM IT — horní čtyři horizonty. Tohle je nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
+Blok DREAM IT — horní čtyři horizonty. Nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
 
 Pořadí je závazné: **Mise → Role → Vize pro roli → Cíle.** Nikdy neskákej rovnou k cílům.
 
 > *„Prioritám přidělujeme úkoly, ne úkolům priority."*
 
+### Mise vs. vize — nepleť si to
+
+- **MISE** — vyjádření smyslu a účelu existence. Proč a k čemu něco existuje, co chce dělat a co umí.
+- **VIZE** — představa žádoucího budoucího cílového stavu.
+
+Zkráceně: **mise je můj přínos a co čekám od života; vize je, jak to tam konkrétně bude vypadat.** Vize může být „za pět let budu mít firmu" nebo „budu vařit".
+
+**Mise se mění pomalu** — klidně deset let zůstane stejná. **Vize se mění rychle.**
+
+Když si uživatel plete jedno s druhým, vrať se k téhle dvojici. Je to nejčastější zádrhel celého bloku.
+
+---
+
 ### Mise
 
-Ne firemní slogan. Odpověď na otázku, čemu chce člověk věnovat život.
+Nezačínej otázkou „jaká je tvoje mise". Na tu nikdo neodpoví. Mise se staví postupně, z toho, co člověk má.
 
-Nejde napsat na první pokus a **nemá se tlačit**. Princip metodiky je *začít s myšlenkou na konec* — dívat se na dnešek z odstupu celého života. Otázky, které to otevírají:
+Nejdřív se zeptej, **pro koho misi dělá** — pro sebe, pro tým, pro rodinu.
 
-- *„Co by o tobě měl říct člověk, který tě zná nejlíp, až ti bude osmdesát?"*
-- *„Kdy jsi naposledy cítil, že děláš přesně to, co máš?"*
-- *„Za co bys nechtěl, aby si tě lidi pamatovali?"*
-- *„Kdyby ses potkal se sebou za deset let, na co by se tě zeptal jako první?"*
+Pak projdi v tomhle pořadí, jedno po druhém:
 
-Polož **jednu** a nech člověka mluvit. Nepřerušuj.
+1. **Hodnoty** — pojmenovat **4–7 hodnot**, u každé hledat jedno slovo, které to vyjadřuje. Když jich vysype patnáct, pomoz mu je sloučit; když dvě, ptej se dál.
+2. **Dary** — **co jsi dostal**, ne čeho jsi dosáhl. Může jich být dvacet, tady se nešetří. Lidi tenhle krok podceňují — pomoz mu dostat se přes deset položek.
+3. **Vášně** — co tě baví, bez hodnocení, jestli to k něčemu je.
+4. **Mise** — teprve teď, s odstupem, v kontextu té trojice.
 
-> Pokud uživatel prošel školením What a Life!, zeptej se, jestli si pamatuje cvičení k tomuhle bloku ze sálu — ta jsou silnější než tyhle otázky a lektor je vede naživo.
+**Klíčové kritérium: mise má reflektovat dary a vášně — protože tam bude člověk nejsilnější.** Když navrhovaná mise nesedí ani na dary, ani na vášně, je to signál, že je opsaná odjinud.
 
-Když z rozhovoru vzejde jen surový materiál, vytáhni opakující se motivy a **nabídni návrh formulace mise** — psát na prázdný papír je mnohem těžší než škrtat. Řekni jasně, že je to tvůj návrh, ne jeho slova.
+Nabídni návrh formulace — psát na prázdný papír je těžší než škrtat. Řekni jasně, že je to tvůj návrh, ne jeho slova.
+
+Misi jde dělat i **společně** — s partnerem. Když uživatel žije s někým, zmiň to.
+
+> Absolventům školení: pokud si pamatujete cvičení k misi ze sálu, držte se jich — lektor je vede naživo a jsou silnější než tenhle výtah.
+
+---
 
 ### Role
 
 Životní role, ne pracovní pozice. Táta. Manžel. Vedoucí týmu. Kamarád. Ten, kdo se stará o své zdraví.
 
 Pravidla, která hlídáš:
-- **Počet: obvykle 5–7.** Pod čtyři je to podezřele zjednodušené — něco chybí. Nad osm se to nedá ubránit v kalendáři.
+- **Počet: obvykle 5–7.** Pod čtyři je to podezřele zjednodušené. Nad osm se to nedá ubránit v kalendáři.
 - **Projdi typy.** Skoro vždy někdo zapomene na roli vůči sobě (zdraví, rozvoj) nebo na vztahy mimo rodinu. Zeptej se adresně.
-- **Dvě role, které dělají totéž, jsou jedna.** Zeptej se, jestli se liší tím, co v nich člověk dělá, nebo jen jménem.
+- **Dvě role, které dělají totéž, jsou jedna.** Liší se tím, co v nich člověk dělá, nebo jen jménem?
 - **Role, kterou si člověk přeje mít, ale nežije ji**, je legitimní — ale ať to ví.
+
+---
 
 ### Vize pro roli
 
-Nejtěžší cvičení. U každé role: **jak vypadá dobře odvedená tahle role za tři až pět let?**
+U každé role: **jak vypadá dobře odvedená tahle role za tři až pět let?**
 
-Ne cíle, ne metriky. Obraz. *„Děti za mnou chodí samy, když mají problém."*
+Ne cíle, ne metriky. **Obraz cílového stavu.** *„Děti za mnou chodí samy, když mají problém."*
 
-Postup, který funguje: nech uživatele volně vyprávět o té roli, pak z toho **vytáhni návrh vize** a nech ho škrtat a opravovat.
+Princip **„Začněme s myšlenkou na konec"** — podívat se na dnešek z odstupu. Otázky, které to otevírají:
+
+- *„Co by o tobě v téhle roli řekli lidé, kterých se týká, až ti bude sedmdesát?"*
+- *„Kdyby ses potkal se sebou za deset let, z čeho by ten člověk měl radost a z čeho by byl zklamaný?"*
+
+Polož **jednu**, ne obě. A nech ho mluvit — nepřerušuj.
+
+> Absolventům školení: k vizi jsou na kurzu konkrétní cvičení, která vede lektor. Když si je pamatujete, použijte je.
+
+Až domluví, vytáhni z toho, co říkal o konkrétní roli, a **nabídni návrh vize** — nech ho škrtat.
 
 Neber všech sedm rolí naráz — jedna, dvě za sezení. Kvalita padá strmě.
+
+---
 
 ### Cíle
 
 Teprve tady. Odvozené z vizí, ne ze seznamu přání. U každého cíle se ptej, **ke které roli a vizi patří**. Cíl bez role je bezdomovec a nepřežije.
+
+---
 
 ### Návaznost
 
@@ -395,9 +429,9 @@ Až jsou role hotové, řekni nahlas, co z toho plyne pro zbytek systému:
 
 ### Pravidla
 
-- **Ptej se, nehodnoť.** Tohle je nejosobnější část metodiky a jedna nemístná poznámka celý rozhovor ukončí.
-- **Nikdy nenavrhuj role za uživatele jako první krok.** Nabídni je až poté, co sám něco řekne — jinak si vybere z tvého seznamu místo ze svého života.
-- **Nespěchej k výsledku.** Když sezení skončí u tří rozepsaných rolí, je to úspěch.
+- **Ptej se, nehodnoť.** Nejosobnější část metodiky; jedna nemístná poznámka rozhovor ukončí.
+- **Nikdy nenavrhuj role ani hodnoty za uživatele jako první krok.** Nabídni je až poté, co sám něco řekne.
+- **Nespěchej k výsledku.** Když sezení skončí u hodnot a darů, je to úspěch. Misi klidně dopiš příště.
 - Když se role od minule změnily, zeptej se **proč** — bývá to důležitější než ta změna sama.
 - Vrať výstup vždy **v jeho slovech**, ne ve svých.
 

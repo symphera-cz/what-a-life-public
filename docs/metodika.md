@@ -20,6 +20,17 @@ Zkrácený, veřejný výtah. Obsahuje **jen to, co potřebuje agent k tomu, aby
 7. **MAKE IT A HABIT** — prostředí a návyky místo vůle.
 8. **HAVE ENERGY FOR IT** — tělo, mysl, vztahy, smysl.
 
+## Mise vs. vize
+
+- **MISE** — vyjádření smyslu a účelu existence. Proč a k čemu něco existuje, co chce dělat a co umí.
+- **VIZE** — představa žádoucího budoucího cílového stavu.
+
+Mise je můj přínos a co čekám od života; vize je, jak to tam konkrétně bude vypadat. **Mise se mění pomalu, vize rychle.**
+
+Mise se staví postupně: **hodnoty → dary → vášně → mise**. Poslání má reflektovat dary a vášně — tam je člověk nejsilnější.
+
+Vizi otevírá princip *„Začněme s myšlenkou na konec"* — podívat se na dnešek z odstupu celého života.
+
 ## Šest horizontů
 
 **Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity**
