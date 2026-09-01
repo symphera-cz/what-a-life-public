@@ -1,94 +1,96 @@
-# What a Life! â€” AI agent
+# What a Life! — AI agent
 
-DigitĂˇlnĂ­ podpora pro aplikaci metodiky **What a Life!** (Symphera, autor Martin KlusoĹ).
-Deset workflow, kterĂ© si AI asistent volĂˇ sĂˇm, kdyĹľ poznĂˇ situaci â€” nic nekopĂ­rujete a nemusĂ­te si pamatovat pĹ™Ă­kazy.
+Digitální podpora pro aplikaci metodiky **What a Life!** (Symphera, autor Martin Klusoň).
+Deset workflow, které si AI asistent volá sám, když pozná situaci — nic nekopírujete a nemusíte si pamatovat příkazy.
 
-UrÄŤeno pĹ™edevĹˇĂ­m **absolventĹŻm ĹˇkolenĂ­**. Bez kurzu to funguje taky, ale metodika je tu jen ve zkratce.
+Určeno především **absolventům školení**. Bez kurzu to funguje taky, ale metodika je tu jen ve zkratce.
 
 ---
 
-## Co to umĂ­
+## Co to umí
 
-Ĺeknete *â€žmĂˇm plnou hlavu"* â€” asistent vĂˇs provede vysypĂˇnĂ­m hlavy po oblastech.
-VloĹľĂ­te seznam vÄ›cĂ­ â€” roztĹ™Ă­dĂ­ je do **sedmi destinacĂ­**.
-Ĺeknete *â€žnemĹŻĹľu se do toho pustit"* â€” najde s vĂˇmi prvnĂ­ krok.
-Ĺeknete *â€žpĹ™istĂˇlo mi tohle a nemĂˇm ÄŤas"* â€” napĂ­Ĺˇe tĹ™i varianty **konstruktivnĂ­ho Ano**.
+Řeknete *„mám plnou hlavu"* — asistent vás provede vysypáním hlavy po oblastech.
+Vložíte seznam věcí — roztřídí je do **sedmi destinací**.
+Řeknete *„nemůžu se do toho pustit"* — najde s vámi první krok.
+Řeknete *„přistálo mi tohle a nemám čas"* — napíše tři varianty **konstruktivního Ano**.
 
-## K ÄŤemu mĂˇ pĹ™Ă­stup
+## K čemu má přístup
 
-**Plugin sĂˇm nepĹ™idĂˇvĂˇ ĹľĂˇdnĂ© pĹ™ipojenĂ­ k vaĹˇim datĹŻm.** Jestli asistent uvidĂ­ vĂˇĹˇ kalendĂˇĹ™, maily nebo Ăşkoly, si nastavujete vy u svĂ©ho poskytovatele AI â€” konektory, integrace, firemnĂ­ politika. My do toho nevstupujeme.
+**Plugin sám nepřidává žádné připojení k vašim datům.** Jestli asistent uvidí váš kalendář, maily nebo úkoly, si nastavujete vy u svého poskytovatele AI — konektory, integrace, firemní politika. My do toho nevstupujeme.
 
-**KdyĹľ ten pĹ™Ă­stup mĂˇ, aĹĄ ho pouĹľĂ­vĂˇ.** Zapsat Ăşkol rovnou do vaĹˇeho seznamu je pĹ™esnÄ› to, o co jde â€” ÄŤĂ­m mĂ­Ĺ pĹ™episovĂˇnĂ­ a pĹ™eklikĂˇvĂˇnĂ­, tĂ­m spĂ­Ĺˇ vĂˇm systĂ©m vydrĹľĂ­. Pravidlo nenĂ­ â€žnezapisuj", ale **ukaĹľ nĂˇvrh, poÄŤkej na potvrzenĂ­, pak zapiĹˇ**.
+**Když ten přístup má, ať ho používá.** Zapsat úkol rovnou do vašeho seznamu je přesně to, o co jde — čím míň přepisování a překlikávání, tím spíš vám systém vydrží. Pravidlo není „nezapisuj", ale **ukaž návrh, počkej na potvrzení, pak zapiš**.
 
-Co si nastavĂ­te, patĹ™Ă­ do vaĹˇĂ­ **nĂˇstrojovĂ© vrstvy** â€” je tam k tomu sekce â€žCo smĂ­ agent sĂˇm". VĂ˝chozĂ­ je opatrnĂˇ varianta, ale je to vaĹˇe volba, ne naĹˇe.
+Co si nastavíte, patří do vaší **nástrojové vrstvy** — je tam k tomu sekce „Co smí agent sám". Výchozí je opatrná varianta, ale je to vaše volba, ne naše.
 
-**Co nedÄ›lĂˇ:** neposĂ­lĂˇ notifikace a nepĹ™ipomĂ­nĂˇ se. SystĂ©m, kterĂ˝ vĂˇs upomĂ­nĂˇ, si za tĹ™i tĂ˝dny ztlumĂ­te. Blok na plĂˇnovĂˇnĂ­ si dĂˇvĂˇte do kalendĂˇĹ™e sami â€” metodika ostatnÄ› uÄŤĂ­, Ĺľe priorita bez bloku je jen zboĹľnĂ© pĹ™ĂˇnĂ­.
+**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na plánování si dáváte do kalendáře sami — metodika ostatně učí, že priorita bez bloku je jen zbožné přání.
 
 ## Instalace
 
-**â†’ [`docs/manual.md`](docs/manual.md)** â€” nĂˇvod krok za krokem pro Claude, ChatGPT i Copilot.
+**→ [`docs/manual.md`](docs/manual.md)** — návod krok za krokem pro Claude, ChatGPT i Copilot.
 
-NejkratĹˇĂ­ cesta (Claude):
+Nejkratší cesta (Claude):
 
-1. **Customize â†’ Plugins â†’ â€ž+" â†’ Add marketplace**, vloĹľte URL tohoto repozitĂˇĹ™e.
+1. **Customize → Plugins → „+" → Add marketplace**, vložte URL tohoto repozitáře.
 2. Nainstalujte plugin **what-a-life**.
-3. ZaloĹľte projekt a vloĹľte [`instructions/01-agent.md`](instructions/01-agent.md) do *Project instructions*.
-4. NapiĹˇte **â€žpojÄŹme nastavit systĂ©m"**.
+3. Založte projekt a vložte [`instructions/01-agent.md`](instructions/01-agent.md) do *Project instructions*.
+4. Napište **„pojďme nastavit systém"**.
 
-Ve ÄŤtvrtĂ©m kroku s vĂˇmi asistent projde vaĹˇe nĂˇstroje, navrhne strukturu a vypĂ­Ĺˇe vaĹˇi osobnĂ­ **nĂˇstrojovou vrstvu** â€” tu vloĹľĂ­te do instrukcĂ­ pod tu prvnĂ­. NevyplĹujete ĹľĂˇdnou Ĺˇablonu; vznikĂˇ to z rozhovoru, protoĹľe u kaĹľdĂ©ho to vypadĂˇ jinak: Trello, Todoist, Notion, Outlook To Do nebo papĂ­rovĂ˝ zĂˇpisnĂ­k. Metodika ĹľĂˇdnĂ˝ nĂˇstroj nepĹ™edepisuje.
+Ve čtvrtém kroku s vámi asistent projde vaše nástroje, navrhne strukturu a vypíše vaši osobní **nástrojovou vrstvu** — tu vložíte do instrukcí pod tu první. Nevyplňujete žádnou šablonu; vzniká to z rozhovoru, protože u každého to vypadá jinak: Trello, Todoist, Notion, Outlook To Do nebo papírový zápisník. Metodika žádný nástroj nepředepisuje.
 
-**Aktualizace se nestahujĂ­ samy.** KdyĹľ vyjde novÄ›jĹˇĂ­ verze, kliknÄ›te v **Customize â†’ Plugins** na **Update** â€” jinak vĂˇm dĂˇl bÄ›ĹľĂ­ ta, kterou jste nainstalovali. Na novou verzi vĂˇs upozornĂ­me eâ€‘mailem.
+**Aktualizace se nestahují samy.** Když vyjde novější verze, klikněte v **Customize → Plugins** na **Update** — jinak vám dál běží ta, kterou jste nainstalovali. Na novou verzi vás upozorníme e‑mailem.
 
-Kdo se k marketplace nedostane, najde hotovĂ© ZIPy jednotlivĂ˝ch skills ve sloĹľce [`dist/`](dist) â€” **Customize â†’ Skills â†’ Upload**. Ve stejnĂ© sloĹľce je i [`rocni-plan-template.xlsx`](dist/rocni-plan-template.xlsx).
+**Aktualizace se nestahují samy.** Když vyjde novější verze, klikněte v **Customize → Plugins** na **Update** — jinak vám dál běží ta, kterou jste nainstalovali, a nijak se to nepozná. Na novou verzi vás upozorníme e‑mailem.
+
+Kdo se k marketplace nedostane, najde hotové ZIPy jednotlivých skills ve složce [`dist/`](dist) — **Customize → Skills → Upload**. Ve stejné složce je i [`rocni-plan-template.xlsx`](dist/rocni-plan-template.xlsx).
 
 ### ChatGPT a M365 Copilot
 
-Plugin je Claude formĂˇt, jinam nejde. Pro ostatnĂ­ platformy je celĂ˝ balĂ­ÄŤek sloĹľenĂ˝ **do jednoho souboru**: [`dist/wal-balicek-jeden-soubor.md`](dist/wal-balicek-jeden-soubor.md) â€” pravidla i vĹˇech deset postupĹŻ pohromadÄ›.
+Plugin je Claude formát, jinam nejde. Pro ostatní platformy je celý balíček složený **do jednoho souboru**: [`dist/wal-balicek-jeden-soubor.md`](dist/wal-balicek-jeden-soubor.md) — pravidla i všech deset postupů pohromadě.
 
-- **ChatGPT** â€” nahrajte ten soubor mezi soubory projektu a do *Instructions* dejte krĂˇtkĂ˝ odkaz na nÄ›j (pĹ™esnĂ© znÄ›nĂ­ je v hlaviÄŤce souboru). Asistent si v nÄ›m postup najde sĂˇm.
-- **Copilot** â€” vloĹľte obsah souboru na zaÄŤĂˇtek konverzace a pokraÄŤujte v nĂ­.
+- **ChatGPT** — nahrajte ten soubor mezi soubory projektu a do *Instructions* dejte krátký odkaz na něj (přesné znění je v hlavičce souboru). Asistent si v něm postup najde sám.
+- **Copilot** — vložte obsah souboru na začátek konverzace a pokračujte v ní.
 
-AutomatickĂ© rozpoznĂˇnĂ­ situace je tam slabĹˇĂ­ neĹľ u pluginu na Claude, ale balĂ­ÄŤek zĹŻstĂˇvĂˇ celĂ˝.
+Automatické rozpoznání situace je tam slabší než u pluginu na Claude, ale balíček zůstává celý.
 
 ## Workflow
 
-| Skill | Blok metodiky | SpustĂ­ se, kdyĹľâ€¦ |
+| Skill | Blok metodiky | Spustí se, když… |
 |---|---|---|
-| `wal-nastav-system` | napĹ™Ă­ÄŤ | â€žpojÄŹme nastavit systĂ©m", mÄ›nĂ­te nĂˇstroj |
-| `wal-vysyp-hlavu` | COLLECT IT | â€žmĂˇm plnou hlavu", â€žnÄ›co mi unikĂˇ" |
-| `wal-protrid-schranku` | ORGANIZE IT | vloĹľĂ­te seznam vÄ›cĂ­ nebo pĹ™edmÄ›tĹŻ mailĹŻ |
-| `wal-rozpad-projektu` | ORGANIZE IT | â€žnemĹŻĹľu se do toho pustit", â€žpoĹ™Ăˇd to odklĂˇdĂˇm" |
-| `wal-prioritizuj` | PRIORITIZE IT | â€žnevĂ­m, co dĹ™Ă­v", â€žvĹˇechno hoĹ™Ă­" |
-| `wal-konstruktivni-ano` | PRIORITIZE IT | â€žpĹ™istĂˇlo mi tohle a nemĂˇm ÄŤas" |
-| `wal-naplanuj-tyden` | PLAN IT | â€žpojÄŹme naplĂˇnovat tĂ˝den" |
-| `wal-navyk` | MAKE IT A HABIT | â€žchci si zavĂ©st nĂˇvyk", â€žnedaĹ™Ă­ se mi vydrĹľet" |
-| `wal-energie` | HAVE ENERGY FOR IT | â€žjsem vyÄŤerpanĂ˝", â€žnemĂˇm energii" |
-| `wal-role-a-vize` | DREAM IT | â€žchci si projĂ­t role", â€žnesedĂ­ mi nastavenĂ­" |
+| `wal-nastav-system` | napříč | „pojďme nastavit systém", měníte nástroj |
+| `wal-vysyp-hlavu` | COLLECT IT | „mám plnou hlavu", „něco mi uniká" |
+| `wal-protrid-schranku` | ORGANIZE IT | vložíte seznam věcí nebo předmětů mailů |
+| `wal-rozpad-projektu` | ORGANIZE IT | „nemůžu se do toho pustit", „pořád to odkládám" |
+| `wal-prioritizuj` | PRIORITIZE IT | „nevím, co dřív", „všechno hoří" |
+| `wal-konstruktivni-ano` | PRIORITIZE IT | „přistálo mi tohle a nemám čas" |
+| `wal-naplanuj-tyden` | PLAN IT | „pojďme naplánovat týden", „chci roční plán" |
+| `wal-navyk` | MAKE IT A HABIT | „chci si zavést návyk", „nedaří se mi vydržet" |
+| `wal-energie` | HAVE ENERGY FOR IT | „jsem vyčerpaný", „nemám energii" |
+| `wal-role-a-vize` | DREAM IT | „chci si projít role", „nesedí mi nastavení" |
 
-Blok **OWN IT** workflow nemĂˇ zĂˇmÄ›rnÄ› â€” je to prĂˇce s postojem, ne s informacĂ­. Projevuje se v tom, jak agent mluvĂ­.
+Blok **OWN IT** workflow nemá záměrně — je to práce s postojem, ne s informací. Projevuje se v tom, jak agent mluví.
 
-## TĹ™i vrstvy
+## Tři vrstvy
 
 | Vrstva | Co obsahuje | Kde je |
 |---|---|---|
-| **1 Â· Metodika** | destinace, testy, pravidla | [`docs/metodika.md`](docs/metodika.md) |
-| **2 Â· Instrukce agenta** | jak agent uvaĹľuje a mluvĂ­ | [`instructions/01-agent.md`](instructions/01-agent.md) |
-| **3 Â· NĂˇstrojovĂˇ vrstva** | vaĹˇe boardy, seznamy, ĹˇtĂ­tky | vznikne v rozhovoru, kostra v [`instructions/02-`](instructions/02-nastrojova-vrstva.md) |
+| **1 · Metodika** | destinace, testy, pravidla | [`docs/metodika.md`](docs/metodika.md) |
+| **2 · Instrukce agenta** | jak agent uvažuje a mluví | [`instructions/01-agent.md`](instructions/01-agent.md) |
+| **3 · Nástrojová vrstva** | vaše boardy, seznamy, štítky | vznikne v rozhovoru, kostra v [`instructions/02-`](instructions/02-nastrojova-vrstva.md) |
 
-Instrukce popisujĂ­ **proces**, nĂˇstrojovĂˇ vrstva popisuje **ĂşloĹľiĹˇtÄ›**. KdyĹľ zmÄ›nĂ­te nĂˇstroj, mÄ›nĂ­ se jen vrstva 3.
+Instrukce popisují **proces**, nástrojová vrstva popisuje **úložiště**. Když změníte nástroj, mění se jen vrstva 3.
 
-## Co tady nenĂ­
+## Co tady není
 
-Tenhle repozitĂˇĹ™ obsahuje **operativnĂ­ vrstvu** metodiky â€” to, co potĹ™ebuje asistent, aby mluvil stejnĂ˝m jazykem jako ĹˇkolenĂ­.
+Tenhle repozitář obsahuje **operativní vrstvu** metodiky — to, co potřebuje asistent, aby mluvil stejným jazykem jako školení.
 
-VĂ˝klad, pĹ™Ă­bÄ›hy, cviÄŤenĂ­ vedenĂˇ lektorem a ĹˇkolicĂ­ materiĂˇly **souÄŤĂˇstĂ­ nejsou**. Ty patĹ™Ă­ ke kurzu. Pokud jste ĹˇkolenĂ­m proĹˇli, drĹľte se materiĂˇlĹŻ ze sĂˇlu â€” tohle je jejich zkratka, ne nĂˇhrada.
+Výklad, příběhy, cvičení vedená lektorem a školicí materiály **součástí nejsou**. Ty patří ke kurzu. Pokud jste školením prošli, držte se materiálů ze sálu — tohle je jejich zkratka, ne náhrada.
 
-## Licence a pouĹľitĂ­
+## Licence a použití
 
-Metodika What a Life! je duĹˇevnĂ­ vlastnictvĂ­ **Symphera s.r.o.** Obsah tohoto repozitĂˇĹ™e je zveĹ™ejnÄ›n pro osobnĂ­ pouĹľitĂ­ absolventĹŻ a zĂˇjemcĹŻ o metodiku.
+Metodika What a Life! je duševní vlastnictví **Symphera s.r.o.** Obsah tohoto repozitáře je zveřejněn pro osobní použití absolventů a zájemců o metodiku.
 
-NenĂ­ dovoleno jej pouĹľĂ­vat pro komerÄŤnĂ­ ĹˇkolenĂ­, pĹ™eprodej ani odvozenĂ© kurzy bez souhlasu Symphery.
+Není dovoleno jej používat pro komerční školení, přeprodej ani odvozené kurzy bez souhlasu Symphery.
 
 ---
 
-Â© Symphera s.r.o. Â· metodika What a Life! â€” Martin KlusoĹ Â· [symphera.com](https://symphera.com)
+© Symphera s.r.o. · metodika What a Life! — Martin Klusoň · [symphera.com](https://symphera.com)
