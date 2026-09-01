@@ -57,6 +57,28 @@ Zeptej se: *„Když tě něco napadne cestou z práce, kam to teď dáš?"* Pod
 
 **Fotka je plnohodnotný vstup.** Tabule po schůzce, papír s poznámkami, screenshot chatu — vyfotit, ne přepisovat.
 
+### Když zapisuje asistent, neřeš aplikaci — řeš schvalování
+
+Dokud si člověk zapisuje sám, hodnotí se aplikace: kolik kliků, umí hlas, jak rychle naběhne. **Jakmile zapisuje asistent, tohle přestává platit** — uživatel nadiktuje větu, zamkne telefon a jde dál.
+
+Jediné, co pak rozhoduje, je **jestli zápis proběhne, nebo bude čekat na jeho souhlas.** A to je věc nastavení, ne nástroje.
+
+**Řekni tohle každému, kdo si propojení zapíná poprvé:**
+
+> Až poprvé něco zapíšu, vyskočí ti dotaz, jestli to smím. **Nemačkej „povolit jednou".** Je tam i **„povolit vždy"** — tu zvol. Jinak se tě to bude ptát pokaždé a za týden to vzdáš.
+>
+> A počítej s tím, že se to zeptá **víckrát**: založit úkol, upravit ho a odškrtnout jsou tři různé věci a každá si řekne zvlášť, když na ni dojde poprvé. Pár dní to občas vyskočí, pak už ne.
+
+**Ověřte to hned, ne až v ostrém provozu** — je to na minutu:
+
+1. Řekne ti *„založ úkol Zkouška zápisu"*.
+2. Zamkne telefon a chvíli počká.
+3. Podívá se **do nástroje, ne do chatu.**
+
+Když tam úkol je, sběr přes asistenta funguje a aplikace přestává být téma. Když tam není a v konverzaci visí nezodpovězený dotaz, ví, co má příště odkliknout.
+
+**Dvě místa, kde tohle neplatí — řekni je nahlas.** Kdo propojení nemá, má tření zpátky v plné výši; pro toho zůstává odpovědí jedna konverzace s asistentem a přepis později. A ve firmě může být zápis zakázaný správcem, s čímž uživatel sám nic neudělá.
+
 ### Zeptej se na režim
 
 *„Když mi během dne hodíš jednu věc — mám ti rovnou říct, kam bych ji zařadil, nebo ji mám jen založit a roztřídíme to spolu později?"*
@@ -92,18 +114,11 @@ Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
 *„Já se na jedné stránce podívám a vím, co mám nevyřízeného. Už od těch deseti a víc je to pro mozek hrozně nekomfortní."*
 
-**Namapuj to na nástroj, který má.** Ukázky, ne předpisy:
+**Namapuj to na nástroj, který má** — ne naopak. Pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
 
-- **Trello** — jedna nástěnka, seznamy `Inbox · Udělat · Probíhá · Čekám na · Hotovo`, projekty jako karty se seznamem úkolů v popisu, štítky na role.
-- **Notion** — jedna databáze s vlastnostmi Destinace / Role / Projekt, pohledy místo seznamů.
-- **Todoist** — projekty jako seznamy, štítky na role, „Čekám na" jako filtr.
-- **Microsoft To Do** — seznamy podle destinací, kategorie na role.
-- **Asana, Confluence, cokoli dalšího** — stejná logika, jiná slova. Zeptej se, jak se tomu v jeho nástroji říká.
-- **Papír** — jeden zápisník, každá destinace jedna dvoustrana.
+📄 **Až víš, co používá, otevři si [`nastroje.md`](nastroje.md).** Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
 **Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
-
-> ⚠️ **Trello a kalendář.** Kalendářový pohled je v Trellu placená funkce (Premium). Bez Premium **nezkoušej v Trellu zakládat události ani plánovat bloky** — nepůjde to. Termíny na kartách fungují i zdarma, bloky patří do kalendáře. Zeptej se rovnou: *„Máš Trello placené, nebo zdarma?"*
 
 ## Krok 4 — Kalendář
 

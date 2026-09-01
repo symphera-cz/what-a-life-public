@@ -116,8 +116,21 @@ def main():
             continue
         desc, body = strip_frontmatter(p.read_text(encoding="utf-8"))
         body = demote_headings(body)
+        # Odkazy na přílohy tady nedávají smysl — soubory se vkládají rovnou pod skill.
+        body = re.sub(r"\[([^\]]+)\]\((?!https?:)[^)]+\.md\)", r"\1", body)
+        body = body.replace("otevři si `nastroje.md`", "použij tabulky níž")
         parts.append(f"\n---\n\n<a id=\"{name}\"></a>\n\n")
         parts.append(body.strip() + "\n")
+
+        # Přílohy skillu — v pluginu si je agent otevře sám, tady musí být v textu,
+        # jinak by odkaz vedl na soubor, který v ChatGPT ani Copilotu neexistuje.
+        for extra in sorted(p.parent.glob("*.md")):
+            if extra.name == "SKILL.md":
+                continue
+            _, ebody = strip_frontmatter(extra.read_text(encoding="utf-8"))
+            parts.append("\n" + demote_headings(demote_headings(ebody)).strip() + "\n")
+            print(f"     + priloha {name}/{extra.name}")
+
         parts.append(f"\n**Kdy použít:** {desc}\n")
 
     OUT.parent.mkdir(exist_ok=True)

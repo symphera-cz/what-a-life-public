@@ -1,0 +1,2 @@
+# Shell skripty musí mít LF, jinak je bash na Windows nespustí ("invalid option name")
+*.sh text eol=lf

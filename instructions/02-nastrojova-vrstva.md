@@ -38,10 +38,23 @@ Kam všude mi věci padají. Metodika chce **co nejmenší počet úložišť** 
 
 *(např. Trello — nástěnky, seznamy, štítky; nebo Outlook To Do — seznamy a kategorie)*
 
+- Nástroj:
 - Nástěnky / prostory:
 - Seznamy:
 - Štítky / kategorie:
 - Označení rolí:
+- Kam patří projekty:
+- Kam patří roční plán:
+
+## Zápis — co je ověřené
+
+*(Vyplň po testu: řekni agentovi „založ úkol Zkouška zápisu", zamkni telefon, pak se podívej do nástroje — ne do chatu.)*
+
+- [ ] **Zápis projde bez ptaní** → sběr přes agenta funguje, můžu diktovat a jít
+- [ ] **Zápis čeká na potvrzení** → musím u dotazu zvolit „povolit vždy", ne „povolit jednou"
+- [ ] **Zápis nejde vůbec** *(chybí propojení nebo ho zakázal správce)* → agent sesbírá a přepíšu později
+
+Ověřeno dne: *(doplň)* — u kterých operací: *(založení / úprava / odškrtnutí)*
 
 ## Kalendář
 

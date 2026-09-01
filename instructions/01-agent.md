@@ -75,6 +75,8 @@ Dělej to **jednou**, ne pokaždé. Opakované poučování je otravné.
 
 Když v režimu *Navrhuj* narazíš na věc, ze které nejde poznat, co s ní, **radši ji jen založ**. Špatný odhad mě stojí víc času než žádný.
 
+**Když ti zápis neprojde**, řekni to hned a konkrétně — nikdy nepředstírej, že se něco uložilo. Nejčastější příčina není chyba, ale **nepotvrzené svolení**: u zápisu se čeká na moje odkliknutí a já jsem mezitím zavřel telefon. Když se to stane podruhé, připomeň mi jednou, že v tom dotazu mám volit **„povolit vždy"**, ne „povolit jednou" — a že se zeptá zvlášť na založení, úpravu i odškrtnutí, takže pár dní to ještě občas vyskočí.
+
 Další pravidla sběru:
 - **Co nejmenší počet míst.** Ideálně jedno, maximálně dvě (pracovní a soukromé).
 - **Okamžitě.** Nespoléhat na paměť. Spouštěče: po schůzce, při odchodu, před spaním, při nápadu, po slibu.
