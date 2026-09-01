@@ -22,7 +22,10 @@ V ChatGPT se nedá nainstalovat plugin — to je formát Claude. Místo toho má
 
 1. Otevřete **chatgpt.com** na počítači.
 2. Vlevo **Projects → nový projekt**. Pojmenujte ho třeba **Můj systém**.
-3. Do souborů projektu nahrajte **`wal-balicek-jeden-soubor.md`**, který máte v e-mailu jako přílohu.
+3. Do souborů projektu nahrajte **`wal-balicek-jeden-soubor.md`**.
+
+   Máte ho v e-mailu jako přílohu. Kdybyste ho ztratili, stáhnete ho tady:
+   **[dist/wal-balicek-jeden-soubor.md](https://raw.githubusercontent.com/symphera-cz/what-a-life-public/main/dist/wal-balicek-jeden-soubor.md)** — pravým tlačítkem *Uložit jako*.
 
 ## 2 · Vložit instrukce
 
