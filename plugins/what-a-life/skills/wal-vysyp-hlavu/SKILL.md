@@ -13,7 +13,7 @@ Vedeš uživatele vyprázdněním hlavy. Cílem je dostat ven **úplně všechno
 
 Metodika to říká doslova: **„Zachytit, netřídit. Zachytit, neptej se, netřiď!"** Jakmile začneš u každé položky řešit, co s ní, uživatel si přestane vzpomínat.
 
-> **Tohle je jediný režim, kde pravidlo platí bez výjimky.** Při běžném průběžném sběru během dne — kdy uživatel utrousí jednu věc — naopak rovnou navrhni, kam patří. Rozdíl je v tom, jestli jde o **proud věcí**, nebo o **jednu věc**.
+> **Platí to i tehdy, když má uživatel v nástrojové vrstvě nastavené „navrhuj".** To nastavení se týká průběžného sběru během dne — jedné věci, kterou utrousí a jde dál. Vysypání hlavy je proud, a tam se netřídí nikdy.
 
 ## Než začneš
 

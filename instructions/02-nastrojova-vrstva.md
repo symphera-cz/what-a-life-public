@@ -53,6 +53,18 @@ Kam všude mi věci padají. Metodika chce **co nejmenší počet úložišť** 
 
 ---
 
+## Režim sběru
+
+Jak se má agent chovat, když mu během dne utrousím jednu věc:
+
+- [ ] **Navrhuj** — rovnou řekni, kam to podle tebe patří; potvrdím nebo opravím
+- [ ] **Jen zakládej** — nic nenavrhuj, dej to do inboxu, roztřídíme to později
+- [ ] **Navrhuj, jen když je to jasné** — u nejednoznačných věcí jen založ
+
+Slovo **„založ"** na začátku zprávy znamená vždycky *jen zapiš, nehádej* — bez ohledu na režim výše.
+
+*(Při vysypání hlavy se netřídí nikdy, to nastavení neovlivňuje.)*
+
 ## Co smí agent dělat sám
 
 Tohle je moje volba, ne omezení produktu — plugin sám žádné připojení k datům nepřidává. Když mám konektory nastavené, je **žádoucí, aby agent zapisoval**: čím míň ručního přepisování, tím spíš mi systém vydrží.

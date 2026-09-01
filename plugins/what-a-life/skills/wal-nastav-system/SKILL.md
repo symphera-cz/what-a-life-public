@@ -1,6 +1,6 @@
 ---
 name: wal-nastav-system
-description: Provede uživatele nastavením jeho systému podle metodiky What a Life! — vybere s ním nástroje, navrhne strukturu a na konci vygeneruje jeho osobní nástrojovou vrstvu k nahrání. Použij, když uživatel začíná, když řekne že si chce nastavit systém, že neví kam co ukládat, když se ptá jaký nástroj použít, nebo když mění nástroj a potřebuje strukturu překlopit. Nepoužívej na nastavení firemního nástroje pro tým.
+description: Provede uživatele nastavením jeho systému podle metodiky What a Life! — vybere s ním nástroje, navrhne strukturu a na konci vygeneruje jeho osobní nástrojovou vrstvu k nahrání. Použij, když uživatel začíná — i když jen pozdraví nebo se zeptá „co teď", a ještě nemá nástrojovou vrstvu. Dál když řekne že si chce nastavit systém, že neví kam co ukládat, když se ptá jaký nástroj použít, nebo když mění nástroj a potřebuje strukturu překlopit. Nepoužívej na nastavení firemního nástroje pro tým.
 ---
 
 # Nastav systém
@@ -14,6 +14,26 @@ Na konci má mít tři věci: **jedno místo, kam odhazuje** · **kalendář** �
 *„Nejdřív se to musíte naučit a pochopit. Potom to můžete naučit svou AI. Dokud to nepochopíte, zapomeňte na AI — ono vám to akorát zrychlí tu vaši neschopnost."*
 
 Prakticky: **nenastavuj nic, co uživatel nechápe.** Když se ptá „co to je destinace", vysvětli to dřív, než mu to zavedeš do Trella. A **neautomatizuj chaos** — když nemá co třídit, nemá smysl stavět třídičku.
+
+## Začni tím, že řekneš, co se bude dít
+
+**Nikdy neotevírej otázkou.** Uživatel netuší, do čeho jde, a *„jaký používáš kalendář?"* jako první věta zní jako výslech.
+
+Řekni mu nejdřív tohle — vlastními slovy, ne jako odrážky:
+
+> Projdeme spolu **čtyři věci a zabere to asi dvacet minut**:
+> 1. **Kam budeš odhazovat**, když tě něco napadne — aby sis to nemusel pamatovat.
+> 2. **Kde ti to bude ležet** — jedno místo, kde uvidíš, co máš nevyřízeného.
+> 3. **Kalendář** — protože co nemá blok, to se nestane.
+> 4. **Kdy si na to sedneš** — patnáct minut týdně, jinak to celé zapadne.
+>
+> Na konci ti vypíšu text, který si vložíš k instrukcím. Od té chvíle budu vědět, kam co patří, a nebudu se tě na to ptát znovu.
+
+Pak přidej jednu větu, **proč to celé děláme**: *„Cílem není mít hotovo. Cílem je, abys o každé věci věděl, co s ní uděláš — a nemusel ji nosit v hlavě."*
+
+A teprve pak se ptej.
+
+> Když uživatel řekne, že na to teď nemá čas, nabídni **zkrácenou verzi**: kam odhazuje + kde to leží. Zbytek se dá doplnit příště. Lepší půlka systému než žádný.
 
 ## Jak vést rozhovor
 
@@ -38,6 +58,14 @@ Zeptej se: *„Když tě něco napadne cestou z práce, kam to teď dáš?"* Pod
 - **Papír:** malý zápisník, který má vždycky u sebe.
 
 **Fotka je plnohodnotný vstup.** Tabule po schůzce, papír s poznámkami, screenshot chatu — vyfotit, ne přepisovat.
+
+### Zeptej se na režim
+
+*„Když mi během dne hodíš jednu věc — mám ti rovnou říct, kam bych ji zařadil, nebo ji mám jen založit a roztřídíme to spolu později?"*
+
+Tři možnosti: **navrhuj** · **jen zakládej** · **navrhuj, jen když je to jasné**. Nedoporučuj — je to věc povahy, ne správnosti. Někoho návrh urychlí, jiného ruší.
+
+Řekni mu taky o přepínači: **slovo „založ" na začátku zprávy** znamená *jen zapiš, nehádej*, ať má nastavené cokoli.
 
 > Ať se v tomhle kroku neztratíš v nástrojích: cíl je, aby si člověk **nic nemusel pamatovat**. Nástroj je až druhá otázka.
 
@@ -115,13 +143,36 @@ Pak dvě otázky: má pracovní obsah, který nesmí do soukromého AI účtu? J
 
 **Vypiš hotový text** podle kostry níže, vyplněný jeho odpověďmi. Žádné prázdné kolonky.
 
-Řekni mu přesně: *„Zkopíruj si ten text a vlož ho v projektu pod instrukce, které tam už máš. Je to jenom tvoje, nikomu se to neposílá."*
+### Předání — tady se to nejčastěji rozbije
+
+Nestačí text vypsat. **Uživatel nemá tušit, co s ním.** Když mu ho jen ukážeš, zavře okno a zítra je všechno pryč — a tobě ten text v příští konverzaci chybět bude.
+
+Napiš mu **návod, ne pobídku.** Přesně tohle, krok za krokem:
+
+> **Tenhle text si teď ulož — jinak ho zítra nebudu mít.**
+>
+> 1. Zkopíruj celý text nahoře (od `# Moje nástrojová vrstva` po konec).
+> 2. Vlevo v projektu klikni na **Set project instructions** *(nebo „Upravit instrukce" — podle jazyka)*.
+> 3. Sjeď na **konec toho, co tam už je**, odřádkuj a text vlož.
+> 4. Ulož a napiš mi sem „hotovo".
+>
+> Je to jenom tvoje, nikomu se to neposílá. Až budeš měnit nástroj, přepíšeš jenom tenhle kus.
+
+**Počkej, až potvrdí.** Neposílej ho rovnou na další krok. Když neodpoví nebo řekne, že neví jak, proveď ho tím ještě jednou — tohle je jediné místo celého nastavení, kde se výsledek buď uloží, nebo zahodí.
+
+Až potvrdí, **ověř to jednou otázkou**: *„Zkus se mě zeptat, kam si ukládáš úkoly — ať víme, že to sedí."* Když odpovíš správně, je hotovo.
+
+> **Když jsi v prostředí, kde projekt s instrukcemi neexistuje** (běžný chat, Copilot), řekni mu, ať si ten text uloží k sobě — do poznámek, do souboru — a **vloží ho na začátek pokaždé, když si otevře novou konverzaci.** Je to horší, ale funguje to. A rovnou mu doporuč projekt, jestli ho jeho nástroj umí.
 
 ```markdown
 # Moje nástrojová vrstva
 
 ## Kam odhazuju
 Jak se věc dostane z hlavy ven · kam padne · pravidlo přelévání (když mám dvě místa)
+
+## Režim sběru
+navrhuj / jen zakládej / navrhuj jen když je to jasné
+(„založ" na začátku zprávy = jen zapiš, nehádej)
 
 ## Kam ukládám
 | Destinace | Moje místo |
