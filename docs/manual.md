@@ -21,7 +21,7 @@ Nic si nepamatujete, nic nekopírujete. Jen mluvíte.
 
 **Když ten přístup má, ať ho využije.** Zapsat úkol rovnou do vašeho seznamu je přesně to, o co jde — čím míň přepisování, tím spíš vám systém vydrží. Pravidlo není „nezapisuj", ale **ukaž návrh, počkej na potvrzení, pak zapiš**. Co přesně smí dělat sám, si zvolíte při nastavování systému.
 
-**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na review si dáváte do kalendáře sami.
+**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na plánování si dáváte do kalendáře sami.
 
 ---
 
@@ -36,9 +36,9 @@ Funguje nejlíp: instalace na pár kliknutí, bez admina, a **skills fungují i 
 3. **„+" → Add marketplace** a vložte odkaz na repozitář, který jste dostali.
 4. Najděte plugin **what-a-life** a nainstalujte ho.
 
-Tím máte všech jedenáct workflow naráz. Když se něco zlepší, dostanete to automaticky.
+Tím máte všech deset workflow naráz. Když se něco zlepší, dostanete to automaticky.
 
-> Nedostanete-li se k repozitáři, jde to i po jednom: **Customize → Skills → + → Upload a skill**, a nahrát jedenáct ZIPů ze složky `dist/`. Aktualizace pak ale musíte dělat ručně.
+> Nedostanete-li se k repozitáři, jde to i po jednom: **Customize → Skills → + → Upload a skill**, a nahrát deset ZIPů ze složky `dist/`. Aktualizace pak ale musíte dělat ručně.
 
 ### 2. Založte projekt *(5 minut)*
 
@@ -50,7 +50,7 @@ Tím máte všech jedenáct workflow naráz. Když se něco zlepší, dostanete 
 
 Napište do projektu: **„Pojďme nastavit systém."**
 
-Asistent se vás zeptá, co používáte — kam vám padají věci, v čem máte úkoly, jaký kalendář — a navrhne, jak v tom postavit sedm destinací z metodiky. Funguje to s Trellem, Todoistem, Notionem, Outlookem i papírovým zápisníkem; metodika žádný nástroj nepředepisuje.
+Asistent se vás zeptá, co používáte — kam vám padají věci, v čem máte úkoly, jaký kalendář — a navrhne, jak v tom postavit sedm destinací z metodiky a kam bude odhazovat během dne. Funguje to s Trellem, Todoistem, Notionem, Outlookem i papírovým zápisníkem; metodika žádný nástroj nepředepisuje.
 
 Na konci vám **vypíše text vaší nástrojové vrstvy**. Ten zkopírujte a vložte v projektu **pod** instrukce ze druhého kroku.
 
@@ -68,7 +68,7 @@ Mělo by se spustit vedené vysypání hlavy. Když se nespustí, viz Potíže n
 Plugin sem nejde — je to formát Claude. Ale celý balíček máte v jednom souboru, takže o nic nepřijdete.
 
 1. **Projects → nový projekt.**
-2. Mezi soubory projektu nahrajte **`dist/wal-balicek-jeden-soubor.md`**. Jsou v něm pravidla i všech jedenáct postupů.
+2. Mezi soubory projektu nahrajte **`dist/wal-balicek-jeden-soubor.md`**. Jsou v něm pravidla i všech deset postupů.
 3. Do *Instructions* vložte jen tohle:
 
    > Řídím se metodikou What a Life! Kompletní pravidla i všechny postupy máš v přiloženém souboru `wal-balicek-jeden-soubor.md`. Než odpovíš, podívej se do něj — část A jsou pravidla, která platí pořád, část B jsou postupy pro konkrétní situace. Sám poznej, který postup se hodí, a řiď se jím. Nikdy mi nevypisuj seznam postupů a nečekej, až si o některý řeknu jménem.
@@ -108,8 +108,8 @@ Až budete hotoví, doporučuji tohle pořadí — je to zároveň nejrychlejš�
 1. **„Pojďme si projít role."** → mise, životní role, vize. Nejdůležitější a nejpomalejší část — klidně na dvakrát. Bez ní se dá jen třídit úkoly, ne rozhodovat, co vůbec pustit dovnitř.
 2. **„Mám plnou hlavu."** → vysypání hlavy, ~20 minut. Nespěchejte, projděte všech šest oblastí.
 3. Výstup rovnou pošlete dál: **„Roztřiď mi to."** → sedm destinací.
-4. **„Pojďme naplánovat týden."** → balvany do kalendáře, ze všech rolí.
-5. **Blok na týdenní review v kalendáři.** Pátek nebo neděle, 15 minut, opakovaně.
+4. **„Pojďme naplánovat týden."** → velké kameny do kalendáře, ze všech rolí.
+5. **Blok na týdenní plánování v kalendáři.** Konec týdne nebo těsně před jeho začátkem, opakovaně.
 
 Pořadí není libovolné. Role jsou první filtr celé metodiky — *prioritám přidělujeme úkoly, ne úkolům priority.* Kdo začne vysypáním hlavy, má hromadu, kterou nemá podle čeho třídit.
 

@@ -10,7 +10,7 @@
       "name": "what-a-life",
       "source": "./plugins/what-a-life",
       "description": "Jedenáct workflow pro aplikaci metodiky What a Life! — vysypání hlavy, třídění do sedmi destinací, rozpad projektu, prioritizace, konstruktivní Ano, plánování týdne, review, návyky, energie, role a vize.",
-      "version": "0.4.1",
+      "version": "0.5.0",
       "author": {
         "name": "Symphera s.r.o."
       }

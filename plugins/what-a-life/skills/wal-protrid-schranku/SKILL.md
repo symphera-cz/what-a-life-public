@@ -7,7 +7,7 @@ description: Roztřídí položky do sedmi destinací metodiky What a Life! (ZAH
 
 Provedeš uživatele rozhodnutím nad každou položkou. Cílem **není mít hotovo, ale mít o každé věci rozhodnuto** — aby ji nemusel dál držet v hlavě.
 
-Je to totéž, co se na školení trénuje na cvičném inboxu — jen na jeho vlastních věcech.
+Metodika tomu říká **schůzka s Robinem** — vyhrazený moment, kdy se zpracuje, co se během dne odhodilo. Několik krátkých za den (i tři minuty o pauze) a jedna delší.
 
 ## Sedm destinací
 
@@ -16,12 +16,28 @@ Je to totéž, co se na školení trénuje na cvičném inboxu — jen na jeho v
 | **ZAHOĎ** | Nepotřebuje to. | — |
 | **UDĚLEJ HNED** | Pod 2 minuty. | — (nezapisuje se, dělá se) |
 | **DELEGUJ** | Patří někomu jinému. | komu · do kdy se ozvat, když nepřijde odpověď |
-| **ZALOŽ** | Nic se nedělá, jen uchovat. | — |
-| **DEJ DO KALENDÁŘE** | Vázané na čas/den, nebo potřebuje blok. | kdy, nebo jak dlouhý blok |
-| **PROJEKT** | Musí se to nejdřív rozmyslet. | jak vypadá hotovo + jedna příští akce |
+| **ZALOŽ** | Nic se nedělá, jen uchovat. Sem patří i „chci někdy, ale nevím kdy". | kam to fyzicky uložil |
+| **DEJ DO KALENDÁŘE** | Vázané na čas/den, nebo potřebuje blok. Sem patří i „připomeň mi za rok". | kdy, nebo jak dlouhý blok |
+| **PROJEKT** | Vím, že to potřebuju, ale je to moc velké na jeden krok. | první krok (ten se stane úkolem) |
 | **PRIORITIZUJ** | Konkrétní jednotlivý úkol. | konkrétní příští akce |
 
-**Projekt vs. úkol:** test je *„Musím to rozmyslet, nebo to jen udělám?"* — ne počet kroků.
+### Projekt vs. PRIORITIZUJ
+
+Kritérium z výkladu:
+
+> **Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT.**
+
+A druhé: **projekt je úkol, který se nedá udělat** — je moc velký. Postup je vždycky *založit celek + naplánovat první krok*.
+
+### Delegování není jen „předat"
+
+Nejdůležitější varianta, kterou lektor zdůrazňuje: **vrátit to zadavateli.** *„Když někdo na vás chce hodit úkol, nepřijímejte vždycky tu zodpovědnost a vraťte mu to"* — třeba „přijď za hodinu" nebo „pošli mi to písemně". To je taky delegování.
+
+Když se deleguje ven, patří k tomu **kontrolní bod**: kdy se ozvat, pokud nepřijde odpověď.
+
+### „Chci někdy, ale nevím kdy"
+
+Vymalovat, přečíst tu knihu, naučit se vařit thajsky. Není to urgentní, nemá to datum. Jde to do **ZALOŽ** a vytáhne se to při ročním plánování — na seznamu úkolů by to rok jen překáželo. Jakmile datum vznikne, přesune se to do kalendáře jako připomínka.
 
 ## Formát výstupu
 
@@ -31,23 +47,28 @@ Jeden řádek na položku:
 POLOŽKA → DESTINACE → doplněk
 ```
 
-Tabulka jen tehdy, když je položek víc než deset. Nikdy nepřidávej sloupce navíc.
+Tabulka jen tehdy, když je položek víc než deset.
 
 ## Pravidla
 
-- **Rozhodni každou položku.** Nic nenech nerozhodnuté, nic nepřeskakuj.
-- Když si u některé opravdu nevíš rady, **sesbírej je a zeptej se jednou otázkou na konci**. Nehádej a nepřerušuj tříbení kvůli jedné položce.
-- **Příští akce musí být fyzicky proveditelná činnost.** Sloveso, které jde vidět. Zakázané: *zamyslet se, vyřešit, zabývat se, projít si, dát dohromady, připravit se.*
+- **Rozhodni každou položku.** Nic nenech nerozhodnuté.
+- Když si u některé nevíš rady, **sesbírej je a zeptej se jednou otázkou na konci**. Nepřerušuj třídění kvůli jedné položce.
+- **Příští akce musí být fyzicky proveditelná činnost.** Zakázané: *zamyslet se, vyřešit, zabývat se, projít si.* (Pozor: „zamyslet se" je legitimní obsah **bloku v kalendáři** — jen ne úkolu na seznamu.)
+- **U ZALOŽ se ptej, kam to fyzicky dal.** Mozek se naučí zapomínat velmi úspěšně a za týden si nevzpomene.
 - **Nic si nepřidávej.** Pracuj jen s tím, co uživatel napsal.
-- Když je položek víc než 15, ber je **po dávkách po 15** a mezi dávkami se zastav.
-- **Nezapisuj nic bez potvrzení.** Nejdřív ukaž celé roztřídění. Když ho uživatel odsouhlasí a ty máš přístup k jeho nástrojům, zapiš to tam za něj — o to jde. Bez přístupu mu to dej v podobě, kterou snadno přepíše.
+- Když je položek víc než 15, ber je **po dávkách po 15**.
+- **Nezapisuj nic bez potvrzení.** Nejdřív ukaž celé roztřídění; po odsouhlasení, když máš přístup k jeho nástrojům, to tam zapiš. Bez přístupu mu to dej v podobě, kterou snadno přepíše.
+
+## Vstupem může být fotka
+
+Když uživatel pošle **fotku tabule, papíru nebo screenshot** — ber to jako plnohodnotný vstup a přepiš to sám. *„To, že tady má patnáct věcí, neznamená, že si musí udělat patnáct poznámek."*
 
 ## Na konci
 
-Napiš součet: kolik položek skončilo v které destinaci. A upozorni, když je něco nápadně nevyvážené:
+Napiš součet: kolik položek v které destinaci. A upozorni, když je něco nápadně nevyvážené:
 
-- **Skoro všechno v PRIORITIZUJ** → část toho jsou ve skutečnosti projekty nebo věci do kalendáře. Nabídni druhý průchod.
-- **Nic v ZAHOĎ** → skoro nikdy to není pravda. Zeptej se, jestli tam něco nepatří.
-- **Hodně v PROJEKT** → možná se test „musím to rozmyslet?" používá příliš volně.
+- **Skoro všechno v PRIORITIZUJ** → část toho jsou projekty nebo věci do kalendáře. Nabídni druhý průchod.
+- **Nic v ZAHOĎ** → skoro nikdy to není pravda.
+- **Seznam úkolů přes deset položek** → *„už od těch deseti je to pro mozek hrozně nekomfortní."* Nabídni, co z toho může jít do ZALOŽ nebo do kalendáře.
 
-Pak jednou větou nabídni další krok: přidělit prioritu tomu, co skončilo v PRIORITIZUJ. Nedělej to sám, dokud uživatel nepotvrdí.
+Pak nabídni další krok: přidělit prioritu tomu, co skončilo v PRIORITIZUJ.

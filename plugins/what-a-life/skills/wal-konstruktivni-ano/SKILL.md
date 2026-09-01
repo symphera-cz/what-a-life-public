@@ -15,25 +15,44 @@ Lidé neselhávají na rozhodnutí odmítnout. Selhávají na formulaci — nev�
 
 Než začneš psát, musíš mít: **kdo to je** (šéf / kolega / klient / rodina) a **proč na to není kapacita**. Když to nevíš, zeptej se jednou krátkou otázkou. Nedomýšlej si důvody — uživatel je pak nemůže poslat.
 
+## Co všechno se dá odmítnout
+
+Slide to jmenuje výslovně — **nacvičme si odmítat: jít na schůzku · práci · urgenci · kvalitu.**
+
+Většina lidí uvažuje jen o odmítnutí celého úkolu. Přitom nejčastěji použitelné jsou ty zbylé tři:
+
+- **Schůzka** — odejít z neefektivní schůzky, na kterou nikdo nepřišel připravený, je legitimní.
+- **Urgence** — *„co přesně teď potřebuješ?"* Většina „hned" není hned.
+- **Kvalita** — *„potřebuješ to v mašličkách?"* Metodika: *troufněte si některé věci nestihnout nebo udělat s menší pečlivostí, abyste do života dostali jiné.*
+
+Než začneš psát odpověď, projdi si tuhle čtveřici — často stačí odmítnout jednu její část a celý úkol se dá přijmout.
+
 ## Tři varianty
 
-Vždycky napiš **všechny tři**, každou max 5 vět:
+Tohle je moje struktura, ne názvosloví ze školení — ale drží se principu. Napiš **všechny tři**, každou max 5 vět:
 
-- **A) ANO JINAK** — menší nebo jiný rozsah, který se zvládne. Ptej se, jestli něco nemůže být uděláno jen rámcově.
+- **A) ANO JINAK** — menší nebo jiný rozsah, který se zvládne. *„Je něco, co může být uděláno jen rámcově?"*
 - **B) ANO POZDĚJI** — přijmu, ale s konkrétním reálným termínem.
 - **C) ANO ZA PODMÍNEK** — přijmu, když se něco jiného odloží nebo někdo pomůže. **Pojmenuj konkrétně co** — jinak to není podmínka, ale stížnost.
 
 ## Tón
 
-Všechny tři začínají souhlasem, ne odmítnutím. Vzor, kterým se řídí celá technika: *přijmu, ale pojmenuju cenu a nechám druhou stranu rozhodnout, co se za to odsune.*
+Všechny varianty **začínají souhlasem a teprve pak pojmenují cenu** — to je jádro techniky. Typické stavební kameny:
 
-Typické stavební kameny:
 - nabídnout výběr („který z úkolů mám udělat dřív?")
 - pojmenovat dopad na kvalitu („nestihnu to na úrovni, jakou očekáváte")
 - nabídnout jiný termín nebo jiný rozsah
 - odkázat na někoho, kdo to zvládne líp nebo dřív
 
-> Účastníci školení What a Life! mají konkrétní formulace na slidu z bloku PRIORITIZE IT — pokud si na ně uživatel vzpomíná, drž se jich, jsou nacvičené.
+> Absolventům školení: konkrétní nacvičené formulace máte na slidu z bloku PRIORITIZE IT. Když si je pamatujete, držte se jich.
+
+## Hotová formulace vůči nadřízenému
+
+Když jde o šéfa a uživatel neví, jak začít, tohle zaznělo na kurzu a funguje:
+
+> *„Dneska mám úplně plno. Teoreticky můžu zajít za kolegou a říct mu, že mu zruším přípravu na jednání — nebo to můžeme zkusit přeplánovat a podívat se na to v pátek."*
+
+Podstata: **nabídnout výběr a nechat rozhodnout jeho.** Ne „nestíhám", ale „tohle za to půjde stranou, souhlasíš?"
 
 ## Pravidla
 

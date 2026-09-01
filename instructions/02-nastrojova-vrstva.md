@@ -47,9 +47,9 @@ Kam všude mi věci padají. Metodika chce **co nejmenší počet úložišť** 
 
 - Pracovní kalendář:
 - Osobní kalendář:
-- Kam patří balvany:
+- Kam patří velké kameny:
 - Můj plánovací den a čas:
-- Můj čas na týdenní review:
+- Můj čas na týdenní plánování:
 
 ---
 

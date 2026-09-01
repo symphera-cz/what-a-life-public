@@ -1,7 +1,7 @@
 # What a Life! — AI agent
 
 Digitální podpora pro aplikaci metodiky **What a Life!** (Symphera, autor Martin Klusoň).
-Jedenáct workflow, které si AI asistent volá sám, když pozná situaci — nic nekopírujete a nemusíte si pamatovat příkazy.
+Deset workflow, které si AI asistent volá sám, když pozná situaci — nic nekopírujete a nemusíte si pamatovat příkazy.
 
 Určeno především **absolventům školení**. Bez kurzu to funguje taky, ale metodika je tu jen ve zkratce.
 
@@ -22,7 +22,7 @@ Vložíte seznam věcí — roztřídí je do **sedmi destinací**.
 
 Co si nastavíte, patří do vaší **nástrojové vrstvy** — je tam k tomu sekce „Co smí agent sám". Výchozí je opatrná varianta, ale je to vaše volba, ne naše.
 
-**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na review si dáváte do kalendáře sami — metodika ostatně učí, že priorita bez bloku je jen zbožné přání.
+**Co nedělá:** neposílá notifikace a nepřipomíná se. Systém, který vás upomíná, si za tři týdny ztlumíte. Blok na plánování si dáváte do kalendáře sami — metodika ostatně učí, že priorita bez bloku je jen zbožné přání.
 
 ## Instalace
 
@@ -37,11 +37,11 @@ Nejkratší cesta (Claude):
 
 Ve čtvrtém kroku s vámi asistent projde vaše nástroje, navrhne strukturu a vypíše vaši osobní **nástrojovou vrstvu** — tu vložíte do instrukcí pod tu první. Nevyplňujete žádnou šablonu; vzniká to z rozhovoru, protože u každého to vypadá jinak: Trello, Todoist, Notion, Outlook To Do nebo papírový zápisník. Metodika žádný nástroj nepředepisuje.
 
-Kdo se k marketplace nedostane, najde hotové ZIPy jednotlivých skills ve složce [`dist/`](dist) — **Customize → Skills → Upload**.
+Kdo se k marketplace nedostane, najde hotové ZIPy jednotlivých skills ve složce [`dist/`](dist) — **Customize → Skills → Upload**. Ve stejné složce je i [`rocni-plan-template.xlsx`](dist/rocni-plan-template.xlsx).
 
 ### ChatGPT a M365 Copilot
 
-Plugin je Claude formát, jinam nejde. Pro ostatní platformy je celý balíček složený **do jednoho souboru**: [`dist/wal-balicek-jeden-soubor.md`](dist/wal-balicek-jeden-soubor.md) — pravidla i všech jedenáct postupů pohromadě.
+Plugin je Claude formát, jinam nejde. Pro ostatní platformy je celý balíček složený **do jednoho souboru**: [`dist/wal-balicek-jeden-soubor.md`](dist/wal-balicek-jeden-soubor.md) — pravidla i všech deset postupů pohromadě.
 
 - **ChatGPT** — nahrajte ten soubor mezi soubory projektu a do *Instructions* dejte krátký odkaz na něj (přesné znění je v hlavičce souboru). Asistent si v něm postup najde sám.
 - **Copilot** — vložte obsah souboru na začátek konverzace a pokračujte v ní.
@@ -58,13 +58,12 @@ Automatické rozpoznání situace je tam slabší než u pluginu na Claude, ale 
 | `wal-rozpad-projektu` | ORGANIZE IT | „nemůžu se do toho pustit", „pořád to odkládám" |
 | `wal-prioritizuj` | PRIORITIZE IT | „nevím, co dřív", „všechno hoří" |
 | `wal-konstruktivni-ano` | PRIORITIZE IT | „přistálo mi tohle a nemám čas" |
-| `wal-naplanuj-tyden` | PLAN AND DO IT | „pojďme naplánovat týden" |
-| `wal-tydenni-review` | review napříč | „pojďme na review", „jak jsem na tom" |
+| `wal-naplanuj-tyden` | PLAN IT | „pojďme naplánovat týden" |
 | `wal-navyk` | MAKE IT A HABIT | „chci si zavést návyk", „nedaří se mi vydržet" |
 | `wal-energie` | HAVE ENERGY FOR IT | „jsem vyčerpaný", „nemám energii" |
 | `wal-role-a-vize` | DREAM IT | „chci si projít role", „nesedí mi nastavení" |
 
-Blok **BELIEVE IT** workflow nemá záměrně — je to práce s postojem, ne s informací.
+Blok **OWN IT** workflow nemá záměrně — je to práce s postojem, ne s informací. Projevuje se v tom, jak agent mluví.
 
 ## Tři vrstvy
 

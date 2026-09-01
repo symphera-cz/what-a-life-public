@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Složí instrukce agenta + všech 11 workflow do jednoho souboru pro platformy,
+Složí instrukce agenta + všech 10 workflow do jednoho souboru pro platformy,
 které neumí Claude pluginy (ChatGPT Projects, M365 Copilot).
 
 Spuštění z kořene repa:  python build/make-onefile.py
@@ -24,7 +24,6 @@ ORDER = [
     "wal-prioritizuj",
     "wal-konstruktivni-ano",
     "wal-naplanuj-tyden",
-    "wal-tydenni-review",
     "wal-navyk",
     "wal-energie",
 ]
