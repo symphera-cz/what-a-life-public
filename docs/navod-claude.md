@@ -34,7 +34,10 @@ Plugin je balíček, který Claudovi přidá deset postupů z našeho školení.
 
 1. Vlevo **Projects → Create project**. Pojmenujte ho třeba **Můj systém**.
 2. V projektu otevřete **Set project instructions** *(česky „Upravit instrukce")*.
-3. Vložte tam text **instrukcí agenta**, který máte v e-mailu jako přílohu.
+3. Vložte tam celý obsah souboru **instrukce agenta**.
+
+   Máte ho v e-mailu jako přílohu. Kdybyste ho ztratili, je i tady:
+   **[instructions/01-agent.md](https://raw.githubusercontent.com/symphera-cz/what-a-life-public/main/instructions/01-agent.md)** — otevře se jako holý text, označte všechno *(Ctrl+A)* a zkopírujte.
 
 To je jediné, co budete kopírovat ručně.
 

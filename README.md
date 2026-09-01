@@ -35,7 +35,17 @@ Psané návody, kdybyste je chtěli:
 - **→ [`docs/navod-claude.md`](docs/navod-claude.md)**
 - **→ [`docs/navod-chatgpt.md`](docs/navod-chatgpt.md)**
 
-Ve zkratce: v Claude přidáte tenhle repozitář jako zdroj pluginů, nainstalujete **what-a-life**, založíte projekt a vložíte do něj [instrukce agenta](instructions/01-agent.md). Pak napíšete **„pojďme nastavit systém"** a asistent s vámi projde vaše nástroje. Nevyplňujete žádnou šablonu; na konci vám vypíše hotový text a řekne, kam ho vložit.
+### Ve zkratce, když si to chcete udělat sami
+
+1. V Claude přidejte tenhle repozitář jako zdroj pluginů a nainstalujte **what-a-life**.
+2. Ověřte v **Customize → Skills**, že přibylo deset položek `wal-` a jsou zapnuté.
+3. Založte projekt a do **Set project instructions** vložte celý obsah tohohle souboru:
+
+   ## 📄 **[`instructions/01-agent.md`](instructions/01-agent.md)** ← tohle se vkládá do projektu
+
+   *Otevřete odkaz, klikněte vpravo nahoře na **Raw** a zkopírujte všechno.*
+
+4. Napište **„pojďme nastavit systém"**. Asistent s vámi projde vaše nástroje a na konci vypíše hotový text — ten pak **nahradí** to, co jste vložili v kroku 3. Nic nepřilepujete na konec a nevyplňujete žádnou šablonu.
 
 **Aktualizace se nestahují samy.** Když vyjde novější verze, klikněte v **Customize → Plugins** na **Update** — jinak vám dál běží ta, kterou jste nainstalovali, a nijak se to nepozná. Na novou verzi vás upozorníme e‑mailem.
 
