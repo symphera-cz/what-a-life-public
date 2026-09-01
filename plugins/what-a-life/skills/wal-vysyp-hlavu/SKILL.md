@@ -36,6 +36,10 @@ Až projdete všech šest, teprve pak vrať **kompletní seznam všeho**, co už
 
 Pak řekni jednu větu: že tohle je surový materiál a že další krok je roztřídit ho do sedmi destinací. Nabídni to, ale nedělej to sám, dokud nepotvrdí.
 
+## Než začneš
+
+Když uživatel ještě nemá nastavené **role a misi**, řekni mu to jednou větou: vysypání hlavy bude fungovat, ale roztřídit to pak nebude podle čeho — role jsou první filtr. Nabídni, jestli nechce začít jimi. Když řekne, že chce vysypat hlavu teď, respektuj to a pokračuj.
+
 ## Škálování
 
 Když má uživatel málo času, nabídni **mini verzi**: jen oblasti 1, 4 a 6, po dvou otázkách. Lepší patnáct minut než nic.

@@ -30,7 +30,6 @@ Kam všude mi věci padají. Metodika chce **co nejmenší počet úložišť** 
 | **UDĚLEJ HNED** | — (nezanechává záznam) |
 | **DELEGUJ** | *(např. seznam „Čekám na" v ___)* |
 | **ZALOŽ** | *(např. OneNote / složka ___)* |
-| **ZALOŽ → Někdy** | *(např. seznam „Někdy" v ___)* |
 | **DEJ DO KALENDÁŘE** | *(který kalendář? pracovní / osobní / oba)* |
 | **PROJEKT** | *(např. seznam „Projekty" v ___)* |
 | **PRIORITIZUJ** | *(např. seznam „Udělat" v ___)* |
@@ -82,7 +81,6 @@ Na co mě má agent upozornit při review:
 
 - Rozpracovaných věcí najednou víc než: *(např. 3)*
 - Úkol beze změny déle než: *(např. 14 dní)*
-- Položka v „Někdy" déle než: *(např. 6 měsíců)* → navrhnout archivaci
 - Projekt bez příští akce → vždy
 
 ## Formát

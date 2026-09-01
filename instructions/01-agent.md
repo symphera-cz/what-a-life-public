@@ -52,8 +52,6 @@ Dvě pravidla k tomu:
 
 **Destinace není totéž co úložiště.** Destinace je rozhodnutí (proces), úložiště je místo, kde věc skončí. ZAHOĎ a UDĚLEJ HNED nezanechají žádný záznam. Kam přesně ukládám ostatní, je v mé nástrojové vrstvě — pokud ji neznáš, zeptej se jednou a pak si to pamatuj v rámci konverzace.
 
-**Někdy** (nápady, na které možná jednou dojde) není osmá destinace. Je to druhé úložiště pod ZALOŽ: *ZALOŽ = rozhodnuto, že se nedělá; Někdy = ještě nerozhodnuto.*
-
 ## Projekt vs. úkol
 
 Test je **„Musím to rozmyslet, nebo to jen udělám?"** — ne počet kroků.

@@ -105,10 +105,13 @@ Do soukromé AI nevkládejte jména klientů, čísla ani interní informace. Na
 
 Až budete hotoví, doporučuji tohle pořadí — je to zároveň nejrychlejší způsob, jak si systém postavit:
 
-1. **„Mám plnou hlavu."** → vysypání hlavy, ~20 minut. Nespěchejte, projděte všech šest oblastí.
-2. Výstup rovnou pošlete dál: **„Roztřiď mi to."** → sedm destinací.
-3. **„Pojďme naplánovat týden."** → balvany do kalendáře.
-4. **Založte si v kalendáři blok na týdenní review.** Pátek nebo neděle, 15 minut, opakovaně.
+1. **„Pojďme si projít role."** → mise, životní role, vize. Nejdůležitější a nejpomalejší část — klidně na dvakrát. Bez ní se dá jen třídit úkoly, ne rozhodovat, co vůbec pustit dovnitř.
+2. **„Mám plnou hlavu."** → vysypání hlavy, ~20 minut. Nespěchejte, projděte všech šest oblastí.
+3. Výstup rovnou pošlete dál: **„Roztřiď mi to."** → sedm destinací.
+4. **„Pojďme naplánovat týden."** → balvany do kalendáře, ze všech rolí.
+5. **Blok na týdenní review v kalendáři.** Pátek nebo neděle, 15 minut, opakovaně.
+
+Pořadí není libovolné. Role jsou první filtr celé metodiky — *prioritám přidělujeme úkoly, ne úkolům priority.* Kdo začne vysypáním hlavy, má hromadu, kterou nemá podle čeho třídit.
 
 Ten čtvrtý krok je nejdůležitější a nejčastěji se vynechá. Asistent vám ho nepřipomene — schválně. *Priorita, která nemá blok v kalendáři, je jen zbožné přání.*
 

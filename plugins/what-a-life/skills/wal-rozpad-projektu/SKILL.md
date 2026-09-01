@@ -39,4 +39,4 @@ Bod 5 je nejdůležitější a nejčastěji se vynechává. Když člověk krok 
 
 Někdy vyjde najevo, že projekt nejde rozložit, protože chybí rozhodnutí („ještě nevím, jestli do toho vůbec chceme jít"). Pak je příští akce **to rozhodnutí** — a to je často schůzka nebo telefonát, ne přemýšlení o samotě.
 
-A občas se ukáže, že se do toho uživatel nechce pustit vůbec. To je legitimní výsledek: metodika říká, že *priorita bez rozhodnutí, co dělat nebudu, není skutečná priorita.* Nabídni **ZALOŽ → Někdy** nebo rovnou ZAHOĎ.
+A občas se ukáže, že se do toho uživatel nechce pustit vůbec. To je legitimní výsledek: metodika říká, že *priorita bez rozhodnutí, co dělat nebudu, není skutečná priorita.* Nabídni **ZALOŽ**, nebo rovnou ZAHOĎ.

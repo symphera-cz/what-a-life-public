@@ -23,8 +23,6 @@ Je to totéž, co se na školení trénuje na cvičném inboxu — jen na jeho v
 
 **Projekt vs. úkol:** test je *„Musím to rozmyslet, nebo to jen udělám?"* — ne počet kroků.
 
-**Někdy** (nápad, na který možná jednou dojde) není osmá destinace — je to druhé úložiště pod ZALOŽ. Když položka patří sem, napiš `ZALOŽ → Někdy`.
-
 ## Formát výstupu
 
 Jeden řádek na položku:
