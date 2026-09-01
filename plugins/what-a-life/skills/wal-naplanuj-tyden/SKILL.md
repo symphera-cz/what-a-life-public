@@ -41,9 +41,9 @@ Nejdřív velké, pak drobné. *„Nejdříve plánujte velké kameny… teprve 
 
 Petrovo doplnění analogie: **pivo** — na přátele a vztahy se čas *„vždycky ještě naleje"*, i když je sklenice plná kamenů a štěrku.
 
-### Na co se nezapomíná
+### Tahák „nezapomeňte"
 
-Projdi s ním tenhle seznam — je konkrétnější než obecná otázka na role:
+Projdi s ním tenhle seznam — je ze školení a je konkrétnější než obecná otázka na role:
 
 > Sport · Čas s dětmi · Čas s partnerem · Neformální setkání s přáteli · Rytmika · Coffee breaky · **Rezerva** · Čas na sebe · Odpočinek · **Plánování dalšího týdne**
 
@@ -76,7 +76,7 @@ Místo toho:
 - **Nárazníková pásma** mezi nimi.
 - **Konkrétní úkoly schované pod blokem** — klidně pět podbodů pod jedním blokem. To je v pořádku, zakázaný je ten dlouhý plochý seznam.
 
-Když se den rozsype, **od toho jsou rezervy a záchytné bloky** — ne přeplánování všeho.
+Když se den rozsype, **od toho jsou rezervy a skryté rezervy** — ne přeplánování všeho.
 
 ---
 

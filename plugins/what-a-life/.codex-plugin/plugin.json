@@ -1,0 +1,35 @@
+{
+  "name": "what-a-life",
+  "version": "0.7.0",
+  "description": "Deset workflow pro aplikaci metodiky What a Life!",
+  "author": {
+    "name": "Symphera s.r.o.",
+    "email": "info@symphera.com",
+    "url": "https://symphera.com"
+  },
+  "homepage": "https://symphera.com",
+  "repository": "https://github.com/symphera-cz/what-a-life-public",
+  "keywords": [
+    "productivity",
+    "planning",
+    "habits",
+    "prioritization"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "What a Life!",
+    "shortDescription": "Deset workflow pro osobní produktivitu",
+    "longDescription": "Digitální podpora metodiky What a Life! pro nastavení osobního systému, plánování, prioritizaci, návyky, energii, role a vizi.",
+    "developerName": "Symphera s.r.o.",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "websiteURL": "https://symphera.com",
+    "defaultPrompt": [
+      "Pojďme nastavit můj osobní systém.",
+      "Mám plnou hlavu a potřebuji ji vysypat.",
+      "Nevím, co mám udělat jako první."
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: wal-vysyp-hlavu
-description: Vedený mind sweep podle metodiky What a Life! — vyprázdnění hlavy na jeden zátah, bez třídění. Použij, když uživatel řekne, že má plnou hlavu, že mu něco uniká, že se mu honí myšlenky, nemůže spát kvůli nedořešeným věcem, nebo si výslovně řekne o mind sweep či vysypání hlavy. Nepoužívej na běžný brainstorming nápadů ani na plánování projektu.
+description: Vedený mind sweep podle metodiky What a Life! — vyprázdnění hlavy na jeden zátah, bez třídění. Použij, když uživatel řekne, že má plnou hlavu, že je toho na něj moc a neví kudy kam, že mu něco uniká, že se mu honí myšlenky, nemůže spát kvůli nedořešeným věcem, nebo si výslovně řekne o mind sweep či vysypání hlavy. **Tohle je správná volba i tehdy, když mluví o zahlcení, ale žádný seznam zatím nemá** — nejdřív se musí mít co třídit. Nepoužívej na běžný brainstorming nápadů ani na plánování projektu.
 ---
 
 # Vysyp hlavu

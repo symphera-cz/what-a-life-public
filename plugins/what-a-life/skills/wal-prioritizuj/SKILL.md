@@ -1,6 +1,6 @@
 ---
 name: wal-prioritizuj
-description: Přidělí prioritu úkolům pomocí matice čtyř kvadrantů podle metodiky What a Life! — důležitost před naléhavostí. Použij, když uživatel řekne, že neví co dřív, že je toho moc, že všechno hoří, nebo když má hotový seznam úkolů z třídění a potřebuje pořadí. Nepoužívej na řazení backlogu produktu ani na byznysovou prioritizaci projektů v týmu.
+description: Přidělí prioritu úkolům pomocí matice čtyř kvadrantů podle metodiky What a Life! — důležitost před naléhavostí. Použij, když uživatel řekne, že neví co dřív nebo že všechno hoří, a **už má co řadit** — hotový seznam úkolů, výstup z třídění, konkrétní věci. Nepoužívej, když ještě žádný seznam nemá a jen cítí zahlcení; tam patří vysypání hlavy. Nepoužívej ani na řazení backlogu produktu nebo na byznysovou prioritizaci projektů v týmu.
 ---
 
 # Prioritizuj

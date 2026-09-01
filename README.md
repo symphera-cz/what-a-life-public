@@ -18,7 +18,9 @@ Vložíte seznam věcí — roztřídí je do **sedmi destinací**.
 
 **Plugin sám nepřidává žádné připojení k vašim datům.** Jestli asistent uvidí váš kalendář, maily nebo úkoly, si nastavujete vy u svého poskytovatele AI — konektory, integrace, firemní politika. My do toho nevstupujeme.
 
-**Když ten přístup má, ať ho používá.** Zapsat úkol rovnou do vašeho seznamu je přesně to, o co jde — čím míň přepisování a překlikávání, tím spíš vám systém vydrží. Pravidlo není „nezapisuj", ale **ukaž návrh, počkej na potvrzení, pak zapiš**.
+**Když ten přístup má, ať ho používá.** Zapsat úkol rovnou do vašeho seznamu je přesně to, o co jde — čím míň přepisování a překlikávání, tím spíš vám systém vydrží.
+
+Platí přitom rozdíl, na kterém stojí použitelnost celého systému: **co jen odhodíte, zapíše rovnou a neptá se.** Nadiktujete větu, zamknete telefon a je to uložené. **Rozhodnutí vám ale nejdřív ukáže** — kam to patří, jakou to má prioritu, kdy na to bude blok. A do kalendáře nezaloží nikdy nic tiše.
 
 Co si nastavíte, patří do vaší **nástrojové vrstvy** — je tam k tomu sekce „Co smí agent sám". Výchozí je opatrná varianta, ale je to vaše volba, ne naše.
 
@@ -26,16 +28,14 @@ Co si nastavíte, patří do vaší **nástrojové vrstvy** — je tam k tomu se
 
 ## Instalace
 
-**→ [`docs/manual.md`](docs/manual.md)** — návod krok za krokem pro Claude, ChatGPT i Copilot.
+**Nejjednodušší je nechat se provést.** V e-mailu po školení máte text, který vložíte do prázdné konverzace s asistentem — provede vás nastavením krok za krokem a poradí, když nějaké tlačítko nenajdete.
 
-Nejkratší cesta (Claude):
+Psané návody, kdybyste je chtěli:
 
-1. **Customize → Plugins → „+" → Add marketplace**, vložte URL tohoto repozitáře.
-2. Nainstalujte plugin **what-a-life**.
-3. Založte projekt a vložte [`instructions/01-agent.md`](instructions/01-agent.md) do *Project instructions*.
-4. Napište **„pojďme nastavit systém"**.
+- **→ [`docs/navod-claude.md`](docs/navod-claude.md)**
+- **→ [`docs/navod-chatgpt.md`](docs/navod-chatgpt.md)**
 
-Ve čtvrtém kroku s vámi asistent projde vaše nástroje, navrhne strukturu a vypíše vaši osobní **nástrojovou vrstvu** — tu vložíte do instrukcí pod tu první. Nevyplňujete žádnou šablonu; vzniká to z rozhovoru, protože u každého to vypadá jinak: Trello, Todoist, Notion, Outlook To Do nebo papírový zápisník. Metodika žádný nástroj nepředepisuje.
+Ve zkratce: v Claude přidáte tenhle repozitář jako zdroj pluginů, nainstalujete **what-a-life**, založíte projekt a vložíte do něj [instrukce agenta](instructions/01-agent.md). Pak napíšete **„pojďme nastavit systém"** a asistent s vámi projde vaše nástroje. Nevyplňujete žádnou šablonu; na konci vám vypíše hotový text a řekne, kam ho vložit.
 
 **Aktualizace se nestahují samy.** Když vyjde novější verze, klikněte v **Customize → Plugins** na **Update** — jinak vám dál běží ta, kterou jste nainstalovali, a nijak se to nepozná. Na novou verzi vás upozorníme e‑mailem.
 
@@ -79,7 +79,7 @@ Blok **OWN IT** workflow nemá záměrně — je to práce s postojem, ne s info
 
 | Vrstva | Co obsahuje | Kde je |
 |---|---|---|
-| **1 · Metodika** | destinace, testy, pravidla | [`docs/metodika.md`](docs/metodika.md) |
+| **1 · Glosář** | názvy bloků, destinací a pojmů | [`docs/metodika.md`](docs/metodika.md) |
 | **2 · Instrukce agenta** | jak agent uvažuje a mluví | [`instructions/01-agent.md`](instructions/01-agent.md) |
 | **3 · Nástrojová vrstva** | vaše boardy, seznamy, štítky | vznikne v rozhovoru, kostra v [`instructions/02-`](instructions/02-nastrojova-vrstva.md) |
 
