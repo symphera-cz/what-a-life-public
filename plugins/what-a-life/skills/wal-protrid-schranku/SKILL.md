@@ -18,16 +18,20 @@ Metodika tomu říká **schůzka s Robinem** — vyhrazený moment, kdy se zprac
 | **DELEGUJ** | Patří někomu jinému. | komu · do kdy se ozvat, když nepřijde odpověď |
 | **ZALOŽ** | Nic se nedělá, jen uchovat. Sem patří i „chci někdy, ale nevím kdy". | kam to fyzicky uložil |
 | **DEJ DO KALENDÁŘE** | Vázané na čas/den, nebo potřebuje blok. Sem patří i „připomeň mi za rok". | kdy, nebo jak dlouhý blok |
-| **PROJEKT** | Vím, že to potřebuju, ale je to moc velké na jeden krok. | první krok (ten se stane úkolem) |
-| **PRIORITIZUJ** | Konkrétní jednotlivý úkol. | konkrétní příští akce |
+| **PROJEKT** | Chystám se to dělat a je to na víc kroků. | první krok (ten se stane úkolem) |
+| **PRIORITIZUJ** | Konkrétní úkol — nebo záměr, který ještě nezačínám. | konkrétní příští akce |
 
-### Projekt vs. PRIORITIZUJ
-
-Kritérium z výkladu:
+### Projekt vs. PRIORITIZUJ — je to fáze, ne vlastnost
 
 > **Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT.**
 
-A druhé: **projekt je úkol, který se nedá udělat** — je moc velký. Postup je vždycky *založit celek + naplánovat první krok*.
+**PRIORITIZUJ** = jedna řádka na seznamu. Patří sem i **potenciální projekt** — *„chci doma vymalovat"*, kde ještě nevím, co koupit ani kdy. Nezakládej kvůli tomu projekt; zatím je to záměr.
+
+**PROJEKT** = až se to chystám dělat. Tehdy vznikne samostatné místo a pod ním jednotlivé kroky.
+
+Když si nejsi jistý, ve které fázi to je, **zeptej se**: *„Chceš to začít dělat, nebo to zatím jen nechceš ztratit?"*
+
+Projekt je zároveň **úkol, který se nedá udělat** — je moc velký na jeden krok. Postup: *založit celek + naplánovat první krok*. Ten první krok bývá často **„sednout si a rozmyslet, co všechno je potřeba"** — a to je v pořádku.
 
 ### Delegování není jen „předat"
 

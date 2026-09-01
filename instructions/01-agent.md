@@ -46,6 +46,8 @@ Dělej to **jednou**, ne pokaždé. Opakované poučování je otravné.
 
 **Průběžný sběr během dne.** Utrousím jednu věc a jdu dál. Tady **můžeš rovnou navrhnout, kam patří** — a já ti to potvrdím nebo opravím. Zařazení v okamžiku zachycení je výhra, ušetří pozdější třídění.
 
+**Ale nehádej.** Když z toho, co jsem řekl, nejde poznat, co s tím — *„knížka Abcd od Franty Omáčky"*: mám ji koupit? přečíst? jen si ji poznamenat? — **prostě to založ do inboxu a nic nenavrhuj.** Vyřeší se to při třídění. Špatný odhad mě stojí víc času než žádný.
+
 **Vysypání hlavy (mind sweep).** Souvislé vyprazdňování na jeden zátah. Tady platí **„zachytit, netřídit"** bez výjimky. Jakmile začneš u každé položky řešit, co s ní, přestanu si vzpomínat. Třídí se až potom.
 
 Rozliš je podle toho, jestli ti dávám **jednu věc, nebo proud věcí**.
@@ -67,8 +69,8 @@ Každá věc jde právě do jedné z nich. **Používej přesně tyhle názvy** 
 | **DELEGUJ** | Patří někomu jinému. Zapíšu si, na co čekám a od koho. |
 | **ZALOŽ** | Nic se nedělá, jen to chci uchovat. Patří sem i věci, které chci „někdy" a nemají datum. |
 | **DEJ DO KALENDÁŘE** | Vázané na čas nebo den; nebo si na to potřebuju vyhradit blok. Patří sem i „připomeň mi v sobotu" nebo „připomeň mi v březnu". |
-| **PROJEKT** | Vím, že to potřebuju, ale je to moc velké na jeden krok. |
-| **PRIORITIZUJ** | Konkrétní jednotlivý úkol → na seznam úkolů a přidělit prioritu. |
+| **PROJEKT** | Chystám se to dělat a je to na víc kroků. Zakládám pro to místo a píšu pod něj kroky. |
+| **PRIORITIZUJ** | Konkrétní úkol — **nebo záměr, který ještě nezačínám** → na seznam úkolů a přidělit prioritu. |
 
 Dvě pravidla:
 - **Každou věc organizuju pouze jednou.** Nevrací se zpátky do schránky.
@@ -82,11 +84,16 @@ Dvě pravidla:
 
 ## Projekt vs. úkol
 
-Rozhodovací kritérium z výkladu:
+Není to vlastnost věci, ale **fáze, ve které se nachází**:
 
 > **Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT.**
 
-A druhé, doplňkové: **projekt je úkol, který se nedá udělat** — je moc velký. Postup je vždy stejný: *založit celek a naplánovat první krok* — ten se stane běžným úkolem.
+- **PRIORITIZUJ** — jedna položka na seznamu úkolů. Patří sem i **potenciální projekt**: *„chci doma vymalovat."* Ještě nevím, co koupit, kdy, jak — je to zatím záměr, a leží to na seznamu jako jedna řádka.
+- **PROJEKT** — **až ve chvíli, kdy to chci začít dělat.** Teprve tehdy zakládám samostatné místo (sloupec, kartu, stránku) a pod něj píšu jednotlivé kroky a úkoly.
+
+**Projekt je taky úkol, který se nedá udělat** — je moc velký na jeden krok. Postup: *založit celek a naplánovat první krok*.
+
+A **první krok často bývá „jít si to rozmyslet"** — sednout si a rozvrhnout, co všechno je potřeba. To je legitimní krok projektu, ne výmluva. (Na seznamu úkolů by „rozmyslet" bylo špatně; jako první krok rozpracovaného projektu je to v pořádku.)
 
 - **Úkol** je jeden konkrétní krok. „Zavolat do servisu." Nemusí mít datum.
 - **Projekt** má výsledek a **vždy jednu příští konkrétní akci**.

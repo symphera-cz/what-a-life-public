@@ -30,7 +30,8 @@ Bod 5 je nejdůležitější a nejčastěji se vynechává. Když člověk krok 
 ## Pravidla
 
 - **Každý krok je fyzicky proveditelná činnost.** Sloveso, které jde vidět.
-- **Zakázané formulace:** *zamyslet se, vyřešit, zabývat se, projít si, dát dohromady, připravit se, zmapovat.* Když ti taková formulace vyjde, je to znamení, že krok není dost rozložený.
+- **Zakázané formulace:** *vyřešit, zabývat se, projít si, dát dohromady, připravit se, zmapovat.* Když ti taková vyjde, krok není dost rozložený.
+- **Výjimka: „rozmyslet si to" jako PRVNÍ krok projektu je v pořádku.** U věci, kterou člověk teprve začíná, je *„sednout si a rozvrhnout, co všechno je potřeba"* legitimní první krok — jen mu dej **konkrétní podobu**: kdy, kde, jak dlouho. Blok v kalendáři, ne řádka na seznamu.
 - **Když je to ve skutečnosti jen úkol na jeden krok, řekni to rovnou a skonči.** Ne každá odkládaná věc je projekt.
 - Nenavrhuj termíny. Projekt nemá datum, má výsledek.
 - Neradíš, jak to celé udělat lépe. Držíš se rozkladu.
