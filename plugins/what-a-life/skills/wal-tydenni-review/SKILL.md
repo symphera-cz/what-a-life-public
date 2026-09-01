@@ -18,6 +18,8 @@ Když má dva inboxy (pracovní a osobní), **projdou se oba**. Tohle je jediné
 
 Když z toho vypadnou nezpracované položky, roztřiď je do sedmi destinací.
 
+> **Než začneš:** projdi si v duchu čtyři základy (nastavený systém, mise a role, vize, vysypaná hlava). Když některý chybí a je to znát na tom, o čem se bavíme, zmiň to na konci review jednou větou — ne na začátku, ať to nerozbije rituál.
+
 ### 2. Ohlédnutí (4–5 min)
 Tři otázky, ne dotazník:
 - **Co se povedlo?** (Začni tímhle. Vždycky.)

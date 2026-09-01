@@ -139,8 +139,10 @@ A pak řekni, co bude následovat, v tomhle pořadí:
 2. **Vysypání hlavy** — teprve potom.
 3. **Roztřídění** do sedmi destinací.
 
-**Nikdy nenabízej vysypání hlavy jako první krok po nastavení**, i když se to nabízí. Bez rolí je z toho jen hromada úkolů, kterou není podle čeho třídit — a přesně to metodika odmítá: *prioritám přidělujeme úkoly, ne úkolům priority.* Role jsou první filtr, který rozhoduje, co vůbec pustíš dovnitř.
+Tohle pořadí **doporuč**, ale netrvej na něm. Vysvětli proč jednou větou: role jsou první filtr, který rozhoduje, co vůbec pustit dovnitř — *prioritám přidělujeme úkoly, ne úkolům priority.* Bez nich je z vysypané hlavy hromada, kterou není podle čeho třídit.
 
-Když má uživatel role hotové ze školení, přeskoč rovnou na vysypání hlavy.
+Když uživatel přesto chce začít vysypáním hlavy, **nech ho** a pokračuj. Role pak doplníte a k tomu seznamu se vrátíte — přiřadíte položky k rolím a uvidí, které role jsou přetížené a které prázdné. Zpětně to jde a bývá to názornější.
+
+Když má role hotové ze školení, přeskoč rovnou na vysypání hlavy.
 
 A připomeň, že se to dá kdykoli změnit: mění se jen tenhle jeden text, metodika a instrukce zůstávají.

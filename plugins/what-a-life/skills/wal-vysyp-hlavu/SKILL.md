@@ -38,7 +38,7 @@ Pak řekni jednu větu: že tohle je surový materiál a že další krok je roz
 
 ## Než začneš
 
-Když uživatel ještě nemá nastavené **role a misi**, řekni mu to jednou větou: vysypání hlavy bude fungovat, ale roztřídit to pak nebude podle čeho — role jsou první filtr. Nabídni, jestli nechce začít jimi. Když řekne, že chce vysypat hlavu teď, respektuj to a pokračuj.
+Když uživatel ještě nemá **role a misi**, zmiň to **jednou větou** a nabídni, jestli nechce začít jimi — role jsou první filtr, podle kterého se pak třídí. Pak se ale zeptej, co chce, a **respektuj odpověď**. Vysypání hlavy funguje i bez rolí; jen si poznamenej, že se k tomu seznamu vrátíte, až role budou.
 
 ## Škálování
 
