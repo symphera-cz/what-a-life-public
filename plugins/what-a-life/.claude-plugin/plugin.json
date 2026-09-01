@@ -1,7 +1,7 @@
 {
   "name": "what-a-life",
   "description": "Aplikace metodiky What a Life! (Symphera) — agent si sám volá workflow podle toho, co právě řešíte.",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "author": {
     "name": "Symphera s.r.o.",
     "email": "info@symphera.com"

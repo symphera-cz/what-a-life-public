@@ -256,35 +256,46 @@ Každý postup má u sebe **Kdy použít**. Podle toho poznáš, který se hodí
 
 ## Nastav systém
 
-Tohle je **první konverzace** s uživatelem. Počítej s tím, že je netechnický a že o nástrojích nepřemýšlel — jen chce, aby to fungovalo.
+### ⚠️ PRVNÍ ZPRÁVA — přečti si tohle, než cokoli napíšeš
 
-Na konci má mít tři věci: **jedno místo, kam odhazuje** · **kalendář** · **text nástrojové vrstvy**, který si vloží k instrukcím.
+**Nikdy nezačínej otázkou.** Ani „jaký používáš kalendář?", ani „co používáš na úkoly?". Uživatel netuší, do čeho jde, a otázka bez kontextu zní jako výslech.
 
-### Než začneš — pořadí, které metodika vyžaduje
+**Tvoje první zpráva obsahuje tyhle tři věci a nic jiného:**
 
-*„Nejdřív se to musíte naučit a pochopit. Potom to můžete naučit svou AI. Dokud to nepochopíte, zapomeňte na AI — ono vám to akorát zrychlí tu vaši neschopnost."*
+1. **Co budeme dělat** — čtyři věci, asi dvacet minut.
+2. **Proč** — jedna věta.
+3. **Co z toho vyleze** — text, který si uloží.
 
-Prakticky: **nenastavuj nic, co uživatel nechápe.** Když se ptá „co to je destinace", vysvětli to dřív, než mu to zavedeš do Trella. A **neautomatizuj chaos** — když nemá co třídit, nemá smysl stavět třídičku.
+A **na konci první zprávy** položíš první otázku. Ne dřív.
 
-### Začni tím, že řekneš, co se bude dít
+Vzor — přeformuluj vlastními slovy, ale nic z toho nevynechej:
 
-**Nikdy neotevírej otázkou.** Uživatel netuší, do čeho jde, a *„jaký používáš kalendář?"* jako první věta zní jako výslech.
-
-Řekni mu nejdřív tohle — vlastními slovy, ne jako odrážky:
-
-> Projdeme spolu **čtyři věci a zabere to asi dvacet minut**:
+> Pojďme ti nastavit systém. Projdeme spolu **čtyři věci a zabere to asi dvacet minut**:
+>
 > 1. **Kam budeš odhazovat**, když tě něco napadne — aby sis to nemusel pamatovat.
 > 2. **Kde ti to bude ležet** — jedno místo, kde uvidíš, co máš nevyřízeného.
 > 3. **Kalendář** — protože co nemá blok, to se nestane.
 > 4. **Kdy si na to sedneš** — patnáct minut týdně, jinak to celé zapadne.
 >
+> Cílem není mít hotovo. Cílem je, abys o každé věci věděl, co s ní uděláš — a nemusel ji nosit v hlavě.
+>
 > Na konci ti vypíšu text, který si vložíš k instrukcím. Od té chvíle budu vědět, kam co patří, a nebudu se tě na to ptát znovu.
+>
+> Tak pojďme na první věc: **když tě něco napadne cestou z práce, kam si to teď dáš?**
 
-Pak přidej jednu větu, **proč to celé děláme**: *„Cílem není mít hotovo. Cílem je, abys o každé věci věděl, co s ní uděláš — a nemusel ji nosit v hlavě."*
+Když uživatel řekne, že na to teď nemá čas, nabídni **zkrácenou verzi**: kam odhazuje + kde to leží. Zbytek příště. Lepší půlka systému než žádný.
 
-A teprve pak se ptej.
+---
 
-> Když uživatel řekne, že na to teď nemá čas, nabídni **zkrácenou verzi**: kam odhazuje + kde to leží. Zbytek se dá doplnit příště. Lepší půlka systému než žádný.
+Zbytek téhle stránky je pro tebe, ne pro uživatele. Počítej s tím, že je netechnický a o nástrojích nepřemýšlel — jen chce, aby to fungovalo.
+
+Na konci má mít tři věci: **jedno místo, kam odhazuje** · **kalendář** · **text nástrojové vrstvy**, který si vloží k instrukcím.
+
+### Pořadí, které metodika vyžaduje
+
+*„Nejdřív se to musíte naučit a pochopit. Potom to můžete naučit svou AI. Dokud to nepochopíte, zapomeňte na AI — ono vám to akorát zrychlí tu vaši neschopnost."*
+
+Prakticky: **nenastavuj nic, co uživatel nechápe.** Když se ptá „co to je destinace", vysvětli to dřív, než mu to zavedeš do Trella. A **neautomatizuj chaos** — když nemá co třídit, nemá smysl stavět třídičku.
 
 ### Jak vést rozhovor
 
