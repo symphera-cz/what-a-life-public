@@ -5,12 +5,14 @@ $root = Split-Path -Parent $PSScriptRoot
 $src  = Join-Path $root "plugins\what-a-life\skills"
 $dist = Join-Path $root "dist"
 
-if (Test-Path $dist) { Remove-Item $dist -Recurse -Force }
-New-Item -ItemType Directory -Path $dist | Out-Null
+if (-not (Test-Path $dist)) { New-Item -ItemType Directory -Path $dist | Out-Null }
+
+# Maž jen ZIPy — v dist/ jsou i ručně udržované soubory (xlsx šablona, balíček pro ChatGPT)
+Remove-Item (Join-Path $dist "*.zip") -Force -ErrorAction SilentlyContinue
 
 Get-ChildItem $src -Directory | ForEach-Object {
     $zip = Join-Path $dist "$($_.Name).zip"
-    Compress-Archive -Path $_.FullName -DestinationPath $zip
+    Compress-Archive -Path $_.FullName -DestinationPath $zip -Force
     Write-Host "OK  $($_.Name).zip"
 }
 

@@ -37,6 +37,8 @@ Nejkratší cesta (Claude):
 
 Ve čtvrtém kroku s vámi asistent projde vaše nástroje, navrhne strukturu a vypíše vaši osobní **nástrojovou vrstvu** — tu vložíte do instrukcí pod tu první. Nevyplňujete žádnou šablonu; vzniká to z rozhovoru, protože u každého to vypadá jinak: Trello, Todoist, Notion, Outlook To Do nebo papírový zápisník. Metodika žádný nástroj nepředepisuje.
 
+**Aktualizace se nestahují samy.** Když vyjde novější verze, klikněte v **Customize → Plugins** na **Update** — jinak vám dál běží ta, kterou jste nainstalovali. Na novou verzi vás upozorníme e‑mailem.
+
 Kdo se k marketplace nedostane, najde hotové ZIPy jednotlivých skills ve složce [`dist/`](dist) — **Customize → Skills → Upload**. Ve stejné složce je i [`rocni-plan-template.xlsx`](dist/rocni-plan-template.xlsx).
 
 ### ChatGPT a M365 Copilot
