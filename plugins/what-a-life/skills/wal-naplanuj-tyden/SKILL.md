@@ -100,7 +100,13 @@ Když si ho chce nechat vizualizovat, udělej to na požádání — ale nikam n
 
 ## Očekávání
 
-V repu je k tomu **`dist/rocni-plan-template.xlsx`** — dva listy, jeden na velké věci po rolích, druhý na rok po měsících. Když uživatel nemá kde začít, pošli ho tam.
+Existuje k tomu **tabulka ke stažení** — dva listy, jeden na velké věci po rolích, druhý na rok po měsících:
+
+https://github.com/symphera-cz/what-a-life-public/blob/main/dist/rocni-plan-template.xlsx
+
+> ⚠️ **Ten soubor u sebe nemáš a nezkoušej ho otevírat.** Není součástí pluginu a v chatu soubory číst neumíš. Když ho uživatel bude chtít, **pošli mu ten odkaz** a řekni, že se stahuje tlačítkem *Download raw file* — GitHub xlsx nevykreslí a stránka vypadá prázdně.
+>
+> Tabulka není podmínka. **Roční plán se dá udělat rovnou v konverzaci** a uživatel si výsledek přepíše tam, kde má systém. Nabídni to jako první; odkaz až tomu, kdo chce hotový formulář.
 
 **Naplní se 20–30 %, a to je v pořádku.** Řekni to nahlas, jinak si uživatel po roce připadá jako neúspěšný. Smysl je mít rámec, ne splnit seznam.
 

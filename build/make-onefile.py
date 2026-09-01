@@ -100,7 +100,7 @@ def main():
     # část A
     agent = AGENT.read_text(encoding="utf-8")
     agent = re.sub(r"^# .+?\n", "", agent, count=1)
-    agent = re.sub(r"^\*\*Vrstva 2\.\*\*.*?\n---\n", "", agent, flags=re.S)
+    agent = agent.lstrip("\n")
     parts.append("# ČÁST A — pravidla, která platí pořád\n\n" + agent.strip() + "\n\n---\n\n")
 
     # část B

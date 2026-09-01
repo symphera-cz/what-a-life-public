@@ -63,6 +63,16 @@ Když se to stane, stačí říct: **„podívej se do toho souboru."** Nebo ře
 
 ---
 
+## Šablona ročního plánu
+
+Až se dostanete k ročnímu plánování, hodí se tabulka — dva listy, jeden na velké věci po rolích, druhý na rok po měsících. Máte ji v příloze e-mailu, nebo ke stažení tady:
+
+**[rocni-plan-template.xlsx](https://github.com/symphera-cz/what-a-life-public/blob/main/dist/rocni-plan-template.xlsx)** — tlačítko *Download raw file* vpravo nahoře. GitHub xlsx nezobrazí, takže stránka vypadá prázdně; to je v pořádku.
+
+Není to podmínka. Roční plán se dá udělat rovnou s asistentem a výsledek si přepsat tam, kde máte systém.
+
+---
+
 ## Prvních pár hodin
 
 Až budete hotoví, tohle pořadí funguje nejlíp:

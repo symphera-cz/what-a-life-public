@@ -118,7 +118,7 @@ Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
 **Namapuj to na nástroj, který má** — ne naopak. Pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
 
-📄 **Až víš, co používá, otevři si [`nastroje.md`](nastroje.md).** Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
+📄 **Až víš, co používá, otevři si přílohu [`nastroje.md`](nastroje.md)** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
 **Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
 
