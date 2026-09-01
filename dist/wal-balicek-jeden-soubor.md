@@ -575,7 +575,7 @@ Výchozí doporučení, když nic nenapovídá: **Todoist.** Funguje hned, nic s
 
 Blok DREAM IT — horní čtyři horizonty. Nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
 
-**Postup na školení: nejdřív role, pak mise pro každou z nich, pak vize, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor v sále. Nikdy neskákej rovnou k cílům.
+**Postup na školení: nejdřív role, pak mise pro každou z nich, pak vize, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. Nikdy neskákej rovnou k cílům.
 
 > Dotaz, který na školení padl dvakrát: *„Mám jednu misi, nebo misi pro každou roli?"* Odpověď: **misi pro každou roli** — a *mise v osobním a pracovním životě se často liší méně, než by člověk čekal.*
 
@@ -913,7 +913,7 @@ A hlavně: **co je dnes v Q2, bude za měsíc v Q1.** Většina krizí byly pře
 
 Slide má Q3 **prázdný** s tím, že tam vůbec nemá chodit. Eisenhower na tomtéž místě říká „delegovat".
 
-V sále na to padly námitky a lektor svůj výklad upravil. **Nejlepší vysvětlení dal účastník a používej ho:** *delegování se řeší už o krok dřív, v ORGANIZE IT — takže se to do matice vůbec nedostane.* Když někdo přijde s „ale tohle přece můžu delegovat", má pravdu a odpověď je právě tahle.
+Na školení na to padly námitky a lektor svůj výklad upravil. **Nejlepší vysvětlení dal účastník a používej ho:** *delegování se řeší už o krok dřív, v ORGANIZE IT — takže se to do matice vůbec nedostane.* Když někdo přijde s „ale tohle přece můžu delegovat", má pravdu a odpověď je právě tahle.
 
 #### Q4 není hřích
 

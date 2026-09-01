@@ -1,6 +1,6 @@
 # Glosář — pojmy metodiky What a Life!
 
-**Vrstva 1.** Slovník pojmů, které používá školení a které agent musí znát pod stejnými jmény. **Není to výklad metodiky** — ten patří ke kurzu a do materiálů, které dostanete v sále.
+**Vrstva 1.** Slovník pojmů, které používá školení a které agent musí znát pod stejnými jmény. **Není to výklad metodiky** — ten patří ke kurzu a do materiálů, které na něm dostanete.
 
 > **Proč jen glosář.** Do verze 0.7 tu byla celá rekonstruovaná metodika. Rozešla se se skilly — držela zrušené názvy bloků a vymyšlené popisky kvadrantů — a stala se z ní past: kdo si ji přečetl, hádal se pak s agentem. Pojmy se rozejít nemůžou, protože se nemění. Výklad ano, a proto tady není.
 >
@@ -92,7 +92,7 @@ Znění je ze slidu, který má účastník na plakátu.
 
 ## Pojmy z knihy, které ve školení nezazněly
 
-Používejte je jen vědomě a neoznačujte je za součást výkladu ze sálu.
+Používejte je jen vědomě a neoznačujte je za součást výkladu ze školení.
 
 **posteriority** · **balvany** (výklad má jen kameny a štěrk) · **záchytný blok** (výklad má rezervy a skryté rezervy) · **tři rozhodující výsledky** · **VIVAX** · **zrcadlo, okno, dalekohled** v týdenním plánování
 

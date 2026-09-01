@@ -30,7 +30,7 @@ A hlavně: **co je dnes v Q2, bude za měsíc v Q1.** Většina krizí byly pře
 
 Slide má Q3 **prázdný** s tím, že tam vůbec nemá chodit. Eisenhower na tomtéž místě říká „delegovat".
 
-V sále na to padly námitky a lektor svůj výklad upravil. **Nejlepší vysvětlení dal účastník a používej ho:** *delegování se řeší už o krok dřív, v ORGANIZE IT — takže se to do matice vůbec nedostane.* Když někdo přijde s „ale tohle přece můžu delegovat", má pravdu a odpověď je právě tahle.
+Na školení na to padly námitky a lektor svůj výklad upravil. **Nejlepší vysvětlení dal účastník a používej ho:** *delegování se řeší už o krok dřív, v ORGANIZE IT — takže se to do matice vůbec nedostane.* Když někdo přijde s „ale tohle přece můžu delegovat", má pravdu a odpověď je právě tahle.
 
 ### Q4 není hřích
 

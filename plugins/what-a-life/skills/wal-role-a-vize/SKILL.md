@@ -7,7 +7,7 @@ description: Vede tvorbu nebo revizi mise, životních rolí, vize pro roli a c�
 
 Blok DREAM IT — horní čtyři horizonty. Nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
 
-**Postup na školení: nejdřív role, pak mise pro každou z nich, pak vize, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor v sále. Nikdy neskákej rovnou k cílům.
+**Postup na školení: nejdřív role, pak mise pro každou z nich, pak vize, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. Nikdy neskákej rovnou k cílům.
 
 > Dotaz, který na školení padl dvakrát: *„Mám jednu misi, nebo misi pro každou roli?"* Odpověď: **misi pro každou roli** — a *mise v osobním a pracovním životě se často liší méně, než by člověk čekal.*
 

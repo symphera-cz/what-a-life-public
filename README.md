@@ -99,7 +99,7 @@ Instrukce popisují **proces**, nástrojová vrstva popisuje **úložiště**. K
 
 Tenhle repozitář obsahuje **operativní vrstvu** metodiky — to, co potřebuje asistent, aby mluvil stejným jazykem jako školení.
 
-Výklad, příběhy, cvičení vedená lektorem a školicí materiály **součástí nejsou**. Ty patří ke kurzu. Pokud jste školením prošli, držte se materiálů ze sálu — tohle je jejich zkratka, ne náhrada.
+Výklad, příběhy, cvičení vedená lektorem a školicí materiály **součástí nejsou**. Ty patří ke kurzu. Pokud jste školením prošli, držte se materiálů z kurzu — tohle je jejich zkratka, ne náhrada.
 
 ## Licence a použití
 

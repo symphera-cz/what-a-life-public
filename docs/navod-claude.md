@@ -147,7 +147,7 @@ Do soukromé AI nevkládejte jména klientů, čísla ani interní informace. Na
 
 **Můžu začít papírem?** Ano. Napište to a asistent vám bude dávat výstupy tak, aby se daly opsat.
 
-**Můžu si to upravit?** Ano, je to váš text. Jen počítejte s tím, že když změníte názvy destinací, přestane to sedět s plakátem i s tím, co jste slyšeli v sále.
+**Můžu si to upravit?** Ano, je to váš text. Jen počítejte s tím, že když změníte názvy destinací, přestane to sedět s plakátem i s tím, co jste slyšeli na školení.
 
 ---
 
