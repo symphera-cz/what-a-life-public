@@ -12,6 +12,8 @@ Zdroj: interní rešerše konektorů, září 2026. Údaje o dostupnosti zastar�
 
 Takže: **nepřesvědčuj nikoho, aby změnil nástroj.** Vezmi ten, co má, a namapuj na něj metodiku. Nový nástroj navrhuj jen tehdy, když sám řekne, že žádný nemá nebo že mu ten současný nefunguje.
 
+**Role, mise a vize a roční plán nejsou destinace** — dostanou v tom samém nástroji **vlastní místo** vedle té pětice. Nikdy je nedávej do ZALOŽ: ztratily by se mezi věcmi, se kterými se nic nedělá, a přitom je to to jediné, proti čemu se každý týden plánuje. V praxi: vlastní sloupec na nástěnce (Trello, Asana) · vlastní stránka nebo databáze (Notion, Obsidian) · vlastní projekt mimo pětici (Todoist, TickTick, To Do) · vlastní list v tabulce · vlastní oddíl v sešitě. V tabulkách níž je proto uvedená jen pětice destinací; tohle místo přidej vždycky navíc.
+
 ---
 
 ## Osobní správci úkolů

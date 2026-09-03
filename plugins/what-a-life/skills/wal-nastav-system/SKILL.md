@@ -118,6 +118,14 @@ Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
 **Namapuj to na nástroj, který má** — ne naopak. Pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
 
+### Role, mise a vize mají vlastní místo — ne destinaci
+
+Kromě pěti destinací potřebuje místo ještě **jedna trvalá věc: role, mise a vize.** Není to destinace a **nepatří do ZALOŽ** — tam by se ztratily mezi založenými úkoly, se kterými se nic nedělá. Role a vize jsou naopak to, **proti čemu se každý týden plánuje**, takže musí být na očích a snadno k otevření.
+
+Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **stránka nebo oblast** v Notionu · **vlastní projekt mimo pětici destinací** v Todoistu · vlastní poznámka v OneNote nebo Obsidianu · list v tabulce. Stejně jako roční plán (krok 5).
+
+Doporuč mu k tomu **kopii v instrukcích projektu** — bez ní podle rolí neumíš plánovat ty. Zapiš obojí do nástrojové vrstvy.
+
 📄 **Až víš, co používá, otevři si přílohu [`nastroje.md`](nastroje.md)** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
 **Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
@@ -172,7 +180,7 @@ Napiš mu **návod, ne pobídku.** Přesně tohle, krok za krokem:
 >
 > 1. Zkopíruj **celý text nahoře** — od začátku po konec.
 > 2. Vlevo v projektu klikni na **Set project instructions** *(nebo „Upravit instrukce" — podle jazyka)*.
-> 3. **Označ všechno, co tam už je, a přepiš to tímhle.** Nic nepřilepuj na konec.
+> 3. **Přilep to na konec, pod text, který tam už je.** Ten text nahoře jsou moje instrukce — ty tam musí zůstat.
 > 4. Ulož a napiš mi sem „hotovo".
 >
 > Je to jenom tvoje, nikomu se to neposílá.
@@ -200,6 +208,9 @@ PRIORITIZUJ · PROJEKT · DELEGUJ · ZALOŽ · DEJ DO KALENDÁŘE
 ## Kalendář
 Hlavní kalendář · propojený s AI ano/ne · kam patří bloky
 Týdenní plánování: kdy
+
+## Role, mise a vize
+Kde to mám: vlastní místo v nástroji (ne destinace) · kopie v instrukcích projektu ano/ne
 
 ## Roční plán
 Kde žije · kdy se dělá

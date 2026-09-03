@@ -1,13 +1,13 @@
 ---
 name: wal-role-a-vize
-description: Vede tvorbu nebo revizi mise, životních rolí, vize pro roli a cílů podle bloku DREAM IT metodiky What a Life! Použij, když uživatel řekne, že si chce nastavit nebo projít role, misi, vizi či hodnoty, že neví čemu věnovat čas, že mu nesedí nastavení, nebo že chce udělat roční ohlédnutí. Nepoužívej na firemní misi a vizi, na definici rolí v týmu ani na popis pracovní pozice.
+description: Vede tvorbu nebo revizi mise, životních rolí a vize pro roli podle bloku DREAM IT metodiky What a Life! Použij, když uživatel řekne, že si chce nastavit nebo projít role, misi, vizi či hodnoty, že neví čemu věnovat čas, že mu nesedí nastavení, nebo že chce udělat roční ohlédnutí. Nepoužívej na firemní misi a vizi, na definici rolí v týmu ani na popis pracovní pozice.
 ---
 
 # Role a vize
 
 Blok DREAM IT — horní čtyři horizonty. Nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
 
-**Postup na školení: nejdřív role, pak mise, pak vize pro každou roli, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. Nikdy neskákej rovnou k cílům.
+**Postup na školení: nejdřív role, pak mise, pak vize pro každou roli.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. **Cíle sem nepatří** — v DREAM IT žádné cvičení na cíle není. Co má být hotové letos, se řeší v ročním plánu (`wal-naplanuj-tyden`).
 
 > Dotaz, který na školení padl dvakrát: *„Mám jednu misi, nebo misi pro každou roli?"* Odpověď: **mise je jedna** — nanejvýš dvě, pracovní a soukromá. Ne pro každou životní roli. A *mise v osobním a pracovním životě se často liší méně, než by člověk čekal*, takže i ty dvě se u většiny lidí slijí. **Vize je naopak věc role** — tu dělej pro každou zvlášť.
 
@@ -102,11 +102,16 @@ Neber všech sedm rolí naráz — jedna, dvě za sezení. Kvalita padá strmě.
 
 ---
 
-## Cíle
+## Předání — bez něj je sezení k ničemu
 
-Teprve tady. Odvozené z vizí, ne ze seznamu přání. U každého cíle se ptej, **ke které roli a vizi patří**. Cíl, který se nedá k žádné roli přiřadit, je signál — buď chybí role, nebo ten cíl není můj.
+**Nestačí výstup vypsat.** Role, mise ani vize si nikdo nepamatuje z chatu a tobě budou příště chybět. Až je něco hotové — třeba jen hodnoty a dary — **vypiš to jako souvislý text** a proveď ho uložením, krok za krokem:
 
----
+> 1. Zkopíruj celý text nahoře.
+> 2. Ulož si ho na **jeho místo pro role, misi a vize** — to, které máme v nástrojové vrstvě *(sloupec v Trellu, stránka v Notionu, vlastní projekt v Todoistu…)*. **Ne mezi založené úkoly** — tam by se to ztratilo.
+> 3. A přidej **kopii do instrukcí projektu**, pod nástrojovou vrstvu, jako sekci `## Role, mise a vize` — **přilep ji na konec, nic nepřepisuj.** Bez ní podle rolí neumím plánovat.
+> 4. Napiš mi sem „hotovo".
+
+**Počkej, až potvrdí.** Když v nástrojové vrstvě žádné místo pro role není, dohodni ho teď a zapiš — je to jedna věta.
 
 ## Návaznost
 

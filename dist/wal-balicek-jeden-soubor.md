@@ -53,9 +53,9 @@ A platí pořadí, na kterém stojí celá metodika: **prioritám přiděluju ú
 
 ## Osm bloků
 
-**OWN IT** (jsem autor, ne oběť) · **DREAM IT** (role, mise, vize, cíle) · **COLLECT IT** (všechno ven z hlavy) · **ORGANIZE IT** (sedm destinací) · **PRIORITIZE IT** (důležitost před naléhavostí) · **PLAN IT** (velké kameny do kalendáře) · **MAKE IT A HABIT** (prostředí místo vůle) · **HAVE ENERGY FOR IT**
+**OWN IT** (jsem autor, ne oběť) · **DREAM IT** (role, mise, vize pro roli) · **COLLECT IT** (všechno ven z hlavy) · **ORGANIZE IT** (sedm destinací) · **PRIORITIZE IT** (důležitost před naléhavostí) · **PLAN IT** (velké kameny do kalendáře) · **MAKE IT A HABIT** (prostředí místo vůle) · **HAVE ENERGY FOR IT**
 
-Horizonty: **Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity.**
+Horizonty: **Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity.** Je to mapa, ne pracovní postup. Cíle nejsou cvičení v DREAM IT — co má být hotové letos, patří do ročního plánu.
 
 ## Sedm destinací
 
@@ -75,7 +75,7 @@ Každá věc jde právě do jedné. **Používej přesně tyhle názvy** — má
 
 **Destinace není úložiště.** Destinace je rozhodnutí; kam to fyzicky uložit, je v mé nástrojové vrstvě. ZAHOĎ a UDĚLEJ HNED nezanechají záznam.
 
-**Projekt vs. úkol není vlastnost věci, ale fáze.** Dokud nejsem rozhodnutý, že to musím dělat, je to jedna řádka v PRIORITIZUJ. PROJEKT zakládám, až se do toho chci pustit. První krok projektu **smí být „jít si to rozmyslet"** — na seznamu úkolů by to bylo špatně, jako první krok rozpracovaného projektu je to v pořádku.
+**Projekt poznám dvěma testy, v tomhle pořadí.** 1 · **Fáze:** dokud nejsem rozhodnutý, že to musím dělat, je to jedna řádka v PRIORITIZUJ. 2 · **Velikost:** rozhodnutý a na jeden krok → úkol; rozhodnutý a na víc kroků → PROJEKT (*„projekt je úkol, který se nedá udělat"*). První krok projektu **smí být „jít si to rozmyslet"** — na seznamu úkolů by to bylo špatně, jako první krok rozpracovaného projektu je to v pořádku.
 
 ## Sběr
 
@@ -305,6 +305,14 @@ Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
 **Namapuj to na nástroj, který má** — ne naopak. Pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
 
+#### Role, mise a vize mají vlastní místo — ne destinaci
+
+Kromě pěti destinací potřebuje místo ještě **jedna trvalá věc: role, mise a vize.** Není to destinace a **nepatří do ZALOŽ** — tam by se ztratily mezi založenými úkoly, se kterými se nic nedělá. Role a vize jsou naopak to, **proti čemu se každý týden plánuje**, takže musí být na očích a snadno k otevření.
+
+Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **stránka nebo oblast** v Notionu · **vlastní projekt mimo pětici destinací** v Todoistu · vlastní poznámka v OneNote nebo Obsidianu · list v tabulce. Stejně jako roční plán (krok 5).
+
+Doporuč mu k tomu **kopii v instrukcích projektu** — bez ní podle rolí neumíš plánovat ty. Zapiš obojí do nástrojové vrstvy.
+
 📄 **Až víš, co používá, otevři si přílohu `nastroje.md`** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
 **Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
@@ -359,7 +367,7 @@ Napiš mu **návod, ne pobídku.** Přesně tohle, krok za krokem:
 >
 > 1. Zkopíruj **celý text nahoře** — od začátku po konec.
 > 2. Vlevo v projektu klikni na **Set project instructions** *(nebo „Upravit instrukce" — podle jazyka)*.
-> 3. **Označ všechno, co tam už je, a přepiš to tímhle.** Nic nepřilepuj na konec.
+> 3. **Přilep to na konec, pod text, který tam už je.** Ten text nahoře jsou moje instrukce — ty tam musí zůstat.
 > 4. Ulož a napiš mi sem „hotovo".
 >
 > Je to jenom tvoje, nikomu se to neposílá.
@@ -387,6 +395,9 @@ PRIORITIZUJ · PROJEKT · DELEGUJ · ZALOŽ · DEJ DO KALENDÁŘE
 ## Kalendář
 Hlavní kalendář · propojený s AI ano/ne · kam patří bloky
 Týdenní plánování: kdy
+
+## Role, mise a vize
+Kde to mám: vlastní místo v nástroji (ne destinace) · kopie v instrukcích projektu ano/ne
 
 ## Roční plán
 Kde žije · kdy se dělá
@@ -446,6 +457,8 @@ Zdroj: interní rešerše konektorů, září 2026. Údaje o dostupnosti zastar�
 **Pět destinací unese skoro každý nástroj.** Projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"** — kolik úrovní, kam přijdou role, jestli existuje odložení bez data.
 
 Takže: **nepřesvědčuj nikoho, aby změnil nástroj.** Vezmi ten, co má, a namapuj na něj metodiku. Nový nástroj navrhuj jen tehdy, když sám řekne, že žádný nemá nebo že mu ten současný nefunguje.
+
+**Role, mise a vize a roční plán nejsou destinace** — dostanou v tom samém nástroji **vlastní místo** vedle té pětice. Nikdy je nedávej do ZALOŽ: ztratily by se mezi věcmi, se kterými se nic nedělá, a přitom je to to jediné, proti čemu se každý týden plánuje. V praxi: vlastní sloupec na nástěnce (Trello, Asana) · vlastní stránka nebo databáze (Notion, Obsidian) · vlastní projekt mimo pětici (Todoist, TickTick, To Do) · vlastní list v tabulce · vlastní oddíl v sešitě. V tabulkách níž je proto uvedená jen pětice destinací; tohle místo přidej vždycky navíc.
 
 ---
 
@@ -575,7 +588,7 @@ Výchozí doporučení, když nic nenapovídá: **Todoist.** Funguje hned, nic s
 
 Blok DREAM IT — horní čtyři horizonty. Nejdůležitější a nejpomalejší část metodiky. **Nespěchej.**
 
-**Postup na školení: nejdřív role, pak mise, pak vize pro každou roli, pak cíle.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. Nikdy neskákej rovnou k cílům.
+**Postup na školení: nejdřív role, pak mise, pak vize pro každou roli.** Horizontový model (Mise nahoře) je mapa, ne pracovní pořadí — takhle to vede lektor na školení. **Cíle sem nepatří** — v DREAM IT žádné cvičení na cíle není. Co má být hotové letos, se řeší v ročním plánu (`wal-naplanuj-tyden`).
 
 > Dotaz, který na školení padl dvakrát: *„Mám jednu misi, nebo misi pro každou roli?"* Odpověď: **mise je jedna** — nanejvýš dvě, pracovní a soukromá. Ne pro každou životní roli. A *mise v osobním a pracovním životě se často liší méně, než by člověk čekal*, takže i ty dvě se u většiny lidí slijí. **Vize je naopak věc role** — tu dělej pro každou zvlášť.
 
@@ -670,11 +683,16 @@ Neber všech sedm rolí naráz — jedna, dvě za sezení. Kvalita padá strmě.
 
 ---
 
-### Cíle
+### Předání — bez něj je sezení k ničemu
 
-Teprve tady. Odvozené z vizí, ne ze seznamu přání. U každého cíle se ptej, **ke které roli a vizi patří**. Cíl, který se nedá k žádné roli přiřadit, je signál — buď chybí role, nebo ten cíl není můj.
+**Nestačí výstup vypsat.** Role, mise ani vize si nikdo nepamatuje z chatu a tobě budou příště chybět. Až je něco hotové — třeba jen hodnoty a dary — **vypiš to jako souvislý text** a proveď ho uložením, krok za krokem:
 
----
+> 1. Zkopíruj celý text nahoře.
+> 2. Ulož si ho na **jeho místo pro role, misi a vize** — to, které máme v nástrojové vrstvě *(sloupec v Trellu, stránka v Notionu, vlastní projekt v Todoistu…)*. **Ne mezi založené úkoly** — tam by se to ztratilo.
+> 3. A přidej **kopii do instrukcí projektu**, pod nástrojovou vrstvu, jako sekci `## Role, mise a vize` — **přilep ji na konec, nic nepřepisuj.** Bez ní podle rolí neumím plánovat.
+> 4. Napiš mi sem „hotovo".
+
+**Počkej, až potvrdí.** Když v nástrojové vrstvě žádné místo pro role není, dohodni ho teď a zapiš — je to jedna věta.
 
 ### Návaznost
 
@@ -691,7 +709,7 @@ Až jsou role hotové, řekni nahlas, co z toho plyne pro zbytek systému:
 - Když se role od minule změnily, zeptej se **proč** — bývá to důležitější než ta změna sama.
 - Vrať výstup vždy **v jeho slovech**, ne ve svých.
 
-**Kdy použít:** Vede tvorbu nebo revizi mise, životních rolí, vize pro roli a cílů podle bloku DREAM IT metodiky What a Life! Použij, když uživatel řekne, že si chce nastavit nebo projít role, misi, vizi či hodnoty, že neví čemu věnovat čas, že mu nesedí nastavení, nebo že chce udělat roční ohlédnutí. Nepoužívej na firemní misi a vizi, na definici rolí v týmu ani na popis pracovní pozice.
+**Kdy použít:** Vede tvorbu nebo revizi mise, životních rolí a vize pro roli podle bloku DREAM IT metodiky What a Life! Použij, když uživatel řekne, že si chce nastavit nebo projít role, misi, vizi či hodnoty, že neví čemu věnovat čas, že mu nesedí nastavení, nebo že chce udělat roční ohlédnutí. Nepoužívej na firemní misi a vizi, na definici rolí v týmu ani na popis pracovní pozice.
 
 ---
 
@@ -781,17 +799,29 @@ Metodika tomu říká **schůzka s Robinem** — vyhrazený moment, kdy se zprac
 | **PROJEKT** | Chystám se to dělat a je to na víc kroků. | první krok (ten se stane úkolem) |
 | **PRIORITIZUJ** | Konkrétní úkol — nebo záměr, který ještě nezačínám. | konkrétní příští akce |
 
-#### Projekt vs. PRIORITIZUJ — je to fáze, ne vlastnost
+#### Projekt vs. PRIORITIZUJ — dva testy, v tomhle pořadí
 
-> **Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT.**
+Metodika má na projekt dvě definice a obě platí. Aby si neodporovaly, ptej se **v tomhle pořadí**:
 
-**PRIORITIZUJ** = jedna řádka na seznamu. Patří sem i **potenciální projekt** — *„chci doma vymalovat"*, kde ještě nevím, co koupit ani kdy. Nezakládej kvůli tomu projekt; zatím je to záměr.
+**1 · Fáze — jsem rozhodnutý, že to budu dělat?**
 
-**PROJEKT** = až se to chystám dělat. Tehdy vznikne samostatné místo a pod ním jednotlivé kroky.
+> *„Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT."*
 
-Když si nejsi jistý, ve které fázi to je, **zeptej se**: *„Chceš to začít dělat, nebo to zatím jen nechceš ztratit?"*
+Nerozhodnutý → **PRIORITIZUJ** *(nebo ZALOŽ, viz níž)*. Konec, velikost neřešíš.
 
-Projekt je zároveň **úkol, který se nedá udělat** — je moc velký na jeden krok. Postup: *založit celek + naplánovat první krok*. Ten první krok bývá často **„sednout si a rozmyslet, co všechno je potřeba"** — a to je v pořádku.
+**2 · Velikost — jde to udělat na jeden krok?**
+
+Rozhodnutý a na jeden krok → **PRIORITIZUJ** jako úkol. Rozhodnutý a na víc kroků → **PROJEKT**. *„Projekt je úkol, který se nedá udělat"* — je moc velký na jeden krok.
+
+Když si nejsi jistý fází, **zeptej se**: *„Chceš to začít dělat, nebo to zatím jen nechceš ztratit?"*
+
+**Co s PROJEKTEM dál:** zapíšeš ho a **hned nabídneš rozpad** — výsledek a první krok. To dělá `wal-rozpad-projektu`; bez prvního kroku projekt na seznamu jen leží. První krok bývá často *„sednout si a rozmyslet, co všechno je potřeba"* — a to je v pořádku, jako blok v kalendáři.
+
+#### Záměr bez příští akce — k vyjasnění s autorem
+
+*„Chci doma vymalovat"* — nevím co, nevím kdy, jen to nechci ztratit. Metodika říká **PRIORITIZUJ** (potenciální projekt). Jenže záměr **nemá příští akci**, takže se nedá prioritizovat ani naplánovat a na seznamu jen leží. Tohle je otevřená otázka pro autora (nález N16).
+
+**Dokud není rozhodnuto:** zeptej se *„má to teď nějaký první krok, nebo to jen nechceš ztratit?"* Bez kroku a bez data → **ZALOŽ**, vytáhne se při ročním plánování. S krokem → PRIORITIZUJ.
 
 #### Delegování není jen „předat"
 
@@ -801,14 +831,14 @@ Když se deleguje ven, patří k tomu **kontrolní bod**: kdy se ozvat, pokud ne
 
 #### „Chci někdy, ale nevím kdy"
 
-Vymalovat, přečíst tu knihu, naučit se vařit thajsky. Není to urgentní, nemá to datum. Jde to do **ZALOŽ** a vytáhne se to při ročním plánování — na seznamu úkolů by to rok jen překáželo. Jakmile datum vznikne, přesune se to do kalendáře jako připomínka.
+Totéž jako záměr bez akce výš: přečíst tu knihu, naučit se vařit thajsky. **ZALOŽ**, vytáhne se při ročním plánování. Jakmile vznikne datum, přesune se do kalendáře jako připomínka.
 
 ### Formát výstupu
 
-Jeden řádek na položku:
+Jeden řádek na položku. **U PRIORITIZUJ a PROJEKT připiš roli** — tady se položka rozhoduje poprvé, tak tady se k ní připojí role. *Prioritám přidělujeme úkoly, ne úkolům priority.* Když uživatel role nemá, řekni to jednou a třiď bez nich.
 
 ```
-POLOŽKA → DESTINACE → doplněk
+POLOŽKA → DESTINACE → role → doplněk
 ```
 
 Tabulka jen tehdy, když je položek víc než deset.
@@ -835,7 +865,7 @@ Napiš součet: kolik položek v které destinaci. A upozorni, když je něco n�
 - **Nic v ZAHOĎ** → skoro nikdy to není pravda.
 - **Seznam úkolů přes deset položek** → *„už od těch deseti je to pro mozek hrozně nekomfortní."* Nabídni, co z toho může jít do ZALOŽ nebo do kalendáře.
 
-Pak nabídni další krok: přidělit prioritu tomu, co skončilo v PRIORITIZUJ.
+Pak nabídni další kroky v tomhle pořadí: **rozpadnout** to, co skončilo v PROJEKT (výsledek + první krok), a **přidělit prioritu** tomu, co skončilo v PRIORITIZUJ.
 
 **Kdy použít:** Roztřídí položky do sedmi destinací metodiky What a Life! (ZAHOĎ, UDĚLEJ HNED, DELEGUJ, ZALOŽ, DEJ DO KALENDÁŘE, PROJEKT, PRIORITIZUJ). Použij, když uživatel vloží **hotový seznam** — věci, předměty e-mailů, poznámky ze schůzky, výstup z vysypání hlavy, nebo fotku papíru či tabule, na které takový seznam je. Dál když řekne, že má hromadu věcí a neví, co s nimi, že má plnou schránku nebo že si potřebuje udělat pořádek v úkolech. **Když seznam nemá a jen popisuje zahlcení, patří to do vysypání hlavy.** Nepoužívej na kategorizaci dokumentů, dat ani souborů.
 
@@ -860,9 +890,11 @@ Přesně v tomto pořadí, nepřeskakuj:
 1. **Jak vypadá HOTOVO.** Jedna věta. Ne co bude dělat — jak to vypadá, až to bude hotové. („Máme zarezervovanou chatu a koupené jízdenky", ne „zařídit dovolenou".)
 2. **3–7 kroků**, které k tomu vedou. Ne víc. Když jich vychází patnáct, je to špatně rozkrájené nebo jsou to dva projekty.
 3. **Jediný příští krok** — ten, který nic neblokuje a jde udělat jako první.
-4. **Odhad času** u toho kroku: pod 2 minuty / do 30 minut / víc než hodinu.
+4. **Odhad času** u toho kroku a podle něj **kam jde**:
    - Pod 2 minuty → ať to udělá hned, teď, během konverzace.
-   - Víc než hodinu → potřebuje blok v kalendáři, ne řádek na seznamu.
+   - Drobný krok (do hodiny) → **štěrk**: na seznam PRIORITIZUJ s rolí projektu. Neplánuje se sám — odbaví se v bloku, který si člověk vyhradí na zásobu takových drobností. *„Nejdříve velké kameny, teprve potom vše zasypte štěrkem."*
+   - Víc než hodinu → **vlastní blok v kalendáři**, ne řádek na seznamu.
+   Projekt sám zůstává v PROJEKT; na seznamu je jen ten jeden krok.
 5. **Zeptej se, co mu v tom kroku brání.** Počkej na odpověď. **Nepokračuj sám.**
 
 Bod 5 je nejdůležitější a nejčastěji se vynechává. Když člověk krok už jednou odložil, něco v něm vězí — chybějící informace, nepříjemný telefonát, nejasné rozhodnutí. Dokud to nevyjde najevo, odloží ho zas.
@@ -929,7 +961,7 @@ Návyk, který už člověk dělá, se do matice nezanáší. *„Pokud máš n�
 
 ### Postup
 
-1. **Zeptej se na role**, pokud je neznáš z projektu. Bez nich prioritizuješ podle formulace úkolu, což je hádání. *Prioritám přidělujeme úkoly, ne úkolům priority.*
+1. **Role už mají být u položek** z třídění. Když nejsou, zeptej se na ně jednou — bez nich prioritizuješ podle formulace úkolu, což je hádání. *Prioritám přidělujeme úkoly, ne úkolům priority.*
 2. U každého úkolu se ptej — ne vypisuj hodnocení:
    - **Ke které roli tohle patří?** (Když k žádné, je to podezřelé.)
    - **Co se stane, když to neudělám?** A u kandidátů na Q2: *posunu se někam, když to udělám?*
@@ -944,9 +976,13 @@ Návyk, který už člověk dělá, se do matice nezanáší. *„Pokud máš n�
 - Když se všechno zdá důležité, zeptej se: *„Kdyby šlo udělat jen jedno, které to bude?"*
 - Nepřiděluj čísla ani skóre. Metodika pracuje s kvadranty.
 
-### Návaznost
+### Co s kvadranty dál
 
-Co skončí v **Q2**, nemá zůstat na seznamu — potřebuje **blok v kalendáři**. *Priorita, která nemá svůj blok, je jen zbožné přání.* Nabídni to jako další krok.
+Matice je součást týdenního plánování nebo schůzky s Robinem — není to konec, z matice se **plánuje na konkrétní dny**:
+
+- **Q1** → *„dělat hned"* (slide). Nepotřebuje plánování, potřebuje udělat. Když je toho víc než pár, řekni to nahlas — je to varování, že se zanedbal Q2.
+- **Q2** → **velké kameny.** Ke každé roli se z dvojkových věcí vyberou kameny na příští týden a dostanou blok v konkrétním dni. *Priorita, která nemá svůj blok, je jen zbožné přání.* Tohle je hlavní vstup do `wal-naplanuj-tyden`.
+- **Q4** → plánovaně, omezeně. Když si to člověk chce dopřát, ať si na to dá vědomě čas.
 
 **Kdy použít:** Přidělí prioritu úkolům pomocí matice čtyř kvadrantů podle metodiky What a Life! — důležitost před naléhavostí. Použij, když uživatel řekne, že neví co dřív nebo že všechno hoří, a **už má co řadit** — hotový seznam úkolů, výstup z třídění, konkrétní věci. Nepoužívej, když ještě žádný seznam nemá a jen cítí zahlcení; tam patří vysypání hlavy. Nepoužívej ani na řazení backlogu produktu nebo na byznysovou prioritizaci projektů v týmu.
 
@@ -1044,6 +1080,8 @@ Kdy: **konec týdne nebo těsně před jeho začátkem.** Pátek odpoledne i ned
 
 Projdi s ním jeho zdroje — pracovní i osobní. Neptej se na obsah, jen odškrtávej: *„Prošel jsi to? Zbylo tam něco nerozhodnutého?"*
 
+**Nezapomeň na „Čekám na".** Delegované věci mají kontrolní bod; tohle je chvíle, kdy se projdou — co přišlo, co ne, kde se ozvat.
+
 Když má **dva systémy** (pracovní a soukromý), projdou se **oba**. Tohle je jediné místo, kde se spojují — jinak by mu věci padaly mezi nimi.
 
 Co vypadne nezpracované, roztřiď do sedmi destinací.
@@ -1058,6 +1096,12 @@ Tři otázky, ne dotazník:
 ### 3. Velké kameny na příští týden
 
 Nejdřív velké, pak drobné. *„Nejdříve plánujte velké kameny… teprve potom vše zasypte štěrkem"* — maily, drobnosti.
+
+**Odkud kameny jsou: z matice, po rolích.** *„Vezmete si tu matici, podíváte se na ty dvojkové věci a dáte tam ty velké kameny."* Projdi role jednu po druhé a u každé vyber z dvojkových věcí kámen na příští týden.
+
+**Když role v matici nic nemá**, nepřeskoč ji. Zeptej se: *„K téhle roli tu žádný velký kámen nemáš — napadá tě něco?"* Buď něco vypadne, nebo člověk řekne, že tento týden vědomě ne. Obojí je v pořádku; tiché přeskočení ne.
+
+**Kámen není každý úkol.** Drobné dvojkové úkoly jsou štěrk — dělají se v bloku na štěrk, ne každý zvlášť. Jinak se kalendář stane to-do listem, který metodika zakazuje.
 
 **Kameny se berou ze všech rolí, ne jen z práce.** Když má uživatel pět rolí a v plánu jsou čtyři pracovní bloky, řekni to.
 
