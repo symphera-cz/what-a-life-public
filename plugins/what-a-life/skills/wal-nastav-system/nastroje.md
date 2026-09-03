@@ -120,14 +120,27 @@ Akiflow, Sunsama, Motion. Sbírají úkoly z ostatních nástrojů a nutí je po
 
 ## Papír
 
-Jeden zápisník, každá destinace jedna dvoustrana. Funguje. Sběr přes asistenta odpadá, plánování taky — ale zbytek metodiky platí beze změny a týdenní plánování se dá dělat nad papírem stejně dobře.
+**Papír nikdy nenabízej ani nedoporučuj** — ani jako jednu z možností, ani jako otázku *„nebo radši papír?"*. Sběr přes asistenta na něm nefunguje, zápis taky ne, a člověk, který si přišel systém zdigitalizovat, dostane krok zpátky.
 
-Nepřemlouvej člověka od papíru k appce. Kdo si systém udrží na papíře, má napůl vyhráno; digitální nástroj mu přidá jen rychlost, ne kázeň.
+Když si o něj řekne sám, respektuj to a neodmlouvej: jeden zápisník, každá destinace jedna dvoustrana, týdenní plánování nad papírem funguje stejně dobře. Jen mu rovnou řekni, co tím ztrácí — nic ti nepůjde zapsat a nic ti nepřečtu.
 
 ---
 
-## Když si vybírá nový nástroj
+## Když nemá nic a vybírá nový nástroj
 
-Zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
+Zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, nebo počítač. Pak doporuč **jednu** možnost a řekni proč. Nevypisuj katalog a neříkej „záleží na tobě".
 
-Výchozí doporučení, když nic nenapovídá: **Todoist.** Funguje hned, nic se v něm nestaví, má due i deadline, a propojení s asistentem je na jedno kliknutí.
+**Výchozí doporučení: Notion.** Jediný, jehož free plán metodiku nijak neomezuje — neomezené stránky, jeden nástroj na destinace, roli, misi i roční plán, a asistent do něj umí zapisovat.
+
+Kdy jinak:
+
+| Situace | Nástroj | Proč |
+|---|---|---|
+| chce jen úkoly, žádnou ceremonii | **TickTick** | jednoduché, navíc umí návyky (free: 9 seznamů, 99 úkolů na seznam) |
+| myslí vizuálně, chce nástěnku | **Trello** | sloupce a tažení myší; **řekni dopředu, že asistent neumí mazat, jen archivovat** — týká se destinace ZAHOĎ |
+| firma jede na Atlassianu | **Confluence + Jira** | role a mise do Confluence, projekty do Jiry; nic navíc neplatí |
+| kalendář | **Google Kalendář** | pro každého, kdo nemá Outlook: plný zápis, zdarma |
+
+⚠️ **Todoist nedoporučuj někomu, kdo začíná.** Free plán má jen **pět aktivních projektů** — na pět destinací plus roli už to nevyjde. Když ho někdo používá a je spokojený, nech ho u něj a řekni mu, že destinace bude muset sloučit pod štítky, nebo si připlatit.
+
+⚠️ **Než něco slíbíš o zápisu**, ověř tři věci: má **placený plán AI** (na free účtu webové konektory nejsou) · **oprávnění se dávají po částech**, takže bez povoleného zápisu to neprojde · **nic se nespustí samo** — týdenní rituál musí zahájit člověk.
