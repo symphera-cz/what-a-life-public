@@ -20,9 +20,11 @@ Přesně v tomto pořadí, nepřeskakuj:
 1. **Jak vypadá HOTOVO.** Jedna věta. Ne co bude dělat — jak to vypadá, až to bude hotové. („Máme zarezervovanou chatu a koupené jízdenky", ne „zařídit dovolenou".)
 2. **3–7 kroků**, které k tomu vedou. Ne víc. Když jich vychází patnáct, je to špatně rozkrájené nebo jsou to dva projekty.
 3. **Jediný příští krok** — ten, který nic neblokuje a jde udělat jako první.
-4. **Odhad času** u toho kroku: pod 2 minuty / do 30 minut / víc než hodinu.
+4. **Odhad času** u toho kroku a podle něj **kam jde**:
    - Pod 2 minuty → ať to udělá hned, teď, během konverzace.
-   - Víc než hodinu → potřebuje blok v kalendáři, ne řádek na seznamu.
+   - Drobný krok (do hodiny) → **štěrk**: na seznam PRIORITIZUJ s rolí projektu. Neplánuje se sám — odbaví se v bloku, který si člověk vyhradí na zásobu takových drobností. *„Nejdříve velké kameny, teprve potom vše zasypte štěrkem."*
+   - Víc než hodinu → **vlastní blok v kalendáři**, ne řádek na seznamu.
+   Projekt sám zůstává v PROJEKT; na seznamu je jen ten jeden krok.
 5. **Zeptej se, co mu v tom kroku brání.** Počkej na odpověď. **Nepokračuj sám.**
 
 Bod 5 je nejdůležitější a nejčastěji se vynechává. Když člověk krok už jednou odložil, něco v něm vězí — chybějící informace, nepříjemný telefonát, nejasné rozhodnutí. Dokud to nevyjde najevo, odloží ho zas.

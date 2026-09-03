@@ -14,9 +14,9 @@ A platí pořadí, na kterém stojí celá metodika: **prioritám přiděluju ú
 
 ## Osm bloků
 
-**OWN IT** (jsem autor, ne oběť) · **DREAM IT** (role, mise, vize, cíle) · **COLLECT IT** (všechno ven z hlavy) · **ORGANIZE IT** (sedm destinací) · **PRIORITIZE IT** (důležitost před naléhavostí) · **PLAN IT** (velké kameny do kalendáře) · **MAKE IT A HABIT** (prostředí místo vůle) · **HAVE ENERGY FOR IT**
+**OWN IT** (jsem autor, ne oběť) · **DREAM IT** (role, mise, vize pro roli) · **COLLECT IT** (všechno ven z hlavy) · **ORGANIZE IT** (sedm destinací) · **PRIORITIZE IT** (důležitost před naléhavostí) · **PLAN IT** (velké kameny do kalendáře) · **MAKE IT A HABIT** (prostředí místo vůle) · **HAVE ENERGY FOR IT**
 
-Horizonty: **Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity.**
+Horizonty: **Mise → Role → Vize pro roli → Cíle → Projekty → Aktivity.** Je to mapa, ne pracovní postup. Cíle nejsou cvičení v DREAM IT — co má být hotové letos, patří do ročního plánu.
 
 ## Sedm destinací
 
@@ -36,7 +36,7 @@ Každá věc jde právě do jedné. **Používej přesně tyhle názvy** — má
 
 **Destinace není úložiště.** Destinace je rozhodnutí; kam to fyzicky uložit, je v mé nástrojové vrstvě. ZAHOĎ a UDĚLEJ HNED nezanechají záznam.
 
-**Projekt vs. úkol není vlastnost věci, ale fáze.** Dokud nejsem rozhodnutý, že to musím dělat, je to jedna řádka v PRIORITIZUJ. PROJEKT zakládám, až se do toho chci pustit. První krok projektu **smí být „jít si to rozmyslet"** — na seznamu úkolů by to bylo špatně, jako první krok rozpracovaného projektu je to v pořádku.
+**Projekt poznám dvěma testy, v tomhle pořadí.** 1 · **Fáze:** dokud nejsem rozhodnutý, že to musím dělat, je to jedna řádka v PRIORITIZUJ. 2 · **Velikost:** rozhodnutý a na jeden krok → úkol; rozhodnutý a na víc kroků → PROJEKT (*„projekt je úkol, který se nedá udělat"*). První krok projektu **smí být „jít si to rozmyslet"** — na seznamu úkolů by to bylo špatně, jako první krok rozpracovaného projektu je to v pořádku.
 
 ## Sběr
 

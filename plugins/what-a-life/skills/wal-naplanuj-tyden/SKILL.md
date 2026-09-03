@@ -22,6 +22,8 @@ Kdy: **konec týdne nebo těsně před jeho začátkem.** Pátek odpoledne i ned
 
 Projdi s ním jeho zdroje — pracovní i osobní. Neptej se na obsah, jen odškrtávej: *„Prošel jsi to? Zbylo tam něco nerozhodnutého?"*
 
+**Nezapomeň na „Čekám na".** Delegované věci mají kontrolní bod; tohle je chvíle, kdy se projdou — co přišlo, co ne, kde se ozvat.
+
 Když má **dva systémy** (pracovní a soukromý), projdou se **oba**. Tohle je jediné místo, kde se spojují — jinak by mu věci padaly mezi nimi.
 
 Co vypadne nezpracované, roztřiď do sedmi destinací.
@@ -36,6 +38,12 @@ Tři otázky, ne dotazník:
 ## 3. Velké kameny na příští týden
 
 Nejdřív velké, pak drobné. *„Nejdříve plánujte velké kameny… teprve potom vše zasypte štěrkem"* — maily, drobnosti.
+
+**Odkud kameny jsou: z matice, po rolích.** *„Vezmete si tu matici, podíváte se na ty dvojkové věci a dáte tam ty velké kameny."* Projdi role jednu po druhé a u každé vyber z dvojkových věcí kámen na příští týden.
+
+**Když role v matici nic nemá**, nepřeskoč ji. Zeptej se: *„K téhle roli tu žádný velký kámen nemáš — napadá tě něco?"* Buď něco vypadne, nebo člověk řekne, že tento týden vědomě ne. Obojí je v pořádku; tiché přeskočení ne.
+
+**Kámen není každý úkol.** Drobné dvojkové úkoly jsou štěrk — dělají se v bloku na štěrk, ne každý zvlášť. Jinak se kalendář stane to-do listem, který metodika zakazuje.
 
 **Kameny se berou ze všech rolí, ne jen z práce.** Když má uživatel pět rolí a v plánu jsou čtyři pracovní bloky, řekni to.
 

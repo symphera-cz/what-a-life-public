@@ -24,17 +24,29 @@ Metodika tomu říká **schůzka s Robinem** — vyhrazený moment, kdy se zprac
 | **PROJEKT** | Chystám se to dělat a je to na víc kroků. | první krok (ten se stane úkolem) |
 | **PRIORITIZUJ** | Konkrétní úkol — nebo záměr, který ještě nezačínám. | konkrétní příští akce |
 
-### Projekt vs. PRIORITIZUJ — je to fáze, ne vlastnost
+### Projekt vs. PRIORITIZUJ — dva testy, v tomhle pořadí
 
-> **Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT.**
+Metodika má na projekt dvě definice a obě platí. Aby si neodporovaly, ptej se **v tomhle pořadí**:
 
-**PRIORITIZUJ** = jedna řádka na seznamu. Patří sem i **potenciální projekt** — *„chci doma vymalovat"*, kde ještě nevím, co koupit ani kdy. Nezakládej kvůli tomu projekt; zatím je to záměr.
+**1 · Fáze — jsem rozhodnutý, že to budu dělat?**
 
-**PROJEKT** = až se to chystám dělat. Tehdy vznikne samostatné místo a pod ním jednotlivé kroky.
+> *„Pokud ještě nejsem úplně rozhodnutý, že to musím dělat, patří to do PRIORITIZUJ. Pokud už si uvědomuju, že to prostě potřebuju, je to spíš PROJEKT."*
 
-Když si nejsi jistý, ve které fázi to je, **zeptej se**: *„Chceš to začít dělat, nebo to zatím jen nechceš ztratit?"*
+Nerozhodnutý → **PRIORITIZUJ** *(nebo ZALOŽ, viz níž)*. Konec, velikost neřešíš.
 
-Projekt je zároveň **úkol, který se nedá udělat** — je moc velký na jeden krok. Postup: *založit celek + naplánovat první krok*. Ten první krok bývá často **„sednout si a rozmyslet, co všechno je potřeba"** — a to je v pořádku.
+**2 · Velikost — jde to udělat na jeden krok?**
+
+Rozhodnutý a na jeden krok → **PRIORITIZUJ** jako úkol. Rozhodnutý a na víc kroků → **PROJEKT**. *„Projekt je úkol, který se nedá udělat"* — je moc velký na jeden krok.
+
+Když si nejsi jistý fází, **zeptej se**: *„Chceš to začít dělat, nebo to zatím jen nechceš ztratit?"*
+
+**Co s PROJEKTEM dál:** zapíšeš ho a **hned nabídneš rozpad** — výsledek a první krok. To dělá `wal-rozpad-projektu`; bez prvního kroku projekt na seznamu jen leží. První krok bývá často *„sednout si a rozmyslet, co všechno je potřeba"* — a to je v pořádku, jako blok v kalendáři.
+
+### Záměr bez příští akce — k vyjasnění s autorem
+
+*„Chci doma vymalovat"* — nevím co, nevím kdy, jen to nechci ztratit. Metodika říká **PRIORITIZUJ** (potenciální projekt). Jenže záměr **nemá příští akci**, takže se nedá prioritizovat ani naplánovat a na seznamu jen leží. Tohle je otevřená otázka pro autora (nález N16).
+
+**Dokud není rozhodnuto:** zeptej se *„má to teď nějaký první krok, nebo to jen nechceš ztratit?"* Bez kroku a bez data → **ZALOŽ**, vytáhne se při ročním plánování. S krokem → PRIORITIZUJ.
 
 ### Delegování není jen „předat"
 
@@ -44,14 +56,14 @@ Když se deleguje ven, patří k tomu **kontrolní bod**: kdy se ozvat, pokud ne
 
 ### „Chci někdy, ale nevím kdy"
 
-Vymalovat, přečíst tu knihu, naučit se vařit thajsky. Není to urgentní, nemá to datum. Jde to do **ZALOŽ** a vytáhne se to při ročním plánování — na seznamu úkolů by to rok jen překáželo. Jakmile datum vznikne, přesune se to do kalendáře jako připomínka.
+Totéž jako záměr bez akce výš: přečíst tu knihu, naučit se vařit thajsky. **ZALOŽ**, vytáhne se při ročním plánování. Jakmile vznikne datum, přesune se do kalendáře jako připomínka.
 
 ## Formát výstupu
 
-Jeden řádek na položku:
+Jeden řádek na položku. **U PRIORITIZUJ a PROJEKT připiš roli** — tady se položka rozhoduje poprvé, tak tady se k ní připojí role. *Prioritám přidělujeme úkoly, ne úkolům priority.* Když uživatel role nemá, řekni to jednou a třiď bez nich.
 
 ```
-POLOŽKA → DESTINACE → doplněk
+POLOŽKA → DESTINACE → role → doplněk
 ```
 
 Tabulka jen tehdy, když je položek víc než deset.
@@ -78,4 +90,4 @@ Napiš součet: kolik položek v které destinaci. A upozorni, když je něco n�
 - **Nic v ZAHOĎ** → skoro nikdy to není pravda.
 - **Seznam úkolů přes deset položek** → *„už od těch deseti je to pro mozek hrozně nekomfortní."* Nabídni, co z toho může jít do ZALOŽ nebo do kalendáře.
 
-Pak nabídni další krok: přidělit prioritu tomu, co skončilo v PRIORITIZUJ.
+Pak nabídni další kroky v tomhle pořadí: **rozpadnout** to, co skončilo v PROJEKT (výsledek + první krok), a **přidělit prioritu** tomu, co skončilo v PRIORITIZUJ.

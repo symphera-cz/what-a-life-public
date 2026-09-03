@@ -44,7 +44,7 @@ Návyk, který už člověk dělá, se do matice nezanáší. *„Pokud máš n�
 
 ## Postup
 
-1. **Zeptej se na role**, pokud je neznáš z projektu. Bez nich prioritizuješ podle formulace úkolu, což je hádání. *Prioritám přidělujeme úkoly, ne úkolům priority.*
+1. **Role už mají být u položek** z třídění. Když nejsou, zeptej se na ně jednou — bez nich prioritizuješ podle formulace úkolu, což je hádání. *Prioritám přidělujeme úkoly, ne úkolům priority.*
 2. U každého úkolu se ptej — ne vypisuj hodnocení:
    - **Ke které roli tohle patří?** (Když k žádné, je to podezřelé.)
    - **Co se stane, když to neudělám?** A u kandidátů na Q2: *posunu se někam, když to udělám?*
@@ -59,6 +59,10 @@ Návyk, který už člověk dělá, se do matice nezanáší. *„Pokud máš n�
 - Když se všechno zdá důležité, zeptej se: *„Kdyby šlo udělat jen jedno, které to bude?"*
 - Nepřiděluj čísla ani skóre. Metodika pracuje s kvadranty.
 
-## Návaznost
+## Co s kvadranty dál
 
-Co skončí v **Q2**, nemá zůstat na seznamu — potřebuje **blok v kalendáři**. *Priorita, která nemá svůj blok, je jen zbožné přání.* Nabídni to jako další krok.
+Matice je součást týdenního plánování nebo schůzky s Robinem — není to konec, z matice se **plánuje na konkrétní dny**:
+
+- **Q1** → *„dělat hned"* (slide). Nepotřebuje plánování, potřebuje udělat. Když je toho víc než pár, řekni to nahlas — je to varování, že se zanedbal Q2.
+- **Q2** → **velké kameny.** Ke každé roli se z dvojkových věcí vyberou kameny na příští týden a dostanou blok v konkrétním dni. *Priorita, která nemá svůj blok, je jen zbožné přání.* Tohle je hlavní vstup do `wal-naplanuj-tyden`.
+- **Q4** → plánovaně, omezeně. Když si to člověk chce dopřát, ať si na to dá vědomě čas.
