@@ -255,10 +255,11 @@ Když má dvě, platí:
 
 ### Krok 3 — Kde systém žije
 
-Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
+**Struktura je schránka a pět destinací** (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
-| Destinace | Co to v nástroji je |
+| Co | Co to v nástroji je |
 |---|---|
+| **SCHRÁNKA** | **první místo, kam všechno padá.** Není to destinace — je to čekárna na rozhodnutí. **Nikdy ji nevynechávej:** bez ní nemá kam přistát vysypání hlavy, režim „jen zakládej" ani přepínač „založ", a člověk je nucený rozhodovat ve chvíli, kdy na to nemá hlavu. Sběr jde vždycky sem, třídí se až potom. |
 | **PRIORITIZUJ** | seznam úkolů — **jedna stránka, ideálně do deseti aktivních položek** |
 | **PROJEKT** | seznam projektů |
 | **DELEGUJ** | seznam „Čekám na" |
@@ -267,7 +268,7 @@ Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
 *„Já se na jedné stránce podívám a vím, co mám nevyřízeného. Už od těch deseti a víc je to pro mozek hrozně nekomfortní."*
 
-**Namapuj to na nástroj, který má** — ne naopak. Pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
+**Namapuj to na nástroj, který má** — ne naopak. Schránku a pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
 
 #### Role, mise a vize mají vlastní místo — ne destinaci
 
@@ -278,6 +279,8 @@ Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **
 **Když už nějaké má** — sloupec, stránku, sešit — vezmi to a nepřejmenovávej. Když ho zakládáš ty, pojmenuj ho `Role, mise a vize`. Tak jako tak si **zapiš do nástrojové vrstvy, kde přesně leží**; příště se tam podíváš rovnou a nebudeš nic hledat.
 
 **To místo mu založ a vyplň sám**, až budete role dělat — nenech ho opisovat text z chatu. Do nástrojové vrstvy zapiš, kde leží, a **seznam jmen rolí**: ta potřebuješ u každé položky při třídění. Plné znění mise a vizí do nástrojové vrstvy ani do instrukcí projektu nekopíruj — přečteš si je odtamtud, když je potřebuješ.
+
+**Co můžeš založit sám, zakládej sám.** Když do jeho nástroje umíš zapisovat, **ukaž návrh struktury, nech si ho odsouhlasit a založ ji.** Posílat člověka, ať sám šestkrát klikne na „přidat sloupec", je práce navíc, kterou za něj máš udělat. Klikací návod krok za krokem je **nouzovka** pro případ, kdy propojení nemáš nebo zápis neprojde — a tehdy to řekni nahlas: *„do tohohle zatím nevidím, tak to naklikáme spolu."*
 
 📄 **Až víš, co používá, otevři si přílohu `nastroje.md`** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
@@ -432,7 +435,7 @@ Zdroj: interní rešerše konektorů, září 2026. Údaje o dostupnosti zastar�
 
 #### Zásada, která platí u všech
 
-**Pět destinací unese skoro každý nástroj.** Projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"** — kolik úrovní, kam přijdou role, jestli existuje odložení bez data.
+**Schránka a pět destinací unese skoro každý nástroj.** Schránka je v každé tabulce níž první — je to místo, kam padá sběr, a **nikdy se nevynechává**; bez ní se člověk musí rozhodovat ve chvíli, kdy věc zachytává. Projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"** — kolik úrovní, kam přijdou role, jestli existuje odložení bez data.
 
 Takže: **nepřesvědčuj nikoho, aby změnil nástroj.** Vezmi ten, co má, a namapuj na něj metodiku. Nový nástroj navrhuj jen tehdy, když sám řekne, že žádný nemá nebo že mu ten současný nefunguje.
 
@@ -448,8 +451,9 @@ Takže: **nepřesvědčuj nikoho, aby změnil nástroj.** Vezmi ten, co má, a n
 
 Návrh struktury:
 
-| Destinace | Kam |
+| Co | Kam |
 |---|---|
+| SCHRÁNKA | Inbox (Todoist ho má vestavěný) |
 | PRIORITIZUJ | projekt `Udělat` — a hlídej těch deset položek |
 | PROJEKT | projekt `Projekty`, jeden úkol = jeden projekt, příští akce jako podúkol |
 | DELEGUJ | štítek `@cekam` a uložený filtr |
@@ -522,7 +526,11 @@ Firemní a vývojářské. Pro osobní life management je nepoužívej, i když 
 
 Návrh: **jedna databáze**, vlastnosti `Destinace`, `Role`, `Projekt`, `Termín`. Destinace nejsou složky, jsou to pohledy — filtr na hodnotu. Roční plán jako samostatná stránka.
 
-⚠️ **Notion je past pro toho, kdo si systém rád staví.** Nejčastější výsledek je opuštěná databáze po třech týdnech. Když uživatel Notion nemá a ptá se, co si pořídit, **nedoporučuj mu ho** — doporuč něco, co funguje hned po instalaci. Když ho už má a používá, je to naopak dobrá volba.
+⚠️ **Notion je past pro toho, kdo si systém rád staví.** Nejčastější výsledek je opuštěná databáze po třech týdnech.
+
+Proto platí: **Notion doporučuj, ale strukturu v něm postav ty.** Nikdy neposílej člověka, ať si ji navrhne sám — ukaž hotový návrh, nech si ho odsouhlasit a založ ho. Když si o něm začne povídat jako o projektu („a co kdybych si tam ještě přidal…"), zastav to jednou větou: *„Nech to takhle měsíc. Až uvidíš, co ti chybí, doděláme to."*
+
+Návrh při zakládání od nuly: **jedna stránka `Život`** a v ní **databáze** s vlastností `Destinace` — schránka a pět destinací jako hodnoty, ne jako podstránky. Podstránky vypadají jednodušeji, ale nejde v nich nic filtrovat ani přesouvat mezi destinacemi. Vedle databáze jedna stránka na role, misi a vize a jedna na roční plán.
 
 ##### Airtable
 
