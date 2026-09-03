@@ -207,7 +207,6 @@ Zeptej se: *„Když tě něco napadne cestou z práce, kam to teď dáš?"* Pod
 
 - **Nejrychlejší dnes:** jedna konverzace s AI, kterou si člověk otevře kdykoli — utrousí větu, AI to zapíše do jeho systému. Když má AI přístup k jeho nástroji, padá to rovnou; když ne, sesbírá se to a přepíše najednou.
 - **Bez AI:** poznámková aplikace v telefonu, jedna. Nebo hlasovka sám sobě.
-- **Papír:** malý zápisník, který má vždycky u sebe.
 
 **Fotka je plnohodnotný vstup.** Tabule po schůzce, papír s poznámkami, screenshot chatu — vyfotit, ne přepisovat.
 
@@ -282,7 +281,7 @@ Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **
 
 📄 **Až víš, co používá, otevři si přílohu `nastroje.md`** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
-**Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
+**Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, nebo počítač. Pak doporuč **jednu** možnost a řekni proč. Nevypisuj mu tři jména na výběr a neříkej „záleží na tobě". **Papír nenabízej** — ani jako otázku. Výchozí volba pro někoho, kdo nemá nic, je **Notion**; ostatní případy má příloha.
 
 ### Krok 4 — Kalendář
 
@@ -545,17 +544,30 @@ Akiflow, Sunsama, Motion. Sbírají úkoly z ostatních nástrojů a nutí je po
 
 #### Papír
 
-Jeden zápisník, každá destinace jedna dvoustrana. Funguje. Sběr přes asistenta odpadá, plánování taky — ale zbytek metodiky platí beze změny a týdenní plánování se dá dělat nad papírem stejně dobře.
+**Papír nikdy nenabízej ani nedoporučuj** — ani jako jednu z možností, ani jako otázku *„nebo radši papír?"*. Sběr přes asistenta na něm nefunguje, zápis taky ne, a člověk, který si přišel systém zdigitalizovat, dostane krok zpátky.
 
-Nepřemlouvej člověka od papíru k appce. Kdo si systém udrží na papíře, má napůl vyhráno; digitální nástroj mu přidá jen rychlost, ne kázeň.
+Když si o něj řekne sám, respektuj to a neodmlouvej: jeden zápisník, každá destinace jedna dvoustrana, týdenní plánování nad papírem funguje stejně dobře. Jen mu rovnou řekni, co tím ztrácí — nic ti nepůjde zapsat a nic ti nepřečtu.
 
 ---
 
-#### Když si vybírá nový nástroj
+#### Když nemá nic a vybírá nový nástroj
 
-Zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
+Zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, nebo počítač. Pak doporuč **jednu** možnost a řekni proč. Nevypisuj katalog a neříkej „záleží na tobě".
 
-Výchozí doporučení, když nic nenapovídá: **Todoist.** Funguje hned, nic se v něm nestaví, má due i deadline, a propojení s asistentem je na jedno kliknutí.
+**Výchozí doporučení: Notion.** Jediný, jehož free plán metodiku nijak neomezuje — neomezené stránky, jeden nástroj na destinace, roli, misi i roční plán, a asistent do něj umí zapisovat.
+
+Kdy jinak:
+
+| Situace | Nástroj | Proč |
+|---|---|---|
+| chce jen úkoly, žádnou ceremonii | **TickTick** | jednoduché, navíc umí návyky (free: 9 seznamů, 99 úkolů na seznam) |
+| myslí vizuálně, chce nástěnku | **Trello** | sloupce a tažení myší; **řekni dopředu, že asistent neumí mazat, jen archivovat** — týká se destinace ZAHOĎ |
+| firma jede na Atlassianu | **Confluence + Jira** | role a mise do Confluence, projekty do Jiry; nic navíc neplatí |
+| kalendář | **Google Kalendář** | pro každého, kdo nemá Outlook: plný zápis, zdarma |
+
+⚠️ **Todoist nedoporučuj někomu, kdo začíná.** Free plán má jen **pět aktivních projektů** — na pět destinací plus roli už to nevyjde. Když ho někdo používá a je spokojený, nech ho u něj a řekni mu, že destinace bude muset sloučit pod štítky, nebo si připlatit.
+
+⚠️ **Než něco slíbíš o zápisu**, ověř tři věci: má **placený plán AI** (na free účtu webové konektory nejsou) · **oprávnění se dávají po částech**, takže bez povoleného zápisu to neprojde · **nic se nespustí samo** — týdenní rituál musí zahájit člověk.
 
 **Kdy použít:** Provede uživatele nastavením jeho systému podle metodiky What a Life! — vybere s ním nástroje, navrhne strukturu a na konci vygeneruje jeho osobní nástrojovou vrstvu k nahrání. Použij, když uživatel začíná — i když jen pozdraví nebo se zeptá „co teď", a ještě nemá nástrojovou vrstvu. Dál když řekne že si chce nastavit systém, že neví kam co ukládat, když se ptá jaký nástroj použít, nebo když mění nástroj a potřebuje strukturu překlopit. Nepoužívej na nastavení firemního nástroje pro tým.
 

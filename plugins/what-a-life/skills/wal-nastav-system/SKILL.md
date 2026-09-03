@@ -69,7 +69,6 @@ Zeptej se: *„Když tě něco napadne cestou z práce, kam to teď dáš?"* Pod
 
 - **Nejrychlejší dnes:** jedna konverzace s AI, kterou si člověk otevře kdykoli — utrousí větu, AI to zapíše do jeho systému. Když má AI přístup k jeho nástroji, padá to rovnou; když ne, sesbírá se to a přepíše najednou.
 - **Bez AI:** poznámková aplikace v telefonu, jedna. Nebo hlasovka sám sobě.
-- **Papír:** malý zápisník, který má vždycky u sebe.
 
 **Fotka je plnohodnotný vstup.** Tabule po schůzce, papír s poznámkami, screenshot chatu — vyfotit, ne přepisovat.
 
@@ -144,7 +143,7 @@ Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **
 
 📄 **Až víš, co používá, otevři si přílohu [`nastroje.md`](nastroje.md)** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
-**Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, počítač, papír. Pak doporuč **jednu** možnost a řekni proč. Neříkej „záleží na tobě".
+**Když nemá nic**, zeptej se na jedinou věc: **kde to bude nejčastěji otevírat** — mobil, nebo počítač. Pak doporuč **jednu** možnost a řekni proč. Nevypisuj mu tři jména na výběr a neříkej „záleží na tobě". **Papír nenabízej** — ani jako otázku. Výchozí volba pro někoho, kdo nemá nic, je **Notion**; ostatní případy má příloha.
 
 ## Krok 4 — Kalendář
 
