@@ -124,7 +124,13 @@ Kromě pěti destinací potřebuje místo ještě **jedna trvalá věc: role, mi
 
 Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **stránka nebo oblast** v Notionu · **vlastní projekt mimo pětici destinací** v Todoistu · vlastní poznámka v OneNote nebo Obsidianu · list v tabulce. Stejně jako roční plán (krok 5).
 
-Doporuč mu k tomu **kopii v instrukcích projektu** — bez ní podle rolí neumíš plánovat ty. Zapiš obojí do nástrojové vrstvy.
+Pojmenuj ho **přesně takhle**, ať ho příště najdeš:
+
+```
+What a Life! — role, mise a vize
+```
+
+**To místo mu založ a vyplň sám**, až budete role dělat — nenech ho opisovat text z chatu. Do nástrojové vrstvy zapiš, kde leží, a **seznam jmen rolí**: ta potřebuješ u každé položky při třídění. Plné znění mise a vizí do nástrojové vrstvy ani do instrukcí projektu nekopíruj — přečteš si je odtamtud, když je potřebuješ.
 
 📄 **Až víš, co používá, otevři si přílohu [`nastroje.md`](nastroje.md)** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 
@@ -170,26 +176,30 @@ Tohle nepřeskakuj. Je to jediná připomínka, kterou systém má, a musí být
 
 **Vypiš hotový text** podle kostry níže, vyplněný jeho odpověďmi. Žádné prázdné kolonky.
 
-### Předání — tady se to nejčastěji rozbije
+### Uložení — zapíšeš ho ty, ne on
 
-Nestačí text vypsat. **Uživatel nemá tušit, co s ním.** Když mu ho jen ukážeš, zavře okno a zítra je všechno pryč — a tobě ten text v příští konverzaci chybět bude.
+Nestačí text vypsat. Když ho jen ukážeš, uživatel zavře okno a zítra je všechno pryč — a tobě ten text v příští konverzaci chybět bude. **Ukládáš ho ty.**
 
-Napiš mu **návod, ne pobídku.** Přesně tohle, krok za krokem:
+**Ukaž návrh, nech ho projít, a po odsouhlasení ho zapiš** do jeho nástroje jako samostatnou položku s **přesně tímhle názvem**:
 
-> **Tenhle text si teď ulož — jinak ho zítra nebudu mít.**
->
+```
+What a Life! — nástrojová vrstva
+```
+
+Karta na nástěnce, stránka v Notionu, úkol s poznámkou v Todoistu — podle nástroje. **Název se nemění a nezkracuje.** Podle něj si ji příště sám najdeš; nic si nikam nevkládá a nic ti nemusí připomínat.
+
+Řekni mu pak jednou větou, kde to leží a že se do toho může kdykoli podívat a přepsat to. Až se něco změní — nový nástroj, jiný čas plánování — **přepíšeš tu položku ty**, ne on.
+
+**Když zápis neprojde** (chybí napojení, nepotvrzené svolení, papír), řekni to rovnou a teprve tehdy sáhni po ruční cestě:
+
 > 1. Zkopíruj **celý text nahoře** — od začátku po konec.
 > 2. Vlevo v projektu klikni na **Set project instructions** *(nebo „Upravit instrukce" — podle jazyka)*.
 > 3. **Přilep to na konec, pod text, který tam už je.** Ten text nahoře jsou moje instrukce — ty tam musí zůstat.
 > 4. Ulož a napiš mi sem „hotovo".
->
-> Je to jenom tvoje, nikomu se to neposílá.
 
-**Počkej, až potvrdí.** Neposílej ho rovnou na další krok. Když neodpoví nebo řekne, že neví jak, proveď ho tím ještě jednou — tohle je jediné místo celého nastavení, kde se výsledek buď uloží, nebo zahodí.
+**Ať už to skončí kdekoli, ověř to jednou otázkou**: *„Zkus se mě zeptat, kam si ukládáš úkoly — ať víme, že to sedí."* Když odpovíš správně, je hotovo. Tohle je jediné místo celého nastavení, kde se výsledek buď uloží, nebo zahodí — neposouvej se dál, dokud to nesedí.
 
-Až potvrdí, **ověř to jednou otázkou**: *„Zkus se mě zeptat, kam si ukládáš úkoly — ať víme, že to sedí."* Když odpovíš správně, je hotovo.
-
-> **Když jsi v prostředí, kde projekt s instrukcemi neexistuje** (běžný chat, Copilot), řekni mu, ať si ten text uloží k sobě — do poznámek, do souboru — a **vloží ho na začátek pokaždé, když si otevře novou konverzaci.** Je to horší, ale funguje to. A rovnou mu doporuč projekt, jestli ho jeho nástroj umí.
+> **Když jsi v prostředí, kde projekt s instrukcemi neexistuje** (běžný chat, Copilot) a zapsat to nemůžeš, řekni mu, ať si ten text uloží k sobě — do poznámek, do souboru — a **vloží ho na začátek pokaždé, když si otevře novou konverzaci.** Je to horší, ale funguje to.
 
 ```markdown
 # Moje nástrojová vrstva
@@ -210,7 +220,8 @@ Hlavní kalendář · propojený s AI ano/ne · kam patří bloky
 Týdenní plánování: kdy
 
 ## Role, mise a vize
-Kde to mám: vlastní místo v nástroji (ne destinace) · kopie v instrukcích projektu ano/ne
+Kde to mám: vlastní místo v nástroji (ne destinace) — agent tam zapisuje sám
+Moje role: [jména rolí, jeden řádek]
 
 ## Roční plán
 Kde žije · kdy se dělá

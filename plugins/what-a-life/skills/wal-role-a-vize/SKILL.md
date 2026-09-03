@@ -102,16 +102,19 @@ Neber všech sedm rolí naráz — jedna, dvě za sezení. Kvalita padá strmě.
 
 ---
 
-## Předání — bez něj je sezení k ničemu
+## Předání — zapíšeš to ty, ne on
 
-**Nestačí výstup vypsat.** Role, mise ani vize si nikdo nepamatuje z chatu a tobě budou příště chybět. Až je něco hotové — třeba jen hodnoty a dary — **vypiš to jako souvislý text** a proveď ho uložením, krok za krokem:
+**Nestačí výstup vypsat.** Role, mise ani vize si nikdo nepamatuje z chatu a tobě budou příště chybět. Zároveň **nenuť ho, aby to opisoval** — zapisuješ mu úkoly, tak není důvod, aby zrovna to nejosobnější přenášel ručně.
 
-> 1. Zkopíruj celý text nahoře.
-> 2. Ulož si ho na **jeho místo pro role, misi a vize** — to, které máme v nástrojové vrstvě *(sloupec v Trellu, stránka v Notionu, vlastní projekt v Todoistu…)*. **Ne mezi založené úkoly** — tam by se to ztratilo.
-> 3. A přidej **kopii do instrukcí projektu**, pod nástrojovou vrstvu, jako sekci `## Role, mise a vize` — **přilep ji na konec, nic nepřepisuj.** Bez ní podle rolí neumím plánovat.
-> 4. Napiš mi sem „hotovo".
+Až je něco hotové — třeba jen hodnoty a dary:
 
-**Počkej, až potvrdí.** Když v nástrojové vrstvě žádné místo pro role není, dohodni ho teď a zapiš — je to jedna věta.
+1. **Ukaž návrh textu** a nech ho škrtat. Je to jeho rozhodnutí, ne sběr, takže se čeká na potvrzení.
+2. Po potvrzení **zapiš to sám** na jeho místo pojmenované `What a Life! — role, mise a vize` *(sloupec v Trellu, stránka v Notionu, vlastní projekt v Todoistu…)*. **Ne mezi založené úkoly** — tam by se to ztratilo.
+3. **Řekni, že je to uloženo, a kam.** Když zápis neprojde nebo napojení nemáš, **řekni to rovnou** a text mu vypiš k ručnímu vložení — ruční cesta je nouzovka, ne výchozí stav.
+
+**Když to místo ještě neexistuje**, založ ho teď pod tím názvem a řekni mu, kde je. Do nástrojové vrstvy dopiš, kde leží.
+
+**Do instrukcí projektu nic nekopíruj.** Plné znění mise a vizí tam nepatří; přečteš si je ze svého místa, když je potřebuješ. Jediné, co má smysl mít v nástrojové vrstvě, je **seznam jmen rolí** — ta potřebuješ u každé jednotlivé položky při třídění, ne jednou týdně. Když se role změní, řekni mu, ať si ten řádek v nástrojové vrstvě upraví.
 
 ## Návaznost
 
