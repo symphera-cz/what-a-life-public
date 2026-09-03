@@ -109,10 +109,10 @@ Neber všech sedm rolí naráz — jedna, dvě za sezení. Kvalita padá strmě.
 Až je něco hotové — třeba jen hodnoty a dary:
 
 1. **Ukaž návrh textu** a nech ho škrtat. Je to jeho rozhodnutí, ne sběr, takže se čeká na potvrzení.
-2. Po potvrzení **zapiš to sám** na jeho místo pojmenované `What a Life! — role, mise a vize` *(sloupec v Trellu, stránka v Notionu, vlastní projekt v Todoistu…)*. **Ne mezi založené úkoly** — tam by se to ztratilo.
+2. Po potvrzení **zapiš to sám** na jeho místo pro role, misi a vize — **to, které máš zapsané v nástrojové vrstvě.** Neprohledávej mu nástroje; když tam to místo zapsané není, zeptej se. **Ne mezi založené úkoly** — tam by se to ztratilo.
 3. **Řekni, že je to uloženo, a kam.** Když zápis neprojde nebo napojení nemáš, **řekni to rovnou** a text mu vypiš k ručnímu vložení — ruční cesta je nouzovka, ne výchozí stav.
 
-**Když to místo ještě neexistuje**, založ ho teď pod tím názvem a řekni mu, kde je. Do nástrojové vrstvy dopiš, kde leží.
+**Když to místo ještě neexistuje**, zeptej se, jestli už něco takového nemá; když ne, založ ho a řekni mu, kde je. Do nástrojové vrstvy dopiš, kde leží.
 
 **Do instrukcí projektu nic nekopíruj.** Plné znění mise a vizí tam nepatří; přečteš si je ze svého místa, když je potřebuješ. Jediné, co má smysl mít v nástrojové vrstvě, je **seznam jmen rolí** — ta potřebuješ u každé jednotlivé položky při třídění, ne jednou týdně. Když se role změní, řekni mu, ať si ten řádek v nástrojové vrstvě upraví.
 
