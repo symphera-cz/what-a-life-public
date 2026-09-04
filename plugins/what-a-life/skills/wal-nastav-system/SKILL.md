@@ -117,10 +117,11 @@ Když má dvě, platí:
 
 ## Krok 3 — Kde systém žije
 
-Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
+**Struktura je schránka a pět destinací** (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
-| Destinace | Co to v nástroji je |
+| Co | Co to v nástroji je |
 |---|---|
+| **SCHRÁNKA** | **první místo, kam všechno padá.** Není to destinace — je to čekárna na rozhodnutí. **Nikdy ji nevynechávej:** bez ní nemá kam přistát vysypání hlavy, režim „jen zakládej" ani přepínač „založ", a člověk je nucený rozhodovat ve chvíli, kdy na to nemá hlavu. Sběr jde vždycky sem, třídí se až potom. |
 | **PRIORITIZUJ** | seznam úkolů — **jedna stránka, ideálně do deseti aktivních položek** |
 | **PROJEKT** | seznam projektů |
 | **DELEGUJ** | seznam „Čekám na" |
@@ -129,7 +130,7 @@ Pět destinací potřebuje místo (ZAHOĎ a UDĚLEJ HNED nezanechají záznam):
 
 *„Já se na jedné stránce podívám a vím, co mám nevyřízeného. Už od těch deseti a víc je to pro mozek hrozně nekomfortní."*
 
-**Namapuj to na nástroj, který má** — ne naopak. Pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
+**Namapuj to na nástroj, který má** — ne naopak. Schránku a pět destinací unese skoro každý nástroj: projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"**.
 
 ### Role, mise a vize mají vlastní místo — ne destinaci
 
@@ -140,6 +141,8 @@ Vlastní místo v tom samém nástroji: **sloupec** na nástěnce v Trellu · **
 **Když už nějaké má** — sloupec, stránku, sešit — vezmi to a nepřejmenovávej. Když ho zakládáš ty, pojmenuj ho `Role, mise a vize`. Tak jako tak si **zapiš do nástrojové vrstvy, kde přesně leží**; příště se tam podíváš rovnou a nebudeš nic hledat.
 
 **To místo mu založ a vyplň sám**, až budete role dělat — nenech ho opisovat text z chatu. Do nástrojové vrstvy zapiš, kde leží, a **seznam jmen rolí**: ta potřebuješ u každé položky při třídění. Plné znění mise a vizí do nástrojové vrstvy ani do instrukcí projektu nekopíruj — přečteš si je odtamtud, když je potřebuješ.
+
+**Co můžeš založit sám, zakládej sám.** Když do jeho nástroje umíš zapisovat, **ukaž návrh struktury, nech si ho odsouhlasit a založ ji.** Posílat člověka, ať sám šestkrát klikne na „přidat sloupec", je práce navíc, kterou za něj máš udělat. Klikací návod krok za krokem je **nouzovka** pro případ, kdy propojení nemáš nebo zápis neprojde — a tehdy to řekni nahlas: *„do tohohle zatím nevidím, tak to naklikáme spolu."*
 
 📄 **Až víš, co používá, otevři si přílohu [`nastroje.md`](nastroje.md)** — tahle jedna výjimka je součástí postupu a otevřít ji můžeš. Je tam u každého běžného nástroje tvar dat, hotový návrh struktury a pasti, které se u něj vyplatí zmínit — Trello, Todoist, Notion, Microsoft To Do, Google Tasks, Asana, ClickUp, Obsidian, papír a nástroje, které se k asistentovi napojit nedají. Ber odtamtud **jen ten jeden nástroj**, kterého se to týká; nevypisuj mu katalog.
 

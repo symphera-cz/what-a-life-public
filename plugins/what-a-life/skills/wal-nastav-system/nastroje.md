@@ -8,7 +8,7 @@ Zdroj: interní rešerše konektorů, září 2026. Údaje o dostupnosti zastar�
 
 ## Zásada, která platí u všech
 
-**Pět destinací unese skoro každý nástroj.** Projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"** — kolik úrovní, kam přijdou role, jestli existuje odložení bez data.
+**Schránka a pět destinací unese skoro každý nástroj.** Schránka je v každé tabulce níž první — je to místo, kam padá sběr, a **nikdy se nevynechává**; bez ní se člověk musí rozhodovat ve chvíli, kdy věc zachytává. Projekt jménem ZALOŽ nebo sloupec ZALOŽ na nástěnce funguje všude. Otázka nikdy nezní „vejde se to tam", ale **„jak to tam bude vypadat"** — kolik úrovní, kam přijdou role, jestli existuje odložení bez data.
 
 Takže: **nepřesvědčuj nikoho, aby změnil nástroj.** Vezmi ten, co má, a namapuj na něj metodiku. Nový nástroj navrhuj jen tehdy, když sám řekne, že žádný nemá nebo že mu ten současný nefunguje.
 
@@ -24,8 +24,9 @@ Takže: **nepřesvědčuj nikoho, aby změnil nástroj.** Vezmi ten, co má, a n
 
 Návrh struktury:
 
-| Destinace | Kam |
+| Co | Kam |
 |---|---|
+| SCHRÁNKA | Inbox (Todoist ho má vestavěný) |
 | PRIORITIZUJ | projekt `Udělat` — a hlídej těch deset položek |
 | PROJEKT | projekt `Projekty`, jeden úkol = jeden projekt, příští akce jako podúkol |
 | DELEGUJ | štítek `@cekam` a uložený filtr |
@@ -98,7 +99,11 @@ Firemní a vývojářské. Pro osobní life management je nepoužívej, i když 
 
 Návrh: **jedna databáze**, vlastnosti `Destinace`, `Role`, `Projekt`, `Termín`. Destinace nejsou složky, jsou to pohledy — filtr na hodnotu. Roční plán jako samostatná stránka.
 
-⚠️ **Notion je past pro toho, kdo si systém rád staví.** Nejčastější výsledek je opuštěná databáze po třech týdnech. Když uživatel Notion nemá a ptá se, co si pořídit, **nedoporučuj mu ho** — doporuč něco, co funguje hned po instalaci. Když ho už má a používá, je to naopak dobrá volba.
+⚠️ **Notion je past pro toho, kdo si systém rád staví.** Nejčastější výsledek je opuštěná databáze po třech týdnech.
+
+Proto platí: **Notion doporučuj, ale strukturu v něm postav ty.** Nikdy neposílej člověka, ať si ji navrhne sám — ukaž hotový návrh, nech si ho odsouhlasit a založ ho. Když si o něm začne povídat jako o projektu („a co kdybych si tam ještě přidal…"), zastav to jednou větou: *„Nech to takhle měsíc. Až uvidíš, co ti chybí, doděláme to."*
+
+Návrh při zakládání od nuly: **jedna stránka `Život`** a v ní **databáze** s vlastností `Destinace` — schránka a pět destinací jako hodnoty, ne jako podstránky. Podstránky vypadají jednodušeji, ale nejde v nich nic filtrovat ani přesouvat mezi destinacemi. Vedle databáze jedna stránka na role, misi a vize a jedna na roční plán.
 
 ### Airtable
 
